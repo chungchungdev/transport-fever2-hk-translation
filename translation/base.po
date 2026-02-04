@@ -3507,7 +3507,7 @@ msgid "Publishing..."
 msgstr "發布中..."
 
 msgid "Quality"
-msgstr "質素"
+msgstr "生活質素"
 
 msgid "Quality of life in {townName}"
 msgstr "在 {townName} 的生活質素"
