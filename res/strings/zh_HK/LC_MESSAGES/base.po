@@ -2,7 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TransportFever\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-12-05 17:15+0100\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-02-03 16:05+0800\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: zh_TW\n"
@@ -10,10 +11,10 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 3.5\n"
+"X-Generator: Poedit 3.8\n"
 
 msgid "  - activate your dedicated graphics card (if available)"
-msgstr "  - 啟動獨立顯示卡 (若有安裝)"
+msgstr "  - 啟動獨立顯示卡 (如有)"
 
 msgid "  - install the latest graphics drivers"
 msgstr "  - 安裝最新的顯示卡驅動程式"
@@ -75,12 +76,12 @@ msgstr[0] "%1% 月"
 msgstr[1] "%1% 月"
 
 msgid "%1% per vehicle"
-msgstr "每一載具 %1%"
+msgstr "每架載具 %1%"
 
 msgid "%1% signal will be removed"
 msgid_plural "%1% signals will be removed"
-msgstr[0] "將移除 %1% 號誌"
-msgstr[1] "將移除 %1% 號誌"
+msgstr[0] "將移除 %1% 信號燈"
+msgstr[1] "將移除 %1% 信號燈"
 
 msgid "%1% stop will be removed"
 msgid_plural "%1% stops will be removed"
@@ -106,7 +107,7 @@ msgid "%1%, %2%"
 msgstr "%1%，%2%"
 
 msgid "%1%/m²"
-msgstr "%1%/平方公尺"
+msgstr "%1%/平方米"
 
 msgid "%1%/year"
 msgstr "%1%/年"
@@ -118,7 +119,7 @@ msgid "%1%: %2% (in %3% or %4%)"
 msgstr "%1%：%2% (在 %3% 內或 %4% 中)"
 
 msgid "%1%m to %2%m"
-msgstr "%1%公尺到%2%公尺"
+msgstr "%1%米到%2%米"
 
 msgid "%d"
 msgstr "%d"
@@ -132,13 +133,13 @@ msgid "%d for having a fast vehicle"
 msgstr "擁有快速載具可獲得 %d"
 
 msgid "%d for having a profit of at least $10M"
-msgstr "獲得大於 $1000 萬利潤可獲得 %d"
+msgstr "累積超過 $1000 萬利潤可獲得 %d"
 
 msgid "%d for having a very long vehicle"
 msgstr "擁有超長載具可獲得 %d"
 
 msgid "%d for having transported at least 100000 passengers"
-msgstr "載運超過 10萬名旅客可獲得 %d 分"
+msgstr "載運超過 10萬名乘客可獲得 %d 分"
 
 msgid "%d for having transported at least 100000 units of cargo"
 msgstr "運輸超過 10萬件貨物可獲得 %d 分"
@@ -318,10 +319,10 @@ msgstr "AGC"
 msgid ""
 "Abandoned industry! Closes forever and disappears from the map if not "
 "operational within %1%"
-msgstr "產業已棄置！若未在%1%內運作，則永久關閉並從地圖上消失"
+msgstr "荒廢產業！若未在%1%內運作，則永久關閉並從地圖上消失"
 
 msgid "Abandoned industry! Closes in %1%."
-msgstr "產業已棄置！將於%1%後關閉。"
+msgstr "荒廢產業！將於%1%後關閉。"
 
 msgid "Abort"
 msgstr "終止"
@@ -337,24 +338,24 @@ msgstr "帳戶"
 
 msgid ""
 "Accumulate a fortune of 1 billion (without debt) in free game with hard mode."
-msgstr "在自由遊戲的困難模式下積累 10 億的財富 (無債務)。"
+msgstr "在自由遊戲的困難模式下累積 10 億的財富 (無債務)。"
 
 msgid "Accumulate a fortune of 1 billion (without debt) in free game."
-msgstr "在自由遊戲中積累 10 億的財富 (無債務)。"
+msgstr "在自由遊戲中累積 10 億的財富 (無債務)。"
 
 msgid "Accumulate a fortune of 1 million (without debt) in free game."
-msgstr "在自由遊戲中積累 1 百萬的財富 (無債務)。"
+msgstr "在自由遊戲中累積 1 百萬的財富 (無債務)。"
 
 msgid "Accumulate a fortune of 10 millions (without debt) in free game."
-msgstr "在自由遊戲中積累 1 千萬的財富 (無債務)。"
+msgstr "在自由遊戲中累積 1 千萬的財富 (無債務)。"
 
 msgid ""
 "Accumulate a fortune of 100 millions (without debt) in free game with hard "
 "mode."
-msgstr "在自由遊戲的困難模式下積累 1 億的財富 (無債務)。"
+msgstr "在自由遊戲的困難模式下累積 1 億的財富 (無債務)。"
 
 msgid "Accumulate a fortune of 100 millions (without debt) in free game."
-msgstr "在自由遊戲中積累 1 億的財富 (無債務)。"
+msgstr "在自由遊戲中累積 1 億的財富 (無債務)。"
 
 msgid "Actions"
 msgstr "行動"
@@ -402,7 +403,7 @@ msgid "Age"
 msgstr "使用期限"
 
 msgid "Air"
-msgstr "空氣"
+msgstr "空路"
 
 msgid "Aircraft"
 msgid_plural "Aircraft"
@@ -422,7 +423,7 @@ msgid "All cargo"
 msgstr "所有貨物"
 
 msgid "All locomotives"
-msgstr "所有火車頭"
+msgstr "所有鐵路機車"
 
 msgid "All missions completed!"
 msgstr "所有任務已完成！"
@@ -457,7 +458,7 @@ msgstr "美國載具"
 
 msgid ""
 "An integrated graphic chip is active. For best performance, make sure to:"
-msgstr "集成的圖形卡處於活動狀態。為了達到最佳效能，請確保："
+msgstr "正在使用內置顯示卡。為了達到最佳效能，請確保："
 
 msgid "Angle: {angle}°"
 msgstr "角度：{angle}°"
@@ -487,7 +488,7 @@ msgid "Apply the settings and close"
 msgstr "套用設定並且關閉"
 
 msgid "Approximate annual throughput per station"
-msgstr "每個車站每年大概的流通量"
+msgstr "每個車站每年大概的吞吐量"
 
 msgid "Are you sure you want to log out?"
 msgstr "確定要登出嗎？"
@@ -566,7 +567,7 @@ msgid ""
 msgstr "{townName} 的居民可使用的平均購物設施與工作數量"
 
 msgid "BONUS TASKS"
-msgstr "獎勵差事"
+msgstr "獎勵任務"
 
 msgid "Back"
 msgstr "返回"
@@ -617,10 +618,10 @@ msgid "Bob Ross"
 msgstr "鮑伯·魯斯"
 
 msgid "Bonus task completed"
-msgstr "獎勵差事已完成"
+msgstr "獎勵任務已完成"
 
 msgid "Bonus tasks"
-msgstr "獎勵差事"
+msgstr "獎勵任務"
 
 msgid "Borderless"
 msgstr "無邊框"
@@ -644,7 +645,7 @@ msgid "Build"
 msgstr "建造"
 
 msgid "Build a bus stop in free game."
-msgstr "在自由遊戲中建造一個公車停靠站。"
+msgstr "在自由遊戲中建造一個巴士停靠站。"
 
 msgid "Build a passenger train station in free game."
 msgstr "在自由遊戲中建造一個列車客運站。"
@@ -680,28 +681,28 @@ msgid "Bulldozer"
 msgstr "推土機"
 
 msgid "Bus"
-msgstr "公車"
+msgstr "巴士"
 
 msgid "Bus and tram stops"
-msgstr "公車與輕軌電車停靠站"
+msgstr "巴士與輕軌電車停靠站"
 
 msgid "Bus lane"
-msgstr "公車車道"
+msgstr "巴士車道"
 
 msgid "Bus lane tool"
-msgstr "公車車道工具"
+msgstr "巴士車道工具"
 
 msgid "Bus/Tram station"
-msgstr "公車/輕軌電車站"
+msgstr "巴士/輕軌電車站"
 
 msgid "Bus/truck not compatible"
-msgstr "公車/貨車不適用"
+msgstr "巴士/貨車不適用"
 
 msgid "Buy"
 msgstr "購買"
 
 msgid "Buy a bus and run a line in free game."
-msgstr "在自由遊戲中購買一輛公車並營運一條路線。"
+msgstr "在自由遊戲中購買一輛巴士並營運一條路線。"
 
 msgid "Buy a ship and run a line in free game."
 msgstr "在自由遊戲中購買一艘船並營運一條路線。"
@@ -1144,7 +1145,7 @@ msgstr[0] "為選擇的載具安排維修"
 msgstr[1] "為選擇的載具安排維修"
 
 msgid "Confirm decommission"
-msgstr "確認除役"
+msgstr "確認退役"
 
 msgid "Confirm delete?"
 msgstr "確定要刪除嗎？"
@@ -1477,7 +1478,7 @@ msgid "Diesel Train"
 msgstr "柴油列車"
 
 msgid "Diesel locomotives"
-msgstr "柴油火車頭"
+msgstr "柴油鐵路機車"
 
 msgid "Diesel multiple units"
 msgstr "柴油列車組"
@@ -1607,7 +1608,7 @@ msgid "Electric Train"
 msgstr "電力列車"
 
 msgid "Electric locomotives"
-msgstr "電動火車頭"
+msgstr "電動鐵路機車"
 
 msgid "Electric multiple units"
 msgstr "電動列車組"
@@ -1855,10 +1856,10 @@ msgid "First aircraft arrived"
 msgstr "第一輛飛機已到達"
 
 msgid "First bus arrived"
-msgstr "第一輛公車已到達"
+msgstr "第一輛巴士已到達"
 
 msgid "First bus stop"
-msgstr "第一個公車停靠站"
+msgstr "第一個巴士停靠站"
 
 msgid "First cargo item on board"
 msgstr "運送第一件貨物"
@@ -2065,7 +2066,7 @@ msgid "HUD: Toggle aircraft"
 msgstr "HUD：切換飛機"
 
 msgid "HUD: Toggle bus/tram stops"
-msgstr "HUD：切換公車/輕軌電車停靠站"
+msgstr "HUD：切換巴士/輕軌電車停靠站"
 
 msgid "HUD: Toggle costs labels"
 msgstr "HUD：切換成本標誌"
@@ -2089,7 +2090,7 @@ msgid "HUD: Toggle ships"
 msgstr "HUD：切換船隻"
 
 msgid "HUD: Toggle signals"
-msgstr "HUD：切換號誌"
+msgstr "HUD：切換信號燈"
 
 msgid "HUD: Toggle stations"
 msgstr "HUD：切換車站"
@@ -2147,7 +2148,7 @@ msgid "Have a train longer than the longest possible station in free game."
 msgstr "在自由遊戲中讓一輛列車比最長的車站還長。"
 
 msgid "Have a train that reaches higher than 450 meters in free game."
-msgstr "在自由遊戲中讓一輛列車到達海拔 450 公尺以上的地方。"
+msgstr "在自由遊戲中讓一輛列車到達海拔 450 米以上的地方。"
 
 msgid ""
 "Have all tracks electrified and high speed in free game. Have at least 100km "
@@ -2346,7 +2347,7 @@ msgstr[0] "組態無效，%1% 模組將會衝突。"
 msgstr[1] "組態無效，%1% 模組將會衝突。"
 
 msgid "Invalid terminals"
-msgstr "無效端子"
+msgstr "無效總站"
 
 msgid "Inventory"
 msgstr "庫存"
@@ -2616,7 +2617,7 @@ msgid "Locate"
 msgstr "定位"
 
 msgid "Locomotives"
-msgstr "火車頭"
+msgstr "鐵路機車"
 
 msgid "Logging Out"
 msgstr "正在登出"
@@ -2936,7 +2937,7 @@ msgid "N/A"
 msgstr "無"
 
 msgid "NEW_GAME_TAKING_TOO_LONG_STR"
-msgstr "地圖初始化需要更長的時間。 比賽很快就要開始了。"
+msgstr "地圖初始化需時較長。 遊戲很快就開始。"
 
 msgid "Name"
 msgstr "名稱"
@@ -3034,7 +3035,7 @@ msgstr ""
 "無地圖可用．\n"
 "\n"
 "可以使用地圖編輯器創建地圖或\n"
-"從Steam 工作坊下載地圖．"
+"從Steam工作坊下載地圖．"
 
 msgid ""
 "No maps available.\n"
@@ -3235,7 +3236,7 @@ msgid "Open vehicle store to buy vehicles"
 msgstr "開啟載具商店以購買載具"
 
 msgid "Open vehicle window on purchase"
-msgstr "購買載具時將車窗打開"
+msgstr "購買載具時打開載具視窗"
 
 msgid "OpenGL"
 msgstr "OpenGL"
@@ -4043,7 +4044,7 @@ msgid "Ship {number}"
 msgstr "船隻 {number}"
 
 msgid "Shipment"
-msgstr "船隻"
+msgstr "出貨"
 
 msgid "Shipped"
 msgstr "已運送"
@@ -4214,7 +4215,7 @@ msgid "Show/hide track modification tools menu"
 msgstr "顯示/隱藏軌道修改工具選單"
 
 msgid "Show/hide track signals menu"
-msgstr "顯示/隱藏軌道號誌選單"
+msgstr "顯示/隱藏軌道信號燈選單"
 
 msgid "Show/hide track speed limits layer"
 msgstr "顯示/隱藏軌道限速圖層"
@@ -4250,13 +4251,13 @@ msgid "Sign-In Error"
 msgstr "登入錯誤"
 
 msgid "Signal #{number}"
-msgstr "號誌 #{number}"
+msgstr "信號燈 #{number}"
 
 msgid "Signals"
-msgstr "號誌"
+msgstr "信號燈"
 
 msgid "Signals must be removed first"
-msgstr "必須先移除號誌"
+msgstr "必須先移除信號燈"
 
 msgid "Single"
 msgstr "單一"
@@ -4372,7 +4373,7 @@ msgid "Station statistics"
 msgstr "車站數據"
 
 msgid "Station types don't match (e.g. bus stop and train station)"
-msgstr "車站類型不符 (例如：公車停靠站與列車站)"
+msgstr "車站類型不符 (例如：巴士停靠站與列車站)"
 
 msgid "Stations"
 msgstr "車站"
@@ -4402,7 +4403,7 @@ msgid "Steam Workshop"
 msgstr "Steam 工作坊"
 
 msgid "Steam locomotives"
-msgstr "蒸氣火車頭"
+msgstr "蒸氣鐵路機車"
 
 msgid "Steam multiple units"
 msgstr "蒸氣列車組"
@@ -4600,7 +4601,7 @@ msgid "The name of the resident"
 msgstr "居民名稱"
 
 msgid "The name of the signal"
-msgstr "號誌名稱"
+msgstr "信號燈名稱"
 
 msgid "The name of the station"
 msgstr "車站名稱"
@@ -4639,7 +4640,7 @@ msgid "The station is not connected to a street."
 msgstr "車站沒有連接到街道。"
 
 msgid "The total growth"
-msgstr "總成長"
+msgstr "總增長"
 
 msgid "The ugly smell of success"
 msgstr "成功的銅臭味"
@@ -4727,7 +4728,7 @@ msgid ""
 msgstr "切換按鈕即可跳到路徑的第一個中斷點。"
 
 msgid "Toggle traffic light"
-msgstr "切換交通號誌燈"
+msgstr "切換交通燈"
 
 msgid "Too much curvature"
 msgstr "曲率過大"
@@ -4815,10 +4816,10 @@ msgid "Traffic"
 msgstr "交通"
 
 msgid "Traffic light control tool"
-msgstr "交通號誌燈控制工具"
+msgstr "交通燈控制工具"
 
 msgid "Traffic lights"
-msgstr "交通號誌燈"
+msgstr "交通燈"
 
 msgid "Train"
 msgid_plural "Trains"
@@ -4832,7 +4833,7 @@ msgid "Train depot"
 msgstr "列車車庫"
 
 msgid "Train does not have a locomotive"
-msgstr "列車缺少火車頭"
+msgstr "列車缺少鐵路機車"
 
 msgid "Train {number}"
 msgstr "列車 {number}"
@@ -5007,10 +5008,10 @@ msgid "Upgrade"
 msgstr "升級"
 
 msgid "Upgrade streets with bus lanes."
-msgstr "以公車車道升級街道。"
+msgstr "以巴士車道升級街道。"
 
 msgid "Upgrade streets with traffic lights."
-msgstr "以交通號誌燈升級街道。"
+msgstr "以交通燈升級街道。"
 
 msgid "Upgrade streets with tram tracks."
 msgstr "以輕軌電車軌道升級街道。"
@@ -5177,7 +5178,7 @@ msgid "Vulkan"
 msgstr "Vulkan"
 
 msgid "Wagons"
-msgstr "馬車"
+msgstr "鐵路車輛"
 
 msgid "Wait"
 msgstr "等待"
@@ -5207,7 +5208,7 @@ msgid "Warnings"
 msgstr "警告"
 
 msgid "Water"
-msgstr "水"
+msgstr "水路"
 
 msgid "Water level:"
 msgstr "水位："
@@ -5328,7 +5329,7 @@ msgstr "困難"
 
 msgctxt "difficulty"
 msgid "Medium"
-msgstr "中型"
+msgstr "普通"
 
 msgctxt "difficulty"
 msgid "Very hard"
@@ -5336,11 +5337,11 @@ msgstr "非常困難"
 
 msgctxt "distance-unit"
 msgid "Feet"
-msgstr "英尺"
+msgstr "呎"
 
 msgctxt "distance-unit"
 msgid "Mile"
-msgstr "英里"
+msgstr "哩"
 
 msgctxt "distance-unit"
 msgid "Yard"
@@ -5352,7 +5353,7 @@ msgstr "公里"
 
 msgctxt "distance-unit"
 msgid "m"
-msgstr "公尺"
+msgstr "米"
 
 msgctxt "force-unit"
 msgid "kN"
@@ -5360,11 +5361,11 @@ msgstr "千牛頓"
 
 msgctxt "force-unit"
 msgid "kgf"
-msgstr "公斤重"
+msgstr "公斤-力"
 
 msgctxt "force-unit"
 msgid "lbf"
-msgstr "磅重"
+msgstr "磅-力"
 
 msgid "from %1%"
 msgstr "從 %1%"
@@ -5391,11 +5392,11 @@ msgstr "4x"
 
 msgctxt "graphic-settings"
 msgid "Performance"
-msgstr "表現"
+msgstr "效能"
 
 msgctxt "graphic-settings"
 msgid "Quality"
-msgstr "質量"
+msgstr "畫質"
 
 msgctxt "main station name"
 msgid "{townName}"
@@ -5489,11 +5490,11 @@ msgstr "建築"
 
 msgctxt "mod-tags"
 msgid "Bus"
-msgstr "公車"
+msgstr "巴士"
 
 msgctxt "mod-tags"
 msgid "Bus Station"
-msgstr "公車站"
+msgstr "巴士站"
 
 msgctxt "mod-tags"
 msgid "Campaign"
@@ -5533,7 +5534,7 @@ msgstr "本地化"
 
 msgctxt "mod-tags"
 msgid "Locomotive"
-msgstr "火車頭"
+msgstr "鐵路機車"
 
 msgctxt "mod-tags"
 msgid "Map"
@@ -5601,7 +5602,7 @@ msgstr "船廠"
 
 msgctxt "mod-tags"
 msgid "Signal"
-msgstr "號誌"
+msgstr "信號燈"
 
 msgctxt "mod-tags"
 msgid "Sound"
@@ -5876,7 +5877,7 @@ msgstr "千瓦"
 
 msgctxt "settings"
 msgid "Basics"
-msgstr "基礎"
+msgstr "基本"
 
 msgctxt "settings"
 msgid "Localization"
@@ -5896,11 +5897,11 @@ msgstr "中型"
 
 msgctxt "speed-unit"
 msgid "km/h"
-msgstr "公里/小時"
+msgstr "km/h"
 
 msgctxt "speed-unit"
 msgid "mph"
-msgstr "英里/小時"
+msgstr "mph"
 
 msgctxt "stats"
 msgid "Bulldozer"
@@ -5920,7 +5921,7 @@ msgstr "道路"
 
 msgctxt "stats"
 msgid "Signals"
-msgstr "號誌"
+msgstr "信號燈"
 
 msgctxt "stats"
 msgid "Stations"
@@ -6034,16 +6035,16 @@ msgid "{costs} + {percentage}% (Maintenance)"
 msgstr "{costs} + {percentage}% (維修)"
 
 msgid "{distance} ft"
-msgstr "{distance} 英尺"
+msgstr "{distance} 呎"
 
 msgid "{distance} km"
 msgstr "{distance} 公里"
 
 msgid "{distance} m"
-msgstr "{distance} 公尺"
+msgstr "{distance} 米"
 
 msgid "{distance} mi"
-msgstr "{distance} 英里"
+msgstr "{distance} 哩"
 
 msgid "{distance} yd"
 msgstr "{distance} 碼"
@@ -6052,10 +6053,10 @@ msgid "{force} kN"
 msgstr "{force} 千牛頓"
 
 msgid "{force} kgf"
-msgstr "{force} 公斤重"
+msgstr "{force} 公斤-力"
 
 msgid "{force} lbf"
-msgstr "{force} 磅重"
+msgstr "{force} 磅-力"
 
 msgid "{framerate} fps"
 msgstr "{framerate} 每秒幀數"
@@ -6174,10 +6175,10 @@ msgid "{seconds} s"
 msgstr "{seconds} 秒"
 
 msgid "{speed} km/h"
-msgstr "{speed} 公里/小時"
+msgstr "{speed} km/h"
 
 msgid "{speed} mph"
-msgstr "{speed} 英里/小時"
+msgstr "{speed} mph"
 
 msgid "{steepness}: not enough power!"
 msgstr "{steepness}：動力不足！"
@@ -6228,7 +6229,7 @@ msgid "{townName} Sidings"
 msgstr "{townName} 側線"
 
 msgid "{townName} Signal #{number}"
-msgstr "{townName} 號誌 #{number}"
+msgstr "{townName} 信號燈 #{number}"
 
 msgid "{townName} South"
 msgstr "{townName} 南"

@@ -2,7 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TransportFever\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2024-08-22 11:14+0200\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-02-03 13:48+0800\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: zh_TW\n"
@@ -12,7 +13,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Language: zh_TW\n"
 "X-Source-Language: de_DE\n"
-"X-Generator: Poedit 3.4.4\n"
+"X-Generator: Poedit 3.8\n"
 
 msgid " (with catenary)"
 msgstr " (帶有高架電車線)"
@@ -27,10 +28,10 @@ msgid "${value}"
 msgstr "${value}"
 
 msgid "${value} m"
-msgstr "${value} 公尺"
+msgstr "${value} 米"
 
 msgid "%s m"
-msgstr "%s 公尺"
+msgstr "%s 米"
 
 msgid "(Hold) Force paint"
 msgstr "（按住）強制覆蓋材質"
@@ -48,19 +49,19 @@ msgid "1"
 msgstr "1"
 
 msgid "1 m"
-msgstr "1 公尺"
+msgstr "1 米"
 
 msgid "100 m x 50 m platform."
-msgstr "100 公尺 x 50 公尺平台。"
+msgstr "100 米 x 50 米平台。"
 
 msgid "100%"
 msgstr "100%"
 
 msgid "10m"
-msgstr "10 公尺"
+msgstr "10 米"
 
 msgid "120m"
-msgstr "120 公尺"
+msgstr "120 米"
 
 msgid "125%"
 msgstr "125%"
@@ -69,7 +70,7 @@ msgid "150%"
 msgstr "150%"
 
 msgid "160m"
-msgstr "160 公尺"
+msgstr "160 米"
 
 msgid "175%"
 msgstr "175%"
@@ -81,16 +82,16 @@ msgid "2 cargo types"
 msgstr "2 種貨物類型"
 
 msgid "2 m"
-msgstr "2 公尺"
+msgstr "2 米"
 
 msgid "200%"
 msgstr "200%"
 
 msgid "20m"
-msgstr "20 公尺"
+msgstr "20 米"
 
 msgid "240m"
-msgstr "240 公尺"
+msgstr "240 米"
 
 msgid "25%"
 msgstr "25%"
@@ -99,13 +100,13 @@ msgid "3"
 msgstr "3"
 
 msgid "3 m"
-msgstr "3 公尺"
+msgstr "3 米"
 
 msgid "30m"
-msgstr "30 公尺"
+msgstr "30 米"
 
 msgid "320m"
-msgstr "320 公尺"
+msgstr "320 米"
 
 msgid "4"
 msgstr "4"
@@ -117,7 +118,7 @@ msgid "5"
 msgstr "5"
 
 msgid "50 m x 50 m platform."
-msgstr "50 公尺 x 50 公尺平台。"
+msgstr "50 米 x 50 米平台。"
 
 msgid "50%"
 msgstr "50%"
@@ -135,7 +136,7 @@ msgid "8"
 msgstr "8"
 
 msgid "80m"
-msgstr "80 公尺"
+msgstr "80 米"
 
 msgid "A bench."
 msgstr "一張長椅。"
@@ -302,7 +303,7 @@ msgid "Bristlecone pine"
 msgstr "狐尾松"
 
 msgid "Broom snakeweed"
-msgstr "帚狀拳參"
+msgstr "蛇草"
 
 msgid "Build"
 msgstr "建造"
@@ -347,7 +348,7 @@ msgid "Build track constructions"
 msgstr "建造軌道建築"
 
 msgid "Build track signals"
-msgstr "建造軌道號誌"
+msgstr "建造軌道信號燈"
 
 msgid "Build track waypoints"
 msgstr "建造軌道路徑點"
@@ -390,13 +391,13 @@ msgid "Buoy"
 msgstr "航標"
 
 msgid "Bus station"
-msgstr "公車站"
+msgstr "巴士站"
 
 msgid "Bus/tram station"
-msgstr "公車/輕軌電車站"
+msgstr "巴士/輕軌電車站"
 
 msgid "Bus/tram stop"
-msgstr "公車/輕軌電車停靠站"
+msgstr "巴士/輕軌電車停靠站"
 
 msgid "Buy"
 msgstr "購買"
@@ -717,7 +718,7 @@ msgstr ""
 "- TGV Sud-Est列車標誌性的大西洋設計皮膚\n"
 "- 聖克拉拉縣設計的美國GM魚缸巴士\n"
 "- MAZ 103的另類皮膚，具有現代化外觀\n"
-"- 基於盧森堡設計的梅賽德斯-賓士eCitaro彩色皮膚"
+"- 基於盧森堡設計的平治eCitaro彩色皮膚"
 
 msgid "DLC_PREORDER_PACK_NAME"
 msgstr "Early Supporter content"
@@ -800,7 +801,7 @@ msgid "Destinations layer"
 msgstr "目的地圖層"
 
 msgid "Detail contour (2 m)"
-msgstr "精細等高線 (2 公尺)"
+msgstr "精細等高線 (2 米)"
 
 msgid "Determines the approach and takeoff direction of the runway."
 msgstr "確定機場跑道的進場和起飛方向。"
@@ -996,16 +997,16 @@ msgid "GUIDE_BORROW_LOAN"
 msgstr "看來資金不足了。或許可以用貸款解決。"
 
 msgid "GUIDE_BUILD_BUS_DEPOT"
-msgstr "必須先建造陸上載具車庫，才能購買公車跟貨車。"
+msgstr "必須先建造陸上載具車庫，才能購買巴士跟貨車。"
 
 msgid "GUIDE_BUILD_BUS_STATION_CARGO"
-msgstr "建立公車和貨車站，即可透過道路載運乘客或運輸貨物。"
+msgstr "建立巴士和貨車站，即可透過道路載運乘客或運輸貨物。"
 
 msgid "GUIDE_BUILD_BUS_STATION_PASSENGER"
-msgstr "建立公車和貨車站，即可透過道路載運乘客或運輸貨物。"
+msgstr "建立巴士和貨車站，即可透過道路載運乘客或運輸貨物。"
 
 msgid "GUIDE_BUILD_BUS_STOP"
-msgstr "公車很適合承擔城鎮的當地交通。有許多種公車站可選擇。"
+msgstr "巴士很適合承擔城鎮的當地交通。有許多種巴士站可選擇。"
 
 msgid "GUIDE_BUILD_DOCK"
 msgstr "必須先建造船廠，才能購買船隻。"
@@ -1014,7 +1015,7 @@ msgid "GUIDE_BUILD_HARBOR"
 msgstr "必須有港口，船隻才能運作。"
 
 msgid "GUIDE_BUILD_SIGNALS"
-msgstr "可以使用交通號誌控管軌道交通。在軌道旁建立交通號誌。"
+msgstr "可以使用交通信號燈控管軌道交通。在軌道旁建立交通信號燈。"
 
 msgid "GUIDE_BUILD_STATIONS"
 msgstr "在城鎮或工業區建造車站，載運乘客或運送貨物。"
@@ -1430,7 +1431,7 @@ msgstr ""
 
 msgid "HELP_CONSTRUCTION_RAIL_SIGNALS"
 msgstr ""
-"使用號誌來自由控制鐵路運輸。\n"
+"使用信號燈來自由控制鐵路運輸。\n"
 "在軌道上建造路徑點，並將其新增至路線中以自訂路線。"
 
 msgid "HELP_CONSTRUCTION_RAIL_STATIONS"
@@ -1454,14 +1455,14 @@ msgstr ""
 msgid "HELP_CONSTRUCTION_RAIL_WAYPOINTS"
 msgstr ""
 "使用路徑點來自由控制鐵路運輸。\n"
-"在軌道上建造號誌，並將其新增至路線中以自訂路線。"
+"在軌道上建造信號燈，並將其新增至路線中以自訂路線。"
 
 msgid "HELP_CONSTRUCTION_ROAD_CONSTRUCTIONS"
 msgstr "透過街道建築，您將可以建造進階的道路布局。"
 
 msgid "HELP_CONSTRUCTION_ROAD_STATIONS"
 msgstr ""
-"簡易公車站和卸貨站可以直接建在人行道旁。\n"
+"簡易巴士站和卸貨站可以直接建在人行道旁。\n"
 "開始建造前，您可以調整月台的數量或長度等設定。按下 [iaHint=constructOpt2/] "
 "和 [iaHint=constructOpt1/] 轉換車站朝向。按住 [iaHint=IA_PRECISION_MODE/] 可"
 "以進行更細微的調整。\n"
@@ -1473,18 +1474,18 @@ msgid "HELP_CONSTRUCTION_ROAD_STREETS"
 msgstr ""
 "道路有不同的速限。使用 [iaHint=constructOpt2/] 和 [iaHint=constructOpt1/] 可"
 "建造橋梁和隧道。\n"
-"您可自由在道路加入有軌電車軌道或公車路線。道路鋪好後，可以再用修改工具做改"
+"您可自由在道路加入有軌電車軌道或巴士路線。道路鋪好後，可以再用修改工具做改"
 "動。使用升級工具則可變更道路類型。按右鍵可變更單行道的方向。鄉間道路或高速公"
-"路旁是不能有房子的。您也可選擇使用交通號誌和指引號誌來控管道路交通。"
+"路旁是不能有房子的。您也可選擇使用交通信號燈和指引信號燈來控管道路交通。"
 
 msgid "HELP_CONSTRUCTION_ROAD_STREETS_COUCH"
 msgstr ""
 "道路有不同的速限。使用 [iaHint=constructOpt2/] 和 [iaHint=constructOpt1/] 可"
 "建造橋梁和隧道。\n"
-"您可自由在道路加入輕軌電車軌道或公車路線。道路鋪好後，可以再用修改工具做改"
+"您可自由在道路加入輕軌電車軌道或巴士路線。道路鋪好後，可以再用修改工具做改"
 "動。使用升級工具則可變更道路類型。按住 [iaHint=IA_OPTION3/] 可變更單行道的方"
-"向。鄉間道路或高速公路旁是不能有房子的。您也可選擇使用交通號誌和路徑點來控管"
-"道路交通。"
+"向。鄉間道路或高速公路旁是不能有房子的。您也可選擇使用交通燈和路徑點來控管道"
+"路交通。"
 
 msgid "HELP_CONSTRUCTION_ROAD_TOOLS"
 msgstr "街道可以之後使用修改工具修改。"
@@ -1595,7 +1596,7 @@ msgstr ""
 "這個圖層顯示的是目前街道交通的狀況。\n"
 "造成交通堵塞的載具及阻塞的路段，都會呈現紅色。交通阻塞會對成長造成負面的影"
 "響。改善街道網絡或大眾交通，以減少擁塞的情況。\n"
-"使用交叉路口上方的小按鈕，即可添加或刪除交通號誌。\n"
+"使用交叉路口上方的小按鈕，即可添加或刪除交通燈。\n"
 "玩家可以取得街道的控制權，城鎮就不會再改變道路了。"
 
 msgid "HELP_LAYER_WATER"
@@ -1712,7 +1713,7 @@ msgstr ""
 msgid "HELP_WELCOME"
 msgstr ""
 "為這個世界提供所需的交通基礎建設，並透過運輸服務賺取財富。看著您的列車疾行在"
-"鐵軌上、公車與貨車轟隆隆地奔馳在道路上、船隻行駛於水域、飛機翱翔於空中。\n"
+"鐵軌上、巴士與貨車轟隆隆地奔馳在道路上、船隻行駛於水域、飛機翱翔於空中。\n"
 "載運乘客前往工作或購物、運送要求的貨運到各城鎮、成為城鎮發展及興盛的關鍵。\n"
 "如果您需要幫助，請點擊問號按鈕。它會提供您更多關於各選單和視窗的資訊。遊玩單"
 "人劇情會更容易上手。好好享受吧！"
@@ -1720,7 +1721,7 @@ msgstr ""
 msgid "HELP_WELCOME_COUCH"
 msgstr ""
 "為這個世界提供所需的交通基礎建設，並透過運輸服務賺取財富。看著您的列車疾行在"
-"鐵軌上、公車與貨車轟隆隆地奔馳在道路上、船隻行駛於水域、飛機翱翔於空中。\n"
+"鐵軌上、巴士與貨車轟隆隆地奔馳在道路上、船隻行駛於水域、飛機翱翔於空中。\n"
 "載運乘客前往工作或購物、運送要求的貨物到各城鎮、成為城鎮發展及興盛的關鍵。\n"
 "如果您需要幫助，請按下 [iaHint=IA_CONTEXT_HELP/]。它會提供您更多關於各選單和"
 "視窗的資訊。遊玩單人劇情會更容易上手。好好享受吧！"
@@ -1881,7 +1882,7 @@ msgid "Inspector"
 msgstr "檢查工具"
 
 msgid "Intermediate contour (10 m)"
-msgstr "窄距等高線 (10 公尺)"
+msgstr "窄距等高線 (10 米)"
 
 msgid "Interns"
 msgstr "實習生"
@@ -2074,7 +2075,7 @@ msgid "Locate"
 msgstr "定位"
 
 msgid "Logs"
-msgstr "日誌"
+msgstr "木材"
 
 msgid "Low"
 msgstr "低"
@@ -2359,52 +2360,52 @@ msgid "MISSION_ALLINCLUSIVE_PARAMS_FRANKFURT"
 msgstr "法蘭克福"
 
 msgid "MISSION_ALLINCLUSIVE_PARAMS_FRANKFURT_BUS1"
-msgstr "法蘭克福公車 1"
+msgstr "法蘭克福巴士 1"
 
 msgid "MISSION_ALLINCLUSIVE_PARAMS_FRANKFURT_BUS2"
-msgstr "法蘭克福公車 2"
+msgstr "法蘭克福巴士 2"
 
 msgid "MISSION_ALLINCLUSIVE_PARAMS_FRANKFURT_BUS3"
-msgstr "法蘭克福公車 3"
+msgstr "法蘭克福巴士 3"
 
 msgid "MISSION_ALLINCLUSIVE_PARAMS_FRANKFURT_BUS4"
-msgstr "法蘭克福公車 4"
+msgstr "法蘭克福巴士 4"
 
 msgid "MISSION_ALLINCLUSIVE_PARAMS_FRANKFURT_BUS5"
-msgstr "法蘭克福公車 5"
+msgstr "法蘭克福巴士 5"
 
 msgid "MISSION_ALLINCLUSIVE_PARAMS_FRANKFURT_BUS6"
-msgstr "法蘭克福公車 6"
+msgstr "法蘭克福巴士 6"
 
 msgid "MISSION_ALLINCLUSIVE_PARAMS_FRANKFURT_BUS7"
-msgstr "法蘭克福公車 7"
+msgstr "法蘭克福巴士 7"
 
 msgid "MISSION_ALLINCLUSIVE_PARAMS_FRANKFURT_BUS8"
-msgstr "法蘭克福公車 8"
+msgstr "法蘭克福巴士 8"
 
 msgid "MISSION_ALLINCLUSIVE_PARAMS_FRANKFURT_BUS9"
-msgstr "法蘭克福公車 9"
+msgstr "法蘭克福巴士 9"
 
 msgid "MISSION_ALLINCLUSIVE_PARAMS_FRANKFURT_BUS_STATION"
-msgstr "法蘭克福公車站"
+msgstr "法蘭克福巴士站"
 
 msgid "MISSION_ALLINCLUSIVE_PARAMS_FRANKFURT_SMALL_STATION1"
-msgstr "法蘭克福公車停靠站 1"
+msgstr "法蘭克福巴士停靠站 1"
 
 msgid "MISSION_ALLINCLUSIVE_PARAMS_FRANKFURT_SMALL_STATION2"
-msgstr "法蘭克福公車停靠站 2"
+msgstr "法蘭克福巴士停靠站 2"
 
 msgid "MISSION_ALLINCLUSIVE_PARAMS_FRANKFURT_SMALL_STATION3"
-msgstr "法蘭克福公車停靠站 3"
+msgstr "法蘭克福巴士停靠站 3"
 
 msgid "MISSION_ALLINCLUSIVE_PARAMS_FRANKFURT_SMALL_STATION4"
-msgstr "法蘭克福公車停靠站 4"
+msgstr "法蘭克福巴士停靠站 4"
 
 msgid "MISSION_ALLINCLUSIVE_PARAMS_FRANKFURT_SMALL_STATION5"
-msgstr "法蘭克福公車停靠站 5"
+msgstr "法蘭克福巴士停靠站 5"
 
 msgid "MISSION_ALLINCLUSIVE_PARAMS_FRANKFURT_SMALL_STATION6"
-msgstr "法蘭克福公車停靠站 6"
+msgstr "法蘭克福巴士停靠站 6"
 
 msgid "MISSION_ALLINCLUSIVE_PARAMS_FUELFACTORY"
 msgstr "本島燃料精煉廠"
@@ -2449,94 +2450,94 @@ msgid "MISSION_ALLINCLUSIVE_PARAMS_WIEN"
 msgstr "維也納"
 
 msgid "MISSION_ALLINCLUSIVE_PARAMS_WIEN_BUS1"
-msgstr "維也納公車 1"
+msgstr "維也納巴士 1"
 
 msgid "MISSION_ALLINCLUSIVE_PARAMS_WIEN_BUS2"
-msgstr "維也納公車 2"
+msgstr "維也納巴士 2"
 
 msgid "MISSION_ALLINCLUSIVE_PARAMS_WIEN_BUS3"
-msgstr "維也納公車 3"
+msgstr "維也納巴士 3"
 
 msgid "MISSION_ALLINCLUSIVE_PARAMS_WIEN_BUS4"
-msgstr "維也納公車 4"
+msgstr "維也納巴士 4"
 
 msgid "MISSION_ALLINCLUSIVE_PARAMS_WIEN_BUS5"
-msgstr "維也納公車 5"
+msgstr "維也納巴士 5"
 
 msgid "MISSION_ALLINCLUSIVE_PARAMS_WIEN_BUS6"
-msgstr "維也納公車 6"
+msgstr "維也納巴士 6"
 
 msgid "MISSION_ALLINCLUSIVE_PARAMS_WIEN_BUS7"
-msgstr "維也納公車 7"
+msgstr "維也納巴士 7"
 
 msgid "MISSION_ALLINCLUSIVE_PARAMS_WIEN_BUS8"
-msgstr "維也納公車 8"
+msgstr "維也納巴士 8"
 
 msgid "MISSION_ALLINCLUSIVE_PARAMS_WIEN_BUS9"
-msgstr "維也納公車 9"
+msgstr "維也納巴士 9"
 
 msgid "MISSION_ALLINCLUSIVE_PARAMS_WIEN_BUS_STATION"
-msgstr "維也納公車站"
+msgstr "維也納巴士站"
 
 msgid "MISSION_ALLINCLUSIVE_PARAMS_WIEN_SMALL_STATION1"
-msgstr "維也納公車停靠站 1"
+msgstr "維也納巴士停靠站 1"
 
 msgid "MISSION_ALLINCLUSIVE_PARAMS_WIEN_SMALL_STATION2"
-msgstr "維也納公車停靠站 2"
+msgstr "維也納巴士停靠站 2"
 
 msgid "MISSION_ALLINCLUSIVE_PARAMS_WIEN_SMALL_STATION3"
-msgstr "維也納公車停靠站 3"
+msgstr "維也納巴士停靠站 3"
 
 msgid "MISSION_ALLINCLUSIVE_PARAMS_WIEN_SMALL_STATION4"
-msgstr "維也納公車停靠站 4"
+msgstr "維也納巴士停靠站 4"
 
 msgid "MISSION_ALLINCLUSIVE_PARAMS_WIEN_SMALL_STATION5"
-msgstr "維也納公車停靠站 5"
+msgstr "維也納巴士停靠站 5"
 
 msgid "MISSION_ALLINCLUSIVE_PARAMS_WIEN_SMALL_STATION6"
-msgstr "維也納公車停靠站 6"
+msgstr "維也納巴士停靠站 6"
 
 msgid "MISSION_ALLINCLUSIVE_PARAMS_WIEN_SMALL_STATION7"
-msgstr "維也納公車停靠站 7"
+msgstr "維也納巴士停靠站 7"
 
 msgid "MISSION_ALLINCLUSIVE_PARAMS_ZURICH"
 msgstr "蘇黎世"
 
 msgid "MISSION_ALLINCLUSIVE_PARAMS_ZURICH_BUS1"
-msgstr "蘇黎世公車 1"
+msgstr "蘇黎世巴士 1"
 
 msgid "MISSION_ALLINCLUSIVE_PARAMS_ZURICH_BUS2"
-msgstr "蘇黎世公車 2"
+msgstr "蘇黎世巴士 2"
 
 msgid "MISSION_ALLINCLUSIVE_PARAMS_ZURICH_BUS3"
-msgstr "蘇黎世公車 3"
+msgstr "蘇黎世巴士 3"
 
 msgid "MISSION_ALLINCLUSIVE_PARAMS_ZURICH_BUS4"
-msgstr "蘇黎世公車 4"
+msgstr "蘇黎世巴士 4"
 
 msgid "MISSION_ALLINCLUSIVE_PARAMS_ZURICH_BUS5"
-msgstr "蘇黎世公車 5"
+msgstr "蘇黎世巴士 5"
 
 msgid "MISSION_ALLINCLUSIVE_PARAMS_ZURICH_BUS6"
-msgstr "蘇黎世公車 6"
+msgstr "蘇黎世巴士 6"
 
 msgid "MISSION_ALLINCLUSIVE_PARAMS_ZURICH_BUS7"
-msgstr "蘇黎世公車 7"
+msgstr "蘇黎世巴士 7"
 
 msgid "MISSION_ALLINCLUSIVE_PARAMS_ZURICH_BUS_STATION"
-msgstr "蘇黎世公車站"
+msgstr "蘇黎世巴士站"
 
 msgid "MISSION_ALLINCLUSIVE_PARAMS_ZURICH_SMALL_STATION1"
-msgstr "蘇黎世公車停靠站 1"
+msgstr "蘇黎世巴士停靠站 1"
 
 msgid "MISSION_ALLINCLUSIVE_PARAMS_ZURICH_SMALL_STATION2"
-msgstr "蘇黎世公車停靠站 2"
+msgstr "蘇黎世巴士停靠站 2"
 
 msgid "MISSION_ALLINCLUSIVE_PARAMS_ZURICH_SMALL_STATION3"
-msgstr "蘇黎世公車停靠站 3"
+msgstr "蘇黎世巴士停靠站 3"
 
 msgid "MISSION_ALLINCLUSIVE_PARAMS_ZURICH_SMALL_STATION4"
-msgstr "蘇黎世公車停靠站 4"
+msgstr "蘇黎世巴士停靠站 4"
 
 msgid "MISSION_ALLINCLUSIVE_TASK_FINISH_NAME"
 msgstr "經濟奇蹟"
@@ -2894,7 +2895,7 @@ msgstr "採收拳參"
 
 msgid "MISSION_BAGDAD_MEDAL_KARABEN_NOSE_TASK"
 msgstr ""
-"在 [link=jump_bushes]${meter_low} 與 ${meter_high} 英尺[/link] 的高度之間，尋"
+"在 [link=jump_bushes]${meter_low} 與 ${meter_high} 呎[/link] 的高度之間，尋"
 "找 ${numbushes} 蛇草灌木叢。"
 
 msgid "MISSION_BAGDAD_MEDAL_KARABEN_NOSE_TEXT"
@@ -3463,7 +3464,7 @@ msgstr "讓當地人駕駛火車"
 msgid "MISSION_COLONIALISM_MEDAL_SCHOOL_TEST_TASK"
 msgstr ""
 "購買一節火車頭，讓大家沿著 [link=jump_digesteddriver]練習鐵軌[/link] 移動至"
-"少 ${meter_amount_driver} 公尺的距離。"
+"少 ${meter_amount_driver} 米的距離。"
 
 msgid "MISSION_COLONIALISM_MEDAL_SCHOOL_TEST_TEXT"
 msgstr ""
@@ -3542,8 +3543,8 @@ msgstr "巨大生產力"
 
 msgid "MISSION_COLONIALISM_TASK_CAPACITY_SIGNAL_HINT"
 msgstr ""
-"線路會自動根據您所放置的號誌運作。開啟線路管理畫面，可以查看各路線上號誌的用"
-"途。"
+"線路會自動根據您所放置的信號燈運作。開啟線路管理畫面，可以查看各路線上信號燈"
+"的用途。"
 
 msgid "MISSION_COLONIALISM_TASK_CAPACITY_SIGNAL_NAME"
 msgstr "放置信號標誌"
@@ -3557,10 +3558,10 @@ msgstr "綠區"
 msgid "MISSION_COLONIALISM_TASK_CAPACITY_SIGNAL_TASK"
 msgstr ""
 "在 [link=jump_circle_signal_task1]藍區[/link] 及 "
-"[link=jump_circle_signal_task2]綠區[/link] 分別放置號誌。"
+"[link=jump_circle_signal_task2]綠區[/link] 分別放置信號燈。"
 
 msgid "MISSION_COLONIALISM_TASK_CAPACITY_SIGNAL_TEXT"
-msgstr "火車交會時，會在側線等待對方通過。需要放置號誌指示。"
+msgstr "火車交會時，會在側線等待對方通過。需要放置信號燈指示。"
 
 msgid "MISSION_COLONIALISM_TASK_CAPACITY_SWITCH_NAME"
 msgstr "建造會車點"
@@ -4085,7 +4086,7 @@ msgid "MISSION_FUTURECITY_TASK_2_IMPLEMENT_NAME"
 msgstr "提供服務"
 
 msgid "MISSION_FUTURECITY_TASK_2_IMPLEMENT_SUB1"
-msgstr "已建造公路總長（公尺）"
+msgstr "已建造公路總長（米）"
 
 msgid "MISSION_FUTURECITY_TASK_2_IMPLEMENT_SUB2"
 msgstr "達成私人載具的排放值限制"
@@ -4094,7 +4095,7 @@ msgid "MISSION_FUTURECITY_TASK_2_IMPLEMENT_SUB3"
 msgstr "達成大眾運輸的排放值限制"
 
 msgid "MISSION_FUTURECITY_TASK_2_IMPLEMENT_SUB4"
-msgstr " 用公車、街車或船隻載運乘客"
+msgstr " 用巴士、街車或船隻載運乘客"
 
 msgid "MISSION_FUTURECITY_TASK_2_IMPLEMENT_TASK"
 msgstr "達成所有要求。"
@@ -5128,10 +5129,10 @@ msgid "MISSION_ICE_TASK_PRIVATE_REDUCE_NAME"
 msgstr "基礎建設優化"
 
 msgid "MISSION_ICE_TASK_PRIVATE_REDUCE_SUB1"
-msgstr "已移除的列車平台總長（公尺）"
+msgstr "已移除的列車平台總長（米）"
 
 msgid "MISSION_ICE_TASK_PRIVATE_REDUCE_SUB2"
-msgstr "已移除鐵軌總長（公尺）"
+msgstr "已移除鐵軌總長（米）"
 
 msgid "MISSION_ICE_TASK_PRIVATE_REDUCE_TASK"
 msgstr "縮小地方車站的規模"
@@ -6359,12 +6360,12 @@ msgid "MISSION_MACHINES_TASK_REIMS_FLIGHT_NAME"
 msgstr "飛行週競賽"
 
 msgid "MISSION_MACHINES_TASK_REIMS_FLIGHT_SUB1"
-msgstr "飛行里程數（公尺）"
+msgstr "飛行里程數（米）"
 
 msgid "MISSION_MACHINES_TASK_REIMS_FLIGHT_TASK"
 msgstr ""
 "在 [link=jump_airfield_reims]蘭斯機場[/link] 購買一架飛機，並飛行至少 $"
-"{flight_distance} 公尺。"
+"{flight_distance} 米。"
 
 msgid "MISSION_MACHINES_TASK_REIMS_FLIGHT_TEXT"
 msgstr ""
@@ -6468,7 +6469,7 @@ msgid "MISSION_OILSANDS_MEDAL_ANIMALS_AREA_NAME"
 msgstr "動物多樣性"
 
 msgid "MISSION_OILSANDS_MEDAL_ANIMALS_AREA_TASK"
-msgstr "用公車載 ${people_near_animals} 名有興趣的訪客來參觀動物。"
+msgstr "用巴士載 ${people_near_animals} 名有興趣的訪客來參觀動物。"
 
 msgid "MISSION_OILSANDS_MEDAL_ANIMALS_AREA_TEXT"
 msgstr ""
@@ -6958,7 +6959,7 @@ msgid "MISSION_OILSANDS_TASK_TOWN_WORKERS_TASK"
 msgstr "載運工人到 [link=jump_refinery]煉油廠[/link]。"
 
 msgid "MISSION_OILSANDS_TASK_TOWN_WORKERS_TEXT"
-msgstr "您的公司開出了獨家福利，讓員工省下車子的花費：您會用公車載大家上下班。"
+msgstr "您的公司開出了獨家福利，讓員工省下車子的花費：您會用巴士載大家上下班。"
 
 msgid "MISSION_PARADISO_CAMPAIGNSCREEN"
 msgstr ""
@@ -7464,7 +7465,7 @@ msgid "MISSION_PROPOSAL_FEEDBACK_NOT_IN_TOWN_X"
 msgstr "車庫必須建造在 ${x} 。"
 
 msgid "MISSION_PROPOSAL_FEEDBACK_NOT_X_METER_TRACKS"
-msgstr "選取 ${x} 公尺長的數值選項。"
+msgstr "選取 ${x} 米長的數值選項。"
 
 msgid "MISSION_PROPOSAL_FEEDBACK_NO_BRIDGES_ALLOWED"
 msgstr "此任務中不可使用橋梁。"
@@ -8409,7 +8410,7 @@ msgid "MISSION_SHINKANSEN_TASK_PLAN_KYOTO_NAME"
 msgstr "遷居安置"
 
 msgid "MISSION_SHINKANSEN_TASK_PLAN_KYOTO_TASK"
-msgstr "移除標記區域內的公車站。"
+msgstr "移除標記區域內的巴士站。"
 
 msgid "MISSION_SHINKANSEN_TASK_PLAN_KYOTO_TEXT"
 msgstr ""
@@ -8483,8 +8484,8 @@ msgstr "橋梁測試完畢"
 
 msgid "MISSION_SHINKANSEN_TASK_PREPARE_MEASURE_TASK"
 msgstr ""
-"搭上黃博士，沿路線全面檢查鐵道，並至少完成 ${tmg} 公尺的隧道測試及 ${bmg} 公"
-"尺的橋梁測試。"
+"搭上黃博士，沿路線全面檢查鐵道，並至少完成 ${tmg} 米的隧道測試及 ${bmg} 米的"
+"橋梁測試。"
 
 msgid "MISSION_SHINKANSEN_TASK_PREPARE_MEASURE_TEXT"
 msgstr ""
@@ -8642,8 +8643,8 @@ msgstr "幻滅！"
 msgid "MISSION_SILVERCITY_MEDAL_BIGFOOT_FINISH_TEXT"
 msgstr ""
 "《地區企業報》報導：\n"
-"\"野人死了。牠的屍體沉入了太浩湖的湖水中，將慢慢沉到將近 185 公尺深的地方，被"
-"冰塊包裹得死死的，被湖底的高壓擠壓成跟小孩子一樣的體型。\" \n"
+"\"野人死了。牠的屍體沉入了太浩湖的湖水中，將慢慢沉到將近 185 米深的地方，被冰"
+"塊包裹得死死的，被湖底的高壓擠壓成跟小孩子一樣的體型。\" \n"
 "嗯，看來也是無法可想了。"
 
 msgid "MISSION_SILVERCITY_MEDAL_BIGFOOT_NAME"
@@ -8653,7 +8654,7 @@ msgid "MISSION_SILVERCITY_MEDAL_BIGFOOT_TEXT"
 msgstr ""
 "《地區企業報》報導：\n"
 "\"近日有一隻野獸在附近一帶惹事生非。根據目擊者發現，這隻野獸會在樹叢之間跳"
-"躍，目測至少有 3 公尺那麼高，毛髮漆黑蓬亂，還有一雙巨大有力的腳。\" \n"
+"躍，目測至少有 3 米那麼高，毛髮漆黑蓬亂，還有一雙巨大有力的腳。\" \n"
 "向記者詢問一下詳細狀況吧。"
 
 msgid "MISSION_SILVERCITY_MEDAL_GRANDOPENING_CAMPAIGNSCREENNAME"
@@ -9739,7 +9740,7 @@ msgid "MISSION_STARFLIGHT_TASK_PREMIERE_PRESS_TEXT"
 msgstr ""
 "老闆這樣的行為讓您非常焦慮。說到底，影片的拍攝成果不是跟預想的一樣好嗎？ \n"
 "無論如何，看來您應該安撫一下所有受到邀請的報刊記者，這樣比較保險。 \n"
-"給他們來一場漫長而令人倦怠的公車之旅，讓他們變得比較好控管。"
+"給他們來一場漫長而令人倦怠的巴士之旅，讓他們變得比較好控管。"
 
 msgid "MISSION_STARFLIGHT_TASK_PREMIERE_STARS_NAME"
 msgstr "明星出場"
@@ -10551,17 +10552,17 @@ msgstr ""
 "這正是您的故事…願您一切順利！"
 
 msgid "MISSION_SWISSMADE_TASK_REDUIT_BUGS_NAME"
-msgstr "提供公車"
+msgstr "提供巴士"
 
 msgid "MISSION_SWISSMADE_TASK_REDUIT_BUGS_TASK"
-msgstr "出售 ${buses_3b_sell} 輛公車。"
+msgstr "出售 ${buses_3b_sell} 輛巴士。"
 
 msgid "MISSION_SWISSMADE_TASK_REDUIT_BUGS_TEXT"
 msgstr ""
 "就這麼決定吧！希望這是正確的抉擇。 \n"
 "戰時食物短缺，政府得強制人民採集食根蟲：學生也被派到野外收集蟲子了。這一切都"
 "是為了生產給動物的食物。 \n"
-"提供您的公車載學生外出採集吧。"
+"提供您的巴士載學生外出採集吧。"
 
 msgid "MISSION_SWISSMADE_TASK_REDUIT_GOTTHARD_NAME"
 msgstr "聖哥達"
@@ -10741,7 +10742,7 @@ msgid "MISSION_TRANSSIB_MEDAL_ZOBEL_AD_NAME"
 msgstr "宣傳"
 
 msgid "MISSION_TRANSSIB_MEDAL_ZOBEL_AD_TASK"
-msgstr "建立一條至少有 ${zobel_stations} 個車站的公車線路，並親自擔任駕駛。"
+msgstr "建立一條至少有 ${zobel_stations} 個車站的巴士線路，並親自擔任駕駛。"
 
 msgid "MISSION_TRANSSIB_MEDAL_ZOBEL_AD_TEXT"
 msgstr "在鎮上四處走走，宣傳養貂業的高尚目標。"
@@ -11118,7 +11119,7 @@ msgid "MISSION_TWENTIES_MEDAL_BETTY_LICENCE_NAME"
 msgstr "取得各地許可證"
 
 msgid "MISSION_TWENTIES_MEDAL_BETTY_LICENCE_TASK"
-msgstr "獲取各區域的許可證，在各個公車站刊登廣告。"
+msgstr "獲取各區域的許可證，在各個巴士站刊登廣告。"
 
 msgid "MISSION_TWENTIES_MEDAL_BETTY_LICENCE_TEXT"
 msgstr ""
@@ -11136,7 +11137,7 @@ msgstr ""
 "您就助他們一臂之力吧。"
 
 msgid "MISSION_TWENTIES_MEDAL_CORPORATE_BUS_COLOR1_NAME"
-msgstr "為公車上色"
+msgstr "為巴士上色"
 
 msgid "MISSION_TWENTIES_MEDAL_CORPORATE_BUS_COLOR1_PROGRESS"
 msgstr "載具不足"
@@ -11145,7 +11146,7 @@ msgid "MISSION_TWENTIES_MEDAL_CORPORATE_BUS_COLOR1_SUB1"
 msgstr "不同顏色的路線"
 
 msgid "MISSION_TWENTIES_MEDAL_CORPORATE_BUS_COLOR1_TASK"
-msgstr "為至少 ${distinct_colors} 條路線的公車漆上不同顏色。"
+msgstr "為至少 ${distinct_colors} 條路線的巴士漆上不同顏色。"
 
 msgid "MISSION_TWENTIES_MEDAL_CORPORATE_BUS_COLOR1_TEXT"
 msgstr ""
@@ -11153,18 +11154,18 @@ msgstr ""
 "豐厚的回報。"
 
 msgid "MISSION_TWENTIES_MEDAL_CORPORATE_BUS_COLOR2_NAME"
-msgstr "為公車重新上漆"
+msgstr "為巴士重新上漆"
 
 msgid "MISSION_TWENTIES_MEDAL_CORPORATE_BUS_COLOR2_PROGRESS"
 msgstr "載具顏色多變化"
 
 msgid "MISSION_TWENTIES_MEDAL_CORPORATE_BUS_COLOR2_TASK"
-msgstr "把公車漆成一致的顏色。"
+msgstr "把巴士漆成一致的顏色。"
 
 msgid "MISSION_TWENTIES_MEDAL_CORPORATE_BUS_COLOR2_TEXT"
 msgstr ""
 "萬歲！ \n"
-"色彩繽紛的公車在美國中西部各地行駛：大家完全不曉得這些公車全都隸屬同一間公"
+"色彩繽紛的巴士在美國中西部各地行駛：大家完全不曉得這些巴士全都隸屬同一間公"
 "司。 \n"
 "考慮到廣告效果，這可能不是個很成功的措施…"
 
@@ -11176,7 +11177,7 @@ msgstr "多好看呀！"
 
 msgid "MISSION_TWENTIES_MEDAL_CORPORATE_FINISH_TEXT"
 msgstr ""
-"即使在遠處，大家也能一眼望見您的公車！公車的顏色，代表了最好的服務。這一切可"
+"即使在遠處，大家也能一眼望見您的巴士！巴士的顏色，代表了最好的服務。這一切可"
 "以用一個詞總結：企業形象！"
 
 msgid "MISSION_TWENTIES_MEDAL_CORPORATE_NAME"
@@ -11185,7 +11186,7 @@ msgstr "企業形象"
 msgid "MISSION_TWENTIES_MEDAL_CORPORATE_TEXT"
 msgstr ""
 "首先最重要的一點就是成功的行銷，這能讓成功的企業更上一層樓。 \n"
-"這不僅是態度恭謹的員工，和活潑明快的制服那麼簡單，外觀時髦的公車也包括在"
+"這不僅是態度恭謹的員工，和活潑明快的制服那麼簡單，外觀時髦的巴士也包括在"
 "內。 \n"
 "做好每一個細節，展現企業最好的一面！"
 
@@ -11216,7 +11217,7 @@ msgstr "環境保護主義"
 msgid "MISSION_TWENTIES_MEDAL_EMISSION_TEXT"
 msgstr ""
 "引擎的普及促進了社會各方面的發展。 \n"
-"但大家都已經注意到了不少反對的聲音。有人聲稱轎車和公車會對環境造成破壞。 \n"
+"但大家都已經注意到了不少反對的聲音。有人聲稱轎車和巴士會對環境造成破壞。 \n"
 "這當然是無稽之談了。但即使如此，您還是該做點什麼平息這些批評。"
 
 msgid "MISSION_TWENTIES_MEDAL_EMISSION_TREES_NAME"
@@ -11343,9 +11344,9 @@ msgstr "獨佔權"
 
 msgid "MISSION_TWENTIES_TASK_COMPETITION_TEXT"
 msgstr ""
-"感謝您的努力，每輛公車油箱都盛滿了油！ \n"
+"感謝您的努力，每輛巴士油箱都盛滿了油！ \n"
 "明尼亞波里斯的居民也享受到了最好的當地交通服務。簡直不能再更好了。 \n"
-"雖說您的長途公車生意日益興盛，您還有待在當地運輸這一塊努力，方可從眾多大眾運"
+"雖說您的長途巴士生意日益興盛，您還有待在當地運輸這一塊努力，方可從眾多大眾運"
 "輸公司之中脫穎而出。 \n"
 "真是令人不悅。快讓這場爭鬥落幕吧。"
 
@@ -11353,7 +11354,7 @@ msgid "MISSION_TWENTIES_TASK_COMPETITION_TRAM_NAME"
 msgstr "與有軌電車角鬥"
 
 msgid "MISSION_TWENTIES_TASK_COMPETITION_TRAM_TASK"
-msgstr "提供比有軌電車更優質的公車服務。"
+msgstr "提供比有軌電車更優質的巴士服務。"
 
 msgid "MISSION_TWENTIES_TASK_COMPETITION_TRAM_TEXT"
 msgstr ""
@@ -11372,13 +11373,13 @@ msgid "MISSION_TWENTIES_TASK_DRIVERS_TEACH_NAME"
 msgstr "員工訓練"
 
 msgid "MISSION_TWENTIES_TASK_DRIVERS_TEACH_SUB1"
-msgstr "公車駕駛訓練"
+msgstr "巴士駕駛訓練"
 
 msgid "MISSION_TWENTIES_TASK_DRIVERS_TEACH_SUB2"
 msgstr "貨車駕駛訓練"
 
 msgid "MISSION_TWENTIES_TASK_DRIVERS_TEACH_SUB3"
-msgstr "可用公車"
+msgstr "可用巴士"
 
 msgid "MISSION_TWENTIES_TASK_DRIVERS_TEACH_SUB4"
 msgstr "可用貨車"
@@ -11403,14 +11404,14 @@ msgid "MISSION_TWENTIES_TASK_DRIVERS_TRACK_NAME"
 msgstr "建造練習道路"
 
 msgid "MISSION_TWENTIES_TASK_DRIVERS_TRACK_SUB1"
-msgstr "公車線路"
+msgstr "巴士線路"
 
 msgid "MISSION_TWENTIES_TASK_DRIVERS_TRACK_SUB2"
 msgstr "貨車線路"
 
 msgid "MISSION_TWENTIES_TASK_DRIVERS_TRACK_TASK"
 msgstr ""
-"在 [link=jump_trainingcenter]測試道路[/link] 上設立公車及貨車線路，並放置載具"
+"在 [link=jump_trainingcenter]測試道路[/link] 上設立巴士及貨車線路，並放置載具"
 "供員工練習。"
 
 msgid "MISSION_TWENTIES_TASK_DRIVERS_TRACK_TEXT"
@@ -11434,7 +11435,7 @@ msgstr "好耶！"
 
 msgid "MISSION_TWENTIES_TASK_FINISH_TEXT"
 msgstr ""
-"您的公車公司已經成了業界的頂尖標竿。您的公車鏈並不僅侷限在中西部，已經遍佈了"
+"您的巴士公司已經成了業界的頂尖標竿。您的巴士鏈並不僅侷限在中西部，已經遍佈了"
 "整個大陸！ \n"
 "曾幾何時，您還在銀礦場的隧道內穿梭，今日已搖身變為整個國家最賺錢公司的所有"
 "人。 \n"
@@ -11476,7 +11477,7 @@ msgstr ""
 msgid "MISSION_TWENTIES_TASK_FUEL_TEXT"
 msgstr ""
 "好極了！平坦寬闊的道路，帶來了完全不同的行車體驗。 \n"
-"也大大加快了公車的行駛速度。但這麼一來，燃料的消耗量也節節攀升。 \n"
+"也大大加快了巴士的行駛速度。但這麼一來，燃料的消耗量也節節攀升。 \n"
 "得確保能您的服務區域都能即時取得足夠的燃料補給。可千萬別發生燃油耗盡，困在大"
 "道上進退不得的慘事！"
 
@@ -11505,16 +11506,16 @@ msgstr ""
 "您的生意真是一帆風順！ \n"
 "不過現在乘客漸漸開始會在市郊道路到處趴趴走了。 這些道路的狀況都很差。 \n"
 "政府應該擬定幾個道路修繕的資助計劃，減輕您的壓力才對。 \n"
-"支援道路修繕工程，讓搭乘您家公車的體驗更加舒適。"
+"支援道路修繕工程，讓搭乘您家巴士的體驗更加舒適。"
 
 msgid "MISSION_TWENTIES_TASK_LICENCE_BUSLINE_HINT"
 msgstr "按一下市鎮中心的問號標誌，即可申請運輸服務許可證。"
 
 msgid "MISSION_TWENTIES_TASK_LICENCE_BUSLINE_NAME"
-msgstr "公車線路的運行"
+msgstr "巴士線路的運行"
 
 msgid "MISSION_TWENTIES_TASK_LICENCE_BUSLINE_SUB1"
-msgstr "已建立長途公車站"
+msgstr "已建立長途巴士站"
 
 msgid "MISSION_TWENTIES_TASK_LICENCE_BUSLINE_SUB2"
 msgstr "乘客已上車"
@@ -11522,13 +11523,13 @@ msgstr "乘客已上車"
 msgid "MISSION_TWENTIES_TASK_LICENCE_BUSLINE_TASK"
 msgstr ""
 "建立至少 ${goal_licence} 條從鄰近城鎮通往 [link=jump_minneapolis]明尼亞波里斯"
-"[/link] 的公車路線，並成功載運 ${goal_passengers} 名乘客。在各個市中心購買許"
+"[/link] 的巴士路線，並成功載運 ${goal_passengers} 名乘客。在各個市中心購買許"
 "可證吧。"
 
 msgid "MISSION_TWENTIES_TASK_LICENCE_BUSLINE_TEXT"
 msgstr ""
 "您已經獲得在明尼亞波里斯的運輸服務許可證了。 \n"
-"繼續取得更多許可證，讓您的公車事業持續蓬勃發展吧。"
+"繼續取得更多許可證，讓您的巴士事業持續蓬勃發展吧。"
 
 msgid "MISSION_TWENTIES_TASK_LICENCE_BUY_INFO"
 msgstr "花費 ${x} 元買下 ${n} 區域的行駛權。"
@@ -11543,15 +11544,15 @@ msgid "MISSION_TWENTIES_TASK_LICENCE_BUY_WINDOW"
 msgstr "取得許可證"
 
 msgid "MISSION_TWENTIES_TASK_LICENCE_NAME"
-msgstr "公車線路的運行"
+msgstr "巴士線路的運行"
 
 msgid "MISSION_TWENTIES_TASK_LICENCE_TEXT"
 msgstr ""
-"好極了！您訓練出的幾名司機，都很受大家的喜愛。您也非常仰賴他們的幫助。搭公車"
+"好極了！您訓練出的幾名司機，都很受大家的喜愛。您也非常仰賴他們的幫助。搭巴士"
 "這種移動方式是越來越受歡迎了。 \n"
 "為了讓道路不至於完全堵塞，提供汽車工業繼續銷售車輛的空間，您必須向政府申請提"
 "供運輸服務的許可證。 \n"
-"是時候進軍長途公車生意了！"
+"是時候進軍長途巴士生意了！"
 
 msgid "MISSION_VICECOUNTY_CAMPAIGNSCREEN"
 msgstr ""
@@ -12132,7 +12133,7 @@ msgstr "運送食物"
 
 msgid "MISSION_VICECOUNTY_TASK_TOURISM_MILLENIALS_TASK"
 msgstr ""
-"用公車把 ${people_amount_westpalmbeach} 個人從 [link=jump_westpalmbeach]春假"
+"用巴士把 ${people_amount_westpalmbeach} 個人從 [link=jump_westpalmbeach]春假"
 "渡假村[/link] 載往 [link=jump_miami]邁阿密[/link]，並供應 [link=jump_miami]邁"
 "阿密[/link] ${food_amount_westpalmbeach} 份 [link=jump_foodprocessing]食物[/"
 "link]。"
@@ -12270,7 +12271,7 @@ msgid "Maintenance vehicles"
 msgstr "維修中的載具"
 
 msgid "Major contour (100 m)"
-msgstr "寬距等高線 (100 公尺)"
+msgstr "寬距等高線 (100 米)"
 
 msgid "Management"
 msgstr "管理"
@@ -12382,7 +12383,7 @@ msgid "Minimum number of vehicles to be purchased not met"
 msgstr "未能達成最低可購買載具數量"
 
 msgid "Minor contour (50 m)"
-msgstr "中距等高線 (50 公尺)"
+msgstr "中距等高線 (50 米)"
 
 msgid "Misc"
 msgstr "雜項"
@@ -12457,7 +12458,7 @@ msgid "Modify terrain"
 msgstr "修改地形"
 
 msgid "Modular bus/tram station."
-msgstr "模件式公車/輕軌電車站。"
+msgstr "模件式巴士/輕軌電車站。"
 
 msgid "Modular harbor for cargo ships."
 msgstr "模件式貨船港口。"
@@ -12580,13 +12581,13 @@ msgid "No"
 msgstr "否"
 
 msgid "Noise barrier 10m"
-msgstr "隔音板 10 公尺"
+msgstr "隔音板 10 米"
 
 msgid "Noise barrier 20m"
-msgstr "隔音板 20 公尺"
+msgstr "隔音板 20 米"
 
 msgid "Noise barrier 60m"
-msgstr "隔音板 60 公尺"
+msgstr "隔音板 60 米"
 
 msgid "None"
 msgstr "無"
@@ -13051,7 +13052,7 @@ msgid "Small"
 msgstr "小"
 
 msgid "Small bus/tram stop for passengers, to be placed on the sidewalk."
-msgstr "用於載客的小型公車/輕軌電車停靠站，必須放在人行道上。"
+msgstr "用於載客的小型巴士/輕軌電車停靠站，必須放在人行道上。"
 
 msgid "Small cargo building"
 msgstr "小型貨運建築物"
@@ -13520,7 +13521,7 @@ msgid ""
 msgstr "用於重定路線。能夠像車站一樣新增到路線上。經過的火車會鳴笛。"
 
 msgid "Used to buy/sell buses and trucks."
-msgstr "用於購買或販賣公車及貨車。"
+msgstr "用於購買或販賣巴士及貨車。"
 
 msgid "Used to buy/sell ships."
 msgstr "用來購買或販賣船隻。"
@@ -13542,7 +13543,7 @@ msgstr ""
 "通用柏林綜合巴士公司 ABOAG 推出的早期款 \"雙層開蓬公共汽車\" （RK 車）。"
 
 msgid "VEHICLE_BUS_ABOAG_NAME"
-msgstr "戴姆勒雙層開篷公車"
+msgstr "丹拿雙層開篷巴士"
 
 msgid "VEHICLE_BUS_AMERICAN_POST_COACH_DESCRIPTION"
 msgstr "普通的驛馬車，是早年的大眾運輸載具。"
@@ -13551,26 +13552,26 @@ msgid "VEHICLE_BUS_AMERICAN_POST_COACH_NAME"
 msgstr "美國驛馬車"
 
 msgid "VEHICLE_BUS_BENZ_O6600_DESCRIPTION"
-msgstr "這輛梅賽德斯-賓士製造的城市公車，當時造價達 52,785 德國馬克。"
+msgstr "這輛平治製造的城市巴士，當時造價達 52,785 德國馬克。"
 
 msgid "VEHICLE_BUS_BENZ_O6600_NAME"
-msgstr "梅賽德斯-賓士 O 6600"
+msgstr "平治 O 6600"
 
 msgid "VEHICLE_BUS_BERKHOF_DUVEDEC_DESCRIPTION"
-msgstr "貝爾考夫杜德維克這款客運公車因為易於使用，收穫了非常正面的評價。"
+msgstr "貝爾考夫杜德維克這款客運巴士因為易於使用，收穫了非常正面的評價。"
 
 msgid "VEHICLE_BUS_BERKHOF_DUVEDEC_NAME"
 msgstr "貝爾考夫杜德維克"
 
 msgid "VEHICLE_BUS_BK_670_DESCRIPTION"
-msgstr "於北京市最繁忙的路線服役的柴油公車型號。"
+msgstr "於北京市最繁忙的路線服役的柴油巴士型號。"
 
 msgid "VEHICLE_BUS_BK_670_NAME"
 msgstr "BK 670"
 
 msgid "VEHICLE_BUS_CHEVROLET_C60_1974_DESCRIPTION"
 msgstr ""
-"出自雪佛蘭/GMC B 系列的 C60 有廣泛的用途，例如校車、城市公車等，在別的領域也"
+"出自雪佛蘭/GMC B 系列的 C60 有廣泛的用途，例如校車、城市巴士等，在別的領域也"
 "有使用。"
 
 msgid "VEHICLE_BUS_CHEVROLET_C60_1974_NAME"
@@ -13578,7 +13579,7 @@ msgstr "雪佛蘭 C60"
 
 msgid "VEHICLE_BUS_CITYRAMA_DESCRIPTION"
 msgstr ""
-"這輛奇異的公車是 Currus 基於雪鐵龍車架打造。全景雙層乘客車廂能在城市旅遊時提"
+"這輛奇異的巴士是 Currus 基於雪鐵龍車架打造。全景雙層乘客車廂能在城市旅遊時提"
 "供環繞四周的景緻。"
 
 msgid "VEHICLE_BUS_CITYRAMA_NAME"
@@ -13586,7 +13587,7 @@ msgstr "雪鐵龍 U55 Currus Cityrama"
 
 msgid "VEHICLE_BUS_D40_DESCRIPTION"
 msgstr ""
-"D40 城市公車由紐弗萊爾工業製造。內壁由中空的管子做成，覆蓋著一層玻璃纖維。護"
+"D40 城市巴士由紐弗萊爾工業製造。內壁由中空的管子做成，覆蓋著一層玻璃纖維。護"
 "輪板則是不銹鋼製作。"
 
 msgid "VEHICLE_BUS_D40_NAME"
@@ -13601,7 +13602,7 @@ msgid "VEHICLE_BUS_DROSHKY_NAME"
 msgstr "敞篷四輪馬車"
 
 msgid "VEHICLE_BUS_DUX_DESCRIPTION"
-msgstr "由電動馬達驅動的公車，原本是接駁飯店客人使用的車輛。"
+msgstr "由電動馬達驅動的巴士，原本是接駁飯店客人使用的車輛。"
 
 msgid "VEHICLE_BUS_DUX_NAME"
 msgstr "杜克斯"
@@ -13611,38 +13612,38 @@ msgstr "eCitaro 裝備了 6 到 10 顆電池，總輸出功率可達 243 千瓦�
 
 msgid "VEHICLE_BUS_ECITARO_LU_DESCRIPTION"
 msgstr ""
-"eCitaro 裝備了 6 到 10 顆電池，總輸出功率可達 243 千瓦小時。此款公車的設計源"
-"自於盧森堡的某款公車。"
+"eCitaro 裝備了 6 到 10 顆電池，總輸出功率可達 243 千瓦小時。此款巴士的設計源"
+"自於盧森堡的某款巴士。"
 
 msgid "VEHICLE_BUS_ECITARO_LU_NAME"
-msgstr "梅賽德斯-賓士 eCitaro（盧森堡）"
+msgstr "平治 eCitaro（盧森堡）"
 
 msgid "VEHICLE_BUS_ECITARO_NAME"
-msgstr "梅賽德斯-賓士 eCitaro"
+msgstr "平治 eCitaro"
 
 msgid "VEHICLE_BUS_ET13_DESCRIPTION"
-msgstr "奧地利製造的 ET 13 是一款應用廣泛的引擎驅動公車。"
+msgstr "奧地利製造的 ET 13 是一款應用廣泛的引擎驅動巴士。"
 
 msgid "VEHICLE_BUS_ET13_NAME"
 msgstr "郵政巴士 ET 13"
 
 msgid "VEHICLE_BUS_FUSO_B46_DESCRIPTION"
 msgstr ""
-"以日本載具的規格來看，這輛公車的內部空間異乎尋常的寬敞。製造公司的員工為這輛"
+"以日本載具的規格來看，這輛巴士的內部空間異乎尋常的寬敞。製造公司的員工為這輛"
 "車取了 \"扶桑\" 一名。"
 
 msgid "VEHICLE_BUS_FUSO_B46_NAME"
 msgstr "扶桑 B46"
 
 msgid "VEHICLE_BUS_GAGGENAU_C40_DESCRIPTION"
-msgstr "C40 是俄羅斯帝國最早的城市公車之一。是德國製造的車款。"
+msgstr "C40 是俄羅斯帝國最早的城市巴士之一。是德國製造的車款。"
 
 msgid "VEHICLE_BUS_GAGGENAU_C40_NAME"
 msgstr "嘉格納 C40"
 
 msgid "VEHICLE_BUS_GM_FISHBOWL_DESCRIPTION"
 msgstr ""
-"這輛北美標誌城市公車有一個熱門的暱稱 \"魚缸\" （金魚缸，靈感來自它的六片式圓"
+"這輛北美標誌城市巴士有一個熱門的暱稱 \"魚缸\" （金魚缸，靈感來自它的六片式圓"
 "形擋風玻璃），當年總共生產超過 44,000 輛。"
 
 msgid "VEHICLE_BUS_GM_FISHBOWL_NAME"
@@ -13650,8 +13651,8 @@ msgstr "GM 魚缸"
 
 msgid "VEHICLE_BUS_GM_FISHBOWL_WGL_DESCRIPTION"
 msgstr ""
-"這輛北美標誌城市公車有一個熱門的暱稱 \"魚缸\" （金魚缸，靈感來自它的六片式圓"
-"形擋風玻璃），當年總共生產超過 44,000 輛。這款公車原是 Greyhound Lines 公車公"
+"這輛北美標誌城市巴士有一個熱門的暱稱 \"魚缸\" （金魚缸，靈感來自它的六片式圓"
+"形擋風玻璃），當年總共生產超過 44,000 輛。這款巴士原是 Greyhound Lines 巴士公"
 "司使用，後來在聖塔克拉拉郡也有使用。"
 
 msgid "VEHICLE_BUS_GM_FISHBOWL_WGL_NAME"
@@ -13666,42 +13667,42 @@ msgstr "馬車"
 msgid "VEHICLE_BUS_LANDAUER_DESCRIPTION"
 msgstr ""
 "蘭道爾是賓士公司製造的電動客車。它也是世界上首先被席根-內特芬-道爾茲路線採用"
-"的公車。"
+"的巴士。"
 
 msgid "VEHICLE_BUS_LANDAUER_NAME"
 msgstr "蘭道爾"
 
 msgid "VEHICLE_BUS_MACK_1900_USA_DESCRIPTION"
 msgstr ""
-"麥克兄弟在 1900 年製做出了第一款成功的客運公車。它在布魯克林展望公園服役了八"
+"麥克兄弟在 1900 年製做出了第一款成功的客運巴士。它在布魯克林展望公園服役了八"
 "年，並在之後被改造成了貨車。累計里程數高達一百萬公里！"
 
 msgid "VEHICLE_BUS_MACK_1900_USA_NAME"
-msgstr "麥克公車"
+msgstr "麥克巴士"
 
 msgid "VEHICLE_BUS_MAN_SL_192_DESCRIPTION"
-msgstr "曾大量生產的標準城市公車車款。"
+msgstr "曾大量生產的標準城市巴士車款。"
 
 msgid "VEHICLE_BUS_MAN_SL_192_NAME"
-msgstr "德曼 SL 192"
+msgstr "猛獅 SL 192"
 
 msgid "VEHICLE_BUS_MAZ_103_BS_DESCRIPTION"
 msgstr ""
-"這輛公車主要應用於地方運輸。直至今日，白俄羅斯仍在生產這型號的車輛。這款公車"
+"這輛巴士主要應用於地方運輸。直至今日，白俄羅斯仍在生產這型號的車輛。這款巴士"
 "擁有現代化的外觀，以及不同的顏色。"
 
 msgid "VEHICLE_BUS_MAZ_103_BS_NAME"
 msgstr "Maz 103（白俄羅斯）"
 
 msgid "VEHICLE_BUS_MAZ_103_DESCRIPTION"
-msgstr "這輛公車主要應用於地方運輸。直至今日，白俄羅斯仍在生產這型號的車輛。"
+msgstr "這輛巴士主要應用於地方運輸。直至今日，白俄羅斯仍在生產這型號的車輛。"
 
 msgid "VEHICLE_BUS_MAZ_103_NAME"
 msgstr "小 103"
 
 msgid "VEHICLE_BUS_OBEISSANTE_DESCRIPTION"
 msgstr ""
-"法國人阿曼迪·伯雷發行的蒸氣公車。擅於長途運輸，例如在利曼與巴黎間的路線行駛。"
+"法國人阿曼迪·伯雷發行的蒸氣巴士。擅於長途運輸，例如在利曼與巴黎間的路線行駛。"
 
 msgid "VEHICLE_BUS_OBEISSANTE_NAME"
 msgstr "順從號"
@@ -13713,18 +13714,18 @@ msgid "VEHICLE_BUS_POSTKUTSCHE_NAME"
 msgstr "驛馬車"
 
 msgid "VEHICLE_BUS_SAURER_TUESCHER_DESCRIPTION"
-msgstr "結合騷合引擎底盤 2 BOD-P 與圖舍爾車身的城市公車。"
+msgstr "結合騷合引擎底盤 2 BOD-P 與圖舍爾車身的城市巴士。"
 
 msgid "VEHICLE_BUS_SAURER_TUESCHER_NAME"
 msgstr "騷合圖舍爾"
 
 msgid "VEHICLE_BUS_SCHNEIDER_PB2_DESCRIPTION"
 msgstr ""
-"施奈德 PB2 原本是一戰時法國的軍用運輸車。之後出口到包括紐約在內的許多美國城"
-"市，作為公車使用。"
+"施耐德 PB2 原本是一戰時法國的軍用運輸車。之後出口到包括紐約在內的許多美國城"
+"市，作為巴士使用。"
 
 msgid "VEHICLE_BUS_SCHNEIDER_PB2_NAME"
-msgstr "施奈德 PB2"
+msgstr "施耐德 PB2"
 
 msgid "VEHICLE_BUS_TROIKA_DESCRIPTION"
 msgstr ""
@@ -13742,27 +13743,27 @@ msgid "VEHICLE_BUS_TWIN_COACH_NAME"
 msgstr "Twin Coach 44-S"
 
 msgid "VEHICLE_BUS_VOLVO_5000_DESCRIPTION"
-msgstr "一款結合富豪底盤與賽夫勒車體的低底盤後置後驅城市公車。"
+msgstr "一款結合富豪底盤與賽夫勒車體的低底盤後置後驅城市巴士。"
 
 msgid "VEHICLE_BUS_VOLVO_5000_NAME"
 msgstr "富豪 5000"
 
 msgid "VEHICLE_BUS_WRIGHT_STREETCAR_RTV_DESCRIPTION"
 msgstr ""
-"萊特街車是萊特巴士與富豪汽車合做的一款雙節公車。使用了改良過的富豪 B7LA 底"
+"萊特街車是萊特巴士與富豪汽車合做的一款雙節巴士。使用了改良過的富豪 B7LA 底"
 "盤，有獨立的駕駛艙和空調。"
 
 msgid "VEHICLE_BUS_WRIGHT_STREETCAR_RTV_NAME"
 msgstr "萊特街車"
 
 msgid "VEHICLE_BUS_ZIS_155_DESCRIPTION"
-msgstr "ZIS-155 是蘇聯在 1950 年代最廣泛使用的城市公車型號之一。"
+msgstr "ZIS-155 是蘇聯在 1950 年代最廣泛使用的城市巴士型號之一。"
 
 msgid "VEHICLE_BUS_ZIS_155_NAME"
 msgstr "ZIS-155"
 
 msgid "VEHICLE_BUS_ZUHAI_GTQ_6186BEVBT3_DESCRIPTION"
-msgstr "充斥著未來感的珠海廣通雙節公車，是中國南方生產的電動馬達公車。"
+msgstr "充斥著未來感的珠海廣通雙節巴士，是中國南方生產的電動馬達巴士。"
 
 msgid "VEHICLE_BUS_ZUHAI_GTQ_6186BEVBT3_NAME"
 msgstr "珠海廣通公交"
@@ -13867,8 +13868,8 @@ msgstr "先鋒者微風號"
 
 msgid "VEHICLE_MULTIPLEUNIT_SPEEDANCE_DESCRIPTION"
 msgstr ""
-"高速快車是美洲地區最快的列車系列，在東北走廊線的營利服務中可達時速 150 英里。"
-"其傾斜技術可加快行駛速度。"
+"高速快車是美洲地區最快的列車系列，在東北走廊線的營利服務中可達時速 150 哩。其"
+"傾斜技術可加快行駛速度。"
 
 msgid "VEHICLE_MULTIPLEUNIT_SPEEDANCE_NAME"
 msgstr "高速快車"
@@ -14796,7 +14797,7 @@ msgstr ""
 "無利潤的次要路線。"
 
 msgid "VEHICLE_TRAIN_SCHIENENBUS_NAME"
-msgstr "鐵路公車"
+msgstr "鐵路巴士"
 
 msgid "VEHICLE_TRAIN_TEN_WHEELER_DESCRIPTION"
 msgstr ""
@@ -14925,8 +14926,8 @@ msgstr "PCC 1643 匹茲堡"
 msgid "VEHICLE_TRAM_PCC_A_7_DESCRIPTION"
 msgstr ""
 "同樣是 PCC 出身的 A-7 負責的是多倫多最繁忙的路線：布羅爾線。雖然當初是為了因"
-"應交通阻塞而啟用 PCC 的，但跑一輪會遇上 56 個交通號誌，完全干擾了有軌電車的行"
-"進。"
+"應交通阻塞而啟用 PCC 的，但跑一輪會遇上 56 個交通信號燈，完全干擾了有軌電車的"
+"行進。"
 
 msgid "VEHICLE_TRAM_PCC_A_7_NAME"
 msgstr "多倫多 PCC A-7"
@@ -15060,16 +15061,16 @@ msgid "VEHICLE_TRUCK_AMO_F15_UNIVERSAL_NAME"
 msgstr "AMO F15 篷布貨車"
 
 msgid "VEHICLE_TRUCK_BENZ1912_LKW_DESCRIPTION"
-msgstr "梅賽德斯-賓士的早期貨車典型，當時仍在使用實心橡皮輪。"
+msgstr "平治的早期貨車典型，當時仍在使用實心橡皮輪。"
 
 msgid "VEHICLE_TRUCK_BENZ1912_LKW_NAME"
-msgstr "賓士篷布貨車"
+msgstr "平治篷布貨車"
 
 msgid "VEHICLE_TRUCK_BENZ1912_LKW_STAKE_DESCRIPTION"
-msgstr "梅賽德斯-賓士的早期貨車典型，當時仍在使用實心橡皮輪。"
+msgstr "平治的早期貨車典型，當時仍在使用實心橡皮輪。"
 
 msgid "VEHICLE_TRUCK_BENZ1912_LKW_STAKE_NAME"
-msgstr "賓士護欄貨車"
+msgstr "平治護欄貨車"
 
 msgid "VEHICLE_TRUCK_CASCADIA_2009_DESCRIPTION"
 msgstr "卡斯卡迪亞是福萊納的代表車種。有省油與高功率兩種引擎可選。"
@@ -15093,7 +15094,7 @@ msgstr "CAT 砂石車"
 
 msgid "VEHICLE_TRUCK_DMG_CANNSTATT_DESCRIPTION"
 msgstr ""
-"戴姆勒汽車公司原是德國的引擎製造商，後來成為汽車製造商。營運年份為 1890 至 "
+"丹拿汽車公司原是德國的引擎製造商，後來成為汽車製造商。營運年份為 1890 至 "
 "1926 年。"
 
 msgid "VEHICLE_TRUCK_DMG_CANNSTATT_NAME"
@@ -15266,11 +15267,11 @@ msgstr "麥克 AC 篷布貨車"
 
 msgid "VEHICLE_TRUCK_MAN_19_304_1970_DESCRIPTION"
 msgstr ""
-"三車軸德曼 D 2658 ，裝配 V8 引擎，馬利達 230 hp。首創可往前折疊的引擎蓋，方便"
+"三車軸猛獅 D 2658 ，裝配 V8 引擎，馬利達 230 hp。首創可往前折疊的引擎蓋，方便"
 "維修工作。"
 
 msgid "VEHICLE_TRUCK_MAN_19_304_1970_NAME"
-msgstr "德曼 19.304 篷布貨車"
+msgstr "猛獅 19.304 篷布貨車"
 
 msgid "VEHICLE_TRUCK_MAN_19_304_TANKER_DESCRIPTION"
 msgstr ""
@@ -15278,7 +15279,7 @@ msgstr ""
 "作。"
 
 msgid "VEHICLE_TRUCK_MAN_19_304_TANKER_NAME"
-msgstr "德曼 19.304 油罐車"
+msgstr "猛獅 19.304 油罐車"
 
 msgid "VEHICLE_TRUCK_MAN_19_304_TIPPER_DESCRIPTION"
 msgstr ""
@@ -15286,7 +15287,7 @@ msgstr ""
 "作。"
 
 msgid "VEHICLE_TRUCK_MAN_19_304_TIPPER_NAME"
-msgstr "德曼 19.304 砂石車"
+msgstr "猛獅 19.304 砂石車"
 
 msgid "VEHICLE_TRUCK_NW_FIRST_TRUCK_DESCRIPTION"
 msgstr ""
@@ -15507,8 +15508,8 @@ msgstr "棚車"
 
 msgid "VEHICLE_WAGGON_BOXCAR_AS_1950_DESCRIPTION"
 msgstr ""
-"密閉的貨運車廂，載運量可達 120 立方公尺。擁有特殊的設計，可抵禦竊盜、惡劣天氣"
-"或機械性過載的狀況。"
+"密閉的貨運車廂，載運量可達 120 立方米。擁有特殊的設計，可抵禦竊盜、惡劣天氣或"
+"機械性過載的狀況。"
 
 msgid "VEHICLE_WAGGON_BOXCAR_AS_1950_NAME"
 msgstr "棚車"
@@ -16053,7 +16054,7 @@ msgid "Very high"
 msgstr "非常高"
 
 msgid "meters"
-msgstr "公尺"
+msgstr "米"
 
 msgid "no"
 msgstr "否"
@@ -16074,7 +16075,7 @@ msgid "stone acting as a stop"
 msgstr "用石材充當停靠站"
 
 msgid "stone bus stop"
-msgstr "石製公車停靠站"
+msgstr "石製巴士停靠站"
 
 msgid "track signals need to be placed in highlighted area"
 msgstr "軌道訊號需要放置在醒目區域"
