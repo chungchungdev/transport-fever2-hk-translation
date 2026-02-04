@@ -12569,7 +12569,7 @@ msgid "Navigable waters layer"
 msgstr "適航水域圖層"
 
 msgid "Never"
-msgstr "從不"
+msgstr "永不"
 
 msgid "New Line"
 msgstr "新路線"
@@ -13458,10 +13458,10 @@ msgid "Tram track"
 msgstr "輕軌電車軌道"
 
 msgid "Transport Fever"
-msgstr "Transport Fever"
+msgstr "運輸業大亨"
 
 msgid "Transport Fever 2"
-msgstr "Transport Fever 2"
+msgstr "運輸業大亨2"
 
 msgid "Tree"
 msgstr "樹木"

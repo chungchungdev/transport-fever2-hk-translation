@@ -403,7 +403,7 @@ msgid "Age"
 msgstr "使用期限"
 
 msgid "Air"
-msgstr "空路"
+msgstr "空運"
 
 msgid "Aircraft"
 msgid_plural "Aircraft"
@@ -567,7 +567,7 @@ msgid ""
 msgstr "{townName} 的居民可使用的平均購物設施與工作數量"
 
 msgid "BONUS TASKS"
-msgstr "獎勵任務"
+msgstr "獎勵差事"
 
 msgid "Back"
 msgstr "返回"
@@ -618,10 +618,10 @@ msgid "Bob Ross"
 msgstr "鮑伯·魯斯"
 
 msgid "Bonus task completed"
-msgstr "獎勵任務已完成"
+msgstr "獎勵差事已完成"
 
 msgid "Bonus tasks"
-msgstr "獎勵任務"
+msgstr "獎勵差事"
 
 msgid "Borderless"
 msgstr "無邊框"
@@ -1436,7 +1436,7 @@ msgid "Deluxe Edition"
 msgstr "Deluxe Edition"
 
 msgid "Departure configuration"
-msgstr "發車設定"
+msgstr "出發設定"
 
 msgid "Dependencies ({num})"
 msgstr "依賴項 ({num})"
@@ -1931,7 +1931,7 @@ msgid "Free Game"
 msgstr "自由遊戲"
 
 msgid "Free camera"
-msgstr "自由攝影機"
+msgstr "自由鏡頭"
 
 msgid "Freq."
 msgstr "頻率"
@@ -2644,13 +2644,13 @@ msgid "Low"
 msgstr "低"
 
 msgid "Lower"
-msgstr "下降"
+msgstr "降低"
 
 msgid "Lower the terrain."
-msgstr "壓下地形。"
+msgstr "降低地形。"
 
 msgid "Lower tool"
-msgstr "壓下工具"
+msgstr "降低工具"
 
 msgid "Lower {townName}"
 msgstr "下 {townName}"
@@ -2752,10 +2752,10 @@ msgid "Maximum segment length reached"
 msgstr "已達最大路段長度"
 
 msgid "Maximum time before departure"
-msgstr "發車前最大停止時間"
+msgstr "出發前最大停止時間"
 
 msgid "Mediocre"
-msgstr "中等"
+msgstr "一般"
 
 msgid "Menu"
 msgstr "選單"
@@ -2773,7 +2773,7 @@ msgid "Min. tunnel depth"
 msgstr "最小隧道深度"
 
 msgid "Minimum time before departure"
-msgstr "發車前最小停止時間"
+msgstr "出發前最小停止時間"
 
 msgid "Minus old vehicle value"
 msgstr "減去老舊載具價值"
@@ -2827,7 +2827,7 @@ msgid "Mod details"
 msgstr "模組詳細資訊"
 
 msgid "Mod no longer available"
-msgstr "MOD 不再可用"
+msgstr "模組已不可用"
 
 msgid "Mod not installed"
 msgstr "未安裝模組"
@@ -2865,7 +2865,7 @@ msgid "Module bulldozer"
 msgstr "模組推土機"
 
 msgid "Money number format"
-msgstr "金錢數字格式"
+msgstr "貨幣格式"
 
 msgid "Month"
 msgstr "月"
@@ -2913,7 +2913,7 @@ msgid "Move vehicle up"
 msgstr "將載具上移"
 
 msgid "Movement sensitivity (game camera)"
-msgstr "移動靈敏度 (遊戲攝影機)"
+msgstr "移動靈敏度 (遊戲鏡頭)"
 
 msgid "Multiple units"
 msgstr "列車組"
@@ -2955,7 +2955,7 @@ msgid "Network Error"
 msgstr "網路錯誤"
 
 msgid "Never"
-msgstr "從不"
+msgstr "永不"
 
 msgid "New cargo demand"
 msgstr "需要新貨物"
@@ -2991,16 +2991,16 @@ msgid "No Line"
 msgstr "沒有路線"
 
 msgid "No bridge"
-msgstr "無橋樑"
+msgstr "沒有橋樑"
 
 msgid "No cargo type"
-msgstr "無貨物類型"
+msgstr "沒有貨物類型"
 
 msgid "No construction set!"
 msgstr "沒有已設置的建築！"
 
 msgid "No costs"
-msgstr "無成本"
+msgstr "沒有成本"
 
 msgid "No country for old trains"
 msgstr "不是老舊列車待的地方"
@@ -3024,7 +3024,7 @@ msgid "No lines have been created yet. Create lines to see them here."
 msgstr "尚未建立任何路線。建立路線，即可在此處顯示路線。"
 
 msgid "No logo"
-msgstr "無商標"
+msgstr "沒有商標"
 
 msgid ""
 "No maps available.\n"
@@ -3053,10 +3053,10 @@ msgid "No mods match your current search or filter"
 msgstr "沒有與目前搜尋內容或篩選條件相符的模組"
 
 msgid "No money:"
-msgstr "沒有金錢："
+msgstr "沒有資金："
 
 msgid "No parameters"
-msgstr "無參數"
+msgstr "沒有參數"
 
 msgid "No path"
 msgstr "沒有路徑"
@@ -3098,10 +3098,10 @@ msgid "No tasks available"
 msgstr "沒有可做的差事"
 
 msgid "No tunnel"
-msgstr "無隧道"
+msgstr "沒有隧道"
 
 msgid "No vehicle in depot"
-msgstr "車庫無載具"
+msgstr "車庫沒有載具"
 
 msgid "No vehicle to replace"
 msgstr "沒有載具可供替換"
@@ -3134,10 +3134,10 @@ msgid "Not contained by any line as waypoint"
 msgstr "沒有被任何路線納為路徑點"
 
 msgid "Not enough money"
-msgstr "金錢不足"
+msgstr "資金不足"
 
 msgid "Not enough money."
-msgstr "金錢不足。"
+msgstr "資金不足。"
 
 msgid "Not in my backyard"
 msgstr "不要在我家後院"
@@ -3200,7 +3200,7 @@ msgid "Only show lines that are visible in the main view"
 msgstr "只顯示在主要畫面中可見的路線"
 
 msgid "Only show railroad lines and depots"
-msgstr "只顯示鐵道路線和車庫"
+msgstr "只顯示鐵路路線和車庫"
 
 msgid "Only show road lines and depots"
 msgstr "只顯示道路路線和車庫"
@@ -3242,10 +3242,10 @@ msgid "OpenGL"
 msgstr "OpenGL"
 
 msgid "Optional: Enter email address"
-msgstr "選擇性：輸入電子郵件地址"
+msgstr "非必要：輸入電子郵件地址"
 
 msgid "Optional: Enter name"
-msgstr "選擇性：輸入名稱"
+msgstr "非必要：輸入名稱"
 
 msgid "Options:"
 msgstr "選項："
@@ -3275,10 +3275,10 @@ msgid "Overloaded stations"
 msgstr "車站超負荷"
 
 msgid "Overview"
-msgstr "簡報"
+msgstr "概覽"
 
 msgid "Overwrite camera config?"
-msgstr "覆蓋鏡頭設定？"
+msgstr "覆寫鏡頭設定？"
 
 msgid "Overwrite description and preview image"
 msgstr "覆寫描述和預覽圖片"
@@ -3287,13 +3287,13 @@ msgid "Overwrite description, summary and preview image"
 msgstr "覆寫描述、摘要和預覽圖片"
 
 msgid "Overwrite heightmap?"
-msgstr "要覆蓋高度圖嗎？"
+msgstr "要覆寫高度圖嗎？"
 
 msgid "Overwrite mod preset?"
-msgstr "要覆蓋模組預設嗎？"
+msgstr "要覆寫模組預設嗎？"
 
 msgid "Overwrite savegame?"
-msgstr "要覆蓋遊戲存檔嗎？"
+msgstr "要覆寫遊戲存檔嗎？"
 
 msgid "Own streets."
 msgstr "以玩家所有權升級街道，所有權自動變化。"
@@ -3308,10 +3308,10 @@ msgid "Paint tools"
 msgstr "繪圖工具"
 
 msgid "Pan sensitivity (free camera)"
-msgstr "追拍靈敏度 (自由攝影機)"
+msgstr "搖鏡靈敏度 (自由鏡頭)"
 
 msgid "Pan sensitivity (game camera)"
-msgstr "追拍靈敏度 (遊戲攝影機)"
+msgstr "搖鏡靈敏度 (遊戲鏡頭)"
 
 msgid "Passenger"
 msgstr "乘客"
@@ -3431,7 +3431,7 @@ msgid "Point to the terrain"
 msgstr "指向地形"
 
 msgid "Poor"
-msgstr "表現不佳"
+msgstr "糟糕"
 
 msgid "Population"
 msgstr "人口"
@@ -3465,7 +3465,7 @@ msgid ""
 msgstr "按下 [iaHint=IA_SELECT/] 或 [iaHint=IA_NAV_ACTIVATE_SPACE/] 以繼續..."
 
 msgid "Press any key"
-msgstr "按下任一按鍵"
+msgstr "按任意鍵"
 
 msgid "Previous resolution setting will be restored in %2d seconds!"
 msgstr "將在 %2d 秒後回到之前的解析度設定！"
@@ -3492,7 +3492,7 @@ msgid "Prohibited area"
 msgstr "禁區"
 
 msgid "Public transport"
-msgstr "大眾運輸"
+msgstr "公共交通"
 
 msgid "Publish"
 msgstr "發布"
@@ -3507,10 +3507,10 @@ msgid "Publishing..."
 msgstr "發布中..."
 
 msgid "Quality"
-msgstr "品質"
+msgstr "質素"
 
 msgid "Quality of life in {townName}"
-msgstr "在 {townName} 的生活品質"
+msgstr "在 {townName} 的生活質素"
 
 msgid "Quantity"
 msgstr "數量"
@@ -3528,22 +3528,22 @@ msgid "Quit to main menu or desktop"
 msgstr "離開並回到主選單或桌面"
 
 msgid "Rail"
-msgstr "鐵軌"
+msgstr "鐵路"
 
 msgid "Railroad"
-msgstr "鐵道"
+msgstr "鐵路"
 
 msgid "Railroad crossing"
-msgstr "鐵道穿越道"
+msgstr "平交道"
 
 msgid "Raise"
-msgstr "提升"
+msgstr "升高"
 
 msgid "Raise the terrain."
-msgstr "抬升地形。"
+msgstr "升高地形。"
 
 msgid "Raise tool"
-msgstr "抬升工具"
+msgstr "升高工具"
 
 msgid "Random"
 msgstr "隨機"
@@ -3786,10 +3786,10 @@ msgid "Roads"
 msgstr "道路"
 
 msgid "Rotate sensitivity (free camera)"
-msgstr "旋轉靈敏度 (自由攝影機)"
+msgstr "旋轉靈敏度 (自由鏡頭)"
 
 msgid "Rotate sensitivity (game camera)"
-msgstr "旋轉靈敏度 (遊戲攝影機)"
+msgstr "旋轉靈敏度 (遊戲鏡頭)"
 
 msgid "Rotation"
 msgstr "旋轉"
@@ -3983,7 +3983,7 @@ msgid "Set Bridge Type"
 msgstr "設定橋梁類型"
 
 msgid "Set Railroad Crossing Type"
-msgstr "設定鐵道穿越道類型"
+msgstr "設定平交道類型"
 
 msgid "Set Tunnel Type"
 msgstr "設定隧道類型"
@@ -4107,10 +4107,10 @@ msgid "Show/hide HUD icon filter menu"
 msgstr "顯示/隱藏 HUD 圖示篩選器選單"
 
 msgid "Show/hide air buildings menu"
-msgstr "顯示/隱藏空路建築物選單"
+msgstr "顯示/隱藏空運建築物選單"
 
 msgid "Show/hide air menu"
-msgstr "顯示/隱藏空路選單"
+msgstr "顯示/隱藏空運選單"
 
 msgid "Show/hide assets menu"
 msgstr "顯示/隱藏地上物選單"
@@ -4236,10 +4236,10 @@ msgid "Show/hide warnings window"
 msgstr "顯示/隱藏警告視窗"
 
 msgid "Show/hide water buildings menu"
-msgstr "顯示/隱藏水路建築物選單"
+msgstr "顯示/隱藏航運建築物選單"
 
 msgid "Show/hide water menu"
-msgstr "顯示/隱藏水路選單"
+msgstr "顯示/隱藏航運選單"
 
 msgid "Showing {from}-{to} of {total} mods"
 msgstr "正在顯示 {from} 至 {to} 的模組 (共 {total} 個)"
@@ -4554,10 +4554,10 @@ msgid "The camera config \"{}\" already exists. Do you want to overwrite it?"
 msgstr "相機設定「{}」已存在。要覆蓋嗎？"
 
 msgid "The condition is very bad."
-msgstr "狀況非常糟糕。"
+msgstr "狀況惡劣。"
 
 msgid "The condition of multiple vehicles is very bad."
-msgstr "多輛載具的狀況非常糟糕。"
+msgstr "多輛載具的狀況惡劣。"
 
 msgid ""
 "The description contains unsupported or malformed elements and cannot be "
@@ -4758,7 +4758,7 @@ msgid "Total electrified"
 msgstr "電氣化總數"
 
 msgid "Total growth: %1% residents"
-msgstr "總成長：%1% 居民"
+msgstr "總增長：%1% 居民"
 
 msgid "Total high-speed"
 msgstr "高速道路總數"
@@ -4783,7 +4783,7 @@ msgid "Town builder"
 msgstr "城鎮建造器"
 
 msgid "Town growth"
-msgstr "城鎮成長"
+msgstr "城鎮增長"
 
 msgid "Town names:"
 msgstr "城鎮名稱:"
@@ -4871,10 +4871,10 @@ msgid "Transport"
 msgstr "運輸"
 
 msgid "Transport Fever"
-msgstr "運輸狂熱者"
+msgstr "運輸業大亨"
 
 msgid "Transport Fever 2"
-msgstr "Transport Fever 2"
+msgstr "運輸業大亨2"
 
 msgid "Transport belt"
 msgstr "運輸帶"
@@ -4910,7 +4910,7 @@ msgid "Trending"
 msgstr "正在流行"
 
 msgid "Trophy set for Transport Fever 2"
-msgstr "Transport Fever 2獎盃組"
+msgstr "運輸業大亨2獎盃組"
 
 msgid "Truck"
 msgstr "貨車"
@@ -4951,7 +4951,7 @@ msgstr "找不到前往停靠站的路徑"
 msgid ""
 "Unable to load. The current save contains content that is not included in "
 "your version."
-msgstr "無法加載。當前存檔包含您的版本中不包含的內容。"
+msgstr "無法載入。當前存檔包含您的版本中不包含的內容。"
 
 msgid "Unconnected streets"
 msgstr "未連結的街道"
@@ -4960,7 +4960,7 @@ msgid "Understood!"
 msgstr "瞭解"
 
 msgid "Unemployed"
-msgstr "未僱用"
+msgstr "失業"
 
 msgid "Uninstall pending"
 msgstr "解除安裝待定中"
@@ -4987,7 +4987,7 @@ msgid "Unlock all trophies."
 msgstr "解鎖所有獎盃。"
 
 msgid "Unsaved changes will be lost."
-msgstr "未儲存的變更將會流失。"
+msgstr "未儲存的變更將會遺失。"
 
 msgid "Unsubscribe"
 msgstr "取消訂閱"
@@ -5127,10 +5127,10 @@ msgid "Vehicles in depot"
 msgstr "車庫內具有載具"
 
 msgid "Vehicles never expire"
-msgstr "載具從不失效"
+msgstr "載具永不失效"
 
 msgid "Vehicles never expire:"
-msgstr "載具從不失效："
+msgstr "載具永不失效："
 
 msgid "Vehicles on line"
 msgstr "路線上的載具"
@@ -5145,16 +5145,16 @@ msgid "Vehicles:"
 msgstr "載具："
 
 msgid "Very bad"
-msgstr "非常差"
+msgstr "惡劣"
 
 msgid "Very good"
-msgstr "非常好"
+msgstr "絕佳"
 
 msgid "Very high"
 msgstr "非常高"
 
 msgid "Very poor"
-msgstr "非常窮"
+msgstr "惡劣"
 
 msgid "Video"
 msgstr "影像"
@@ -5208,7 +5208,7 @@ msgid "Warnings"
 msgstr "警告"
 
 msgid "Water"
-msgstr "水路"
+msgstr "航運"
 
 msgid "Water level:"
 msgstr "水位："
@@ -5292,7 +5292,7 @@ msgid "Zoom out from cursor"
 msgstr "從游標處縮小"
 
 msgid "Zoom sensitivity (game camera)"
-msgstr "縮放靈敏度 (遊戲攝影機)"
+msgstr "縮放靈敏度 (遊戲鏡頭)"
 
 msgid "Zoom to cursor"
 msgstr "拉近至游標"
@@ -5310,7 +5310,7 @@ msgid "[{key}] is used by a predefined function and can not be assigned."
 msgstr "[{key}] 已用於預先設定的功能，無法變更。"
 
 msgid "around {mission_year}"
-msgstr "大约 {mission_year}"
+msgstr "大約 {mission_year}"
 
 msgid "can not reach next"
 msgstr "無法到達下一個車站"
@@ -5570,7 +5570,7 @@ msgstr "飛機"
 
 msgctxt "mod-tags"
 msgid "Railroad Crossing"
-msgstr "鐵道穿越道"
+msgstr "平交道"
 
 msgctxt "mod-tags"
 msgid "Road Depot"
@@ -5777,7 +5777,7 @@ msgstr "查看成就"
 
 msgctxt "platform-pc"
 msgid "Swap sticks (game camera)"
-msgstr "搖桿互換 (遊戲攝影機)"
+msgstr "搖桿互換 (遊戲鏡頭)"
 
 msgctxt "platform-pc"
 msgid "Swap sticks (menu navigation)"
@@ -5807,7 +5807,7 @@ msgstr "無線控制器"
 
 msgctxt "platform-playstation"
 msgid "Swap sticks (game camera)"
-msgstr "搖桿互換 (遊戲攝影機)"
+msgstr "搖桿互換 (遊戲鏡頭)"
 
 msgctxt "platform-playstation"
 msgid "Swap sticks (menu navigation)"
@@ -5857,7 +5857,7 @@ msgstr "控制器設定"
 
 msgctxt "platform-xbox"
 msgid "Swap sticks (game camera)"
-msgstr "搖桿互換 (遊戲攝影機)"
+msgstr "搖桿互換 (遊戲鏡頭)"
 
 msgctxt "platform-xbox"
 msgid "Swap sticks (menu navigation)"
