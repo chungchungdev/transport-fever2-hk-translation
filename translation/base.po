@@ -5244,7 +5244,7 @@ msgid "Windowed"
 msgstr "視窗化"
 
 msgid "With lines"
-msgstr "乘坐大眾運輸工具"
+msgstr "乘坐公共交通工具"
 
 msgid "Work"
 msgstr "工作"
