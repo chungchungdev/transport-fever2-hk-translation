@@ -89,6 +89,56 @@ log_success "Mod name pattern is valid: $MOD_NAME"
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 PROJECT_ROOT="$(dirname "$SCRIPT_DIR")"
 
+# Translation directories
+TRANSLATION_DIR="$PROJECT_ROOT/translation"
+TRANSLATION_OUTPUT_DIR="$PROJECT_ROOT/mod/res/strings/zh_HK/LC_MESSAGES"
+
+# Compile translation files (.po to .mo)
+if [ -d "$TRANSLATION_DIR" ]; then
+    log_info "Checking for translation files..."
+    PO_FILES=$(find "$TRANSLATION_DIR" -name "*.po" 2>/dev/null)
+
+    if [ -n "$PO_FILES" ]; then
+        log_info "Compiling translation files..."
+
+        # Check if msgfmt is available
+        if ! command -v msgfmt &> /dev/null; then
+            log_error "msgfmt command not found. Please install gettext package."
+            echo "  Ubuntu/Debian: sudo apt-get install gettext"
+            echo "  Fedora: sudo dnf install gettext"
+            echo "  Arch: sudo pacman -S gettext"
+            exit 1
+        fi
+
+        # Create output directory if it doesn't exist
+        mkdir -p "$TRANSLATION_OUTPUT_DIR"
+
+        # Compile each .po file to .mo
+        COMPILED_COUNT=0
+        while IFS= read -r po_file; do
+            filename=$(basename "$po_file" .po)
+            mo_file="$TRANSLATION_OUTPUT_DIR/${filename}.mo"
+
+            log_info "Compiling: $filename.po -> $filename.mo"
+            msgfmt "$po_file" -o "$mo_file"
+
+            if [ $? -eq 0 ]; then
+                ((COMPILED_COUNT++))
+                log_success "Compiled: $filename.mo"
+            else
+                log_error "Failed to compile: $po_file"
+                exit 1
+            fi
+        done <<< "$PO_FILES"
+
+        log_success "Translation compilation completed: $COMPILED_COUNT file(s)"
+    else
+        log_warning "No .po files found in $TRANSLATION_DIR"
+    fi
+else
+    log_warning "Translation directory not found: $TRANSLATION_DIR"
+fi
+
 # Source directory
 SOURCE_DIR="$PROJECT_ROOT/mod"
 
