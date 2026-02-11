@@ -3365,7 +3365,7 @@ msgid "Place random trees with a brush."
 msgstr "以筆刷放置隨機種類的樹木。"
 
 msgid "Platform:"
-msgstr "平台："
+msgstr "月台："
 
 msgid "Play Map"
 msgstr "遊玩地圖"

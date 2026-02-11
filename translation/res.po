@@ -52,7 +52,7 @@ msgid "1 m"
 msgstr "1 米"
 
 msgid "100 m x 50 m platform."
-msgstr "100 米 x 50 米平台。"
+msgstr "100 米 x 50 米月台。"
 
 msgid "100%"
 msgstr "100%"
@@ -118,7 +118,7 @@ msgid "5"
 msgstr "5"
 
 msgid "50 m x 50 m platform."
-msgstr "50 米 x 50 米平台。"
+msgstr "50 米 x 50 米月台。"
 
 msgid "50%"
 msgstr "50%"
@@ -145,10 +145,10 @@ msgid "A lamp."
 msgstr "一盞燈。"
 
 msgid "A platform for passengers."
-msgstr "用於客運的平台。"
+msgstr "用於客運的月台。"
 
 msgid "A platform with underground connection for passengers."
-msgstr "帶地下通道的客運平台。"
+msgstr "帶地下通道的客運月台。"
 
 msgid "A small ramp to connect to the street."
 msgstr "用於連接街道的小型坡道。"
@@ -454,7 +454,7 @@ msgid "Cargo layer"
 msgstr "貨物圖層"
 
 msgid "Cargo platform"
-msgstr "貨運平台"
+msgstr "貨運月台"
 
 msgid "Cargo station"
 msgstr "貨運站"
@@ -767,14 +767,14 @@ msgid ""
 "Roof for passenger platforms."
 msgstr ""
 "裝飾物。\n"
-"用於客運平台的吊頂。"
+"用於客運月台的頂棚。"
 
 msgid ""
 "Decorative.\n"
 "Roof with a special design for passenger platforms."
 msgstr ""
 "裝飾物。\n"
-"特別設計的吊頂，用於客運平台。"
+"特別設計的頂棚，用於客運月台。"
 
 msgid "Deer"
 msgstr "鹿"
@@ -5129,7 +5129,7 @@ msgid "MISSION_ICE_TASK_PRIVATE_REDUCE_NAME"
 msgstr "基礎建設優化"
 
 msgid "MISSION_ICE_TASK_PRIVATE_REDUCE_SUB1"
-msgstr "已移除的列車平台總長（米）"
+msgstr "已移除的列車月台總長（米）"
 
 msgid "MISSION_ICE_TASK_PRIVATE_REDUCE_SUB2"
 msgstr "已移除鐵軌總長（米）"
@@ -12259,7 +12259,7 @@ msgstr ""
 "主建築，帶有通往大型機場的街道出入口。提供 100 個貨物與 200 名乘客容量。"
 
 msgid "Main platform"
-msgstr "主平台"
+msgstr "主月台"
 
 msgid "Mainland"
 msgstr "大陸"
@@ -12704,10 +12704,10 @@ msgid "Passenger harbor"
 msgstr "客運港口"
 
 msgid "Passenger platform"
-msgstr "客運平台"
+msgstr "客運月台"
 
 msgid "Passenger platform (with underpass)"
-msgstr "客運平台 (帶地下通道)"
+msgstr "客運月台 (帶地下通道)"
 
 msgid "Passenger station"
 msgstr "客運站"
@@ -12773,28 +12773,28 @@ msgid "Plastic"
 msgstr "塑膠"
 
 msgid "Platform for cargo."
-msgstr "用於貨運的平台。"
+msgstr "用於貨運的月台。"
 
 msgid "Platform for waiting cargo."
-msgstr "用作貨運等候區的平台。"
+msgstr "用作貨運等候區的月台。"
 
 msgid "Platform for waiting passengers."
-msgstr "用作客運等候區的平台。"
+msgstr "用作客運等候區的月台。"
 
 msgid "Platform length"
-msgstr "平台長度"
+msgstr "月台長度"
 
 msgid "Platform roof"
-msgstr "平台吊頂"
+msgstr "月台頂棚"
 
 msgid "Platforms"
-msgstr "月臺"
+msgstr "月台"
 
 msgid "Platforms Left"
-msgstr "左側平台"
+msgstr "左側月台"
 
 msgid "Platforms Right"
-msgstr "右側平台"
+msgstr "右側月台"
 
 msgid "Private transport"
 msgstr "私人交通"
@@ -13173,7 +13173,7 @@ msgid "Spanish"
 msgstr "西班牙文"
 
 msgid "Special platform roof"
-msgstr "特製平台吊頂"
+msgstr "特製月台頂棚"
 
 msgid "Specialized tracks for higher speeds."
 msgstr "用於更高速度的特製軌道。"
@@ -13500,7 +13500,7 @@ msgid "Two-lane street with a speed limit of %2%."
 msgstr "限速 %2% 的雙線街道。"
 
 msgid "Underpass for passenger platforms."
-msgstr "客運平台地下通道。"
+msgstr "客運月台地下通道。"
 
 msgid "Unfortunate!"
 msgstr "真遺憾！"
