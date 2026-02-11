@@ -1,0 +1,198 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TransportFever\n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: 2024-12-05 16:43+0100\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.5\n"
+
+msgid "Camera move down"
+msgstr "Camera move backward"
+
+msgid "Camera move up"
+msgstr "Camera move forward"
+
+msgid "Cargo stop can not used by passenger vehicles"
+msgstr "Cargo stop can not be used by passenger vehicles"
+
+msgid "Graphics Preference"
+msgstr "Graphics mode"
+
+msgid "MODIO_INFO"
+msgstr ""
+"Mod.io is Urban Games recommended mod browser for Transport Fever 2 and "
+"allows all PC users (not just Steam users) as well as the users of "
+"PlayStation®5 and Xbox Series X|S to download both, asset and script mods "
+"for Transport Fever 2.\n"
+"\n"
+"In order to make them available to the large console and non-steam user "
+"community, mod creators have to specifically upload their mods to mod.io "
+"which can easily be done through the in-game mod-publishing tool. Mods from "
+"mod.io can directly be downloaded, installed and are automatically updated "
+"using our in-game mod browser. A big thank you to all modders for your "
+"contribution."
+
+msgid "MODIO_INFO_CONSOLE"
+msgstr ""
+"Mod.io is Urban Games recommended mod browser for Transport Fever 2.\n"
+"\n"
+"Mods from mod.io can directly be downloaded, installed and are automatically "
+"updated using our in-game mod browser. A big thank you to all modders for "
+"your contribution."
+
+msgid "Maximum time before departure"
+msgstr "Maximum stop time before departure"
+
+msgid "Minimum time before departure"
+msgstr "Minimum stop time before departure"
+
+msgid "NEW_GAME_TAKING_TOO_LONG_STR"
+msgstr ""
+"The initialization of the map takes a bit longer. The game will start soon."
+
+msgid "Not compatible for replacement"
+msgstr "Not compatible"
+
+msgid "Own streets."
+msgstr "Upgrade streets with player ownership to regulate automatic changes."
+
+msgid "Player ownership control tool"
+msgstr "Player ownership tool"
+
+msgid "Reload all textures?"
+msgstr "Reload textures?"
+
+msgid "Save... get ready to play map"
+msgstr "Save..."
+
+msgid "Sign in with Email"
+msgstr "Use your email address"
+
+msgid ""
+"This requires reloading all textures, might take a long time and will "
+"momentarily freeze the game. Save your progression before triggering this "
+"operation."
+msgstr ""
+"This requires reloading all textures except terrain textures and might take "
+"a while."
+
+msgid "Traffic light control tool"
+msgstr "Traffic light tool"
+
+msgid "Use <Alt> + <Enter> to toggle between full-screen and windowed mode."
+msgstr "Use <Alt> + <Enter> to toggle between display modes."
+
+msgid "Use the <<{horn}>> button to sound the horn"
+msgstr "Use the [iaHint=cockpitCameraHorn/] button to sound the horn"
+
+msgid ""
+"Use the <<{next}>> and <<{prev}>> buttons to change the position of the "
+"cockpit camera"
+msgstr ""
+"Use the [iaHint=cockpitCameraPosNext/] and "
+"[iaHint=cockpitCameraPosPrevious/] buttons to change the position of the "
+"cockpit camera"
+
+msgid "max. wait time"
+msgstr "Max. stop time"
+
+msgid "min. wait time"
+msgstr "Min. stop time"
+
+msgctxt "platform"
+msgid "Use your Console-Account"
+msgstr "Use your Console Account"
+
+msgctxt "platform"
+msgid "Use your Epic Games-Account"
+msgstr "Use your Epic Games Account"
+
+msgctxt "platform"
+msgid "Use your Steam-Account"
+msgstr "Use your Steam Account"
+
+msgctxt "platform"
+msgid "use your GOG-Account"
+msgstr "Use your GOG Account"
+
+msgctxt "platform-pc"
+msgid "Achievements can't be earned if the following settings are used:"
+msgstr "Achievements will be disabled when playing using this settings:"
+
+msgctxt "platform-pc"
+msgid ""
+"Achievements cannot be earned in this game because mods are or have been "
+"active."
+msgstr "Achievements disabled!"
+
+msgctxt "platform-pc"
+msgid ""
+"Mods are active or advanced settings are modified. Achievements cannot be "
+"earned!"
+msgstr "Achievements disabled!"
+
+msgctxt "platform-pc"
+msgid "Swap sticks (game camera)"
+msgstr "Swap sticks (game camera)"
+
+msgctxt "platform-pc"
+msgid "Swap sticks (menu navigation)"
+msgstr "Swap sticks (menu navigation)"
+
+msgctxt "platform-playstation"
+msgid ""
+"Cheats are active or advanced settings are modified. Trophies cannot be "
+"earned!"
+msgstr "Trophies disabled!"
+
+msgctxt "platform-playstation"
+msgid "Controller settings"
+msgstr "Wireless controller"
+
+msgctxt "platform-playstation"
+msgid "Swap sticks (game camera)"
+msgstr "Swap sticks (game camera)"
+
+msgctxt "platform-playstation"
+msgid "Swap sticks (menu navigation)"
+msgstr "Swap sticks (menu navigation)"
+
+msgctxt "platform-playstation"
+msgid "Trophies can't be earned if the following settings are used:"
+msgstr "Trophies will be disabled when playing using this settings:"
+
+msgctxt "platform-playstation"
+msgid ""
+"Trophies cannot be earned in this game because cheats are or have been "
+"active."
+msgstr "Trophies disabled!"
+
+msgctxt "platform-xbox"
+msgid "Achievements can't be earned if the following settings are used:"
+msgstr "Achievements will be disabled when playing using this settings:"
+
+msgctxt "platform-xbox"
+msgid ""
+"Achievements cannot be earned in this game because cheats are or have been "
+"active."
+msgstr "Achievements disabled!"
+
+msgctxt "platform-xbox"
+msgid ""
+"Cheats are active or advanced settings are modified. Achievements cannot be "
+"earned!"
+msgstr "Achievements disabled!"
+
+msgctxt "platform-xbox"
+msgid "Swap sticks (game camera)"
+msgstr "Swap sticks (game camera)"
+
+msgctxt "platform-xbox"
+msgid "Swap sticks (menu navigation)"
+msgstr "Swap sticks (menu navigation)"

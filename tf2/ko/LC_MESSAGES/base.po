@@ -1,0 +1,6297 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TransportFever\n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: 2024-12-05 17:05+0100\n"
+"Last-Translator: \n"
+"Language-Team: none\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.5\n"
+
+msgid "  - activate your dedicated graphics card (if available)"
+msgstr "  - (사용 가능할 경우) 전용 그래픽카드 활성화"
+
+msgid "  - install the latest graphics drivers"
+msgstr "  - 최신 그래픽 드라이버 설치"
+
+msgid " (terminal %1%)"
+msgstr " (터미널 %1%)"
+
+msgid " + "
+msgstr " + "
+
+msgid " or "
+msgstr " 또는 "
+
+msgid "%1% - %2%"
+msgstr "%1% ~ %2%"
+
+msgid "%1% Destinations"
+msgstr "목적지 %1%개"
+
+msgid "%1% Vehicle"
+msgid_plural "%1% Vehicles"
+msgstr[0] "%1% 차량"
+
+msgid "%1% Vehicle selected"
+msgid_plural "%1% Vehicles selected"
+msgstr[0] "%1% 차량 선택됨"
+
+msgid "%1% capacity"
+msgstr "%1% 수용력"
+
+msgid "%1% day"
+msgid_plural "%1% days"
+msgstr[0] "%1%일"
+
+msgid "%1% industry"
+msgid_plural "%1% industries"
+msgstr[0] "산업 %1%개"
+
+msgid "%1% is on its way to heaven."
+msgstr "%1%(이)가 천국으로 떠났습니다."
+
+msgid "%1% mod available"
+msgid_plural "%1% mods available"
+msgstr[0] "%1% 모드 사용 가능"
+
+msgid "%1% mod enabled"
+msgid_plural "%1% mods enabled"
+msgstr[0] "%1% 모드 활성화"
+
+msgid "%1% month"
+msgid_plural "%1% months"
+msgstr[0] "%1%개월"
+
+msgid "%1% per vehicle"
+msgstr "차량 한 대당 %1%"
+
+msgid "%1% signal will be removed"
+msgid_plural "%1% signals will be removed"
+msgstr[0] "%1% 신호기가 제거됩니다."
+
+msgid "%1% stop will be removed"
+msgid_plural "%1% stops will be removed"
+msgstr[0] "%1% 정류장이 제거됩니다."
+
+msgid "%1% town"
+msgid_plural "%1% towns"
+msgstr[0] "도시 %1%개"
+
+msgid "%1% variant"
+msgid_plural "%1% variants"
+msgstr[0] "%1% 변형"
+
+msgid "%1% year"
+msgid_plural "%1% years"
+msgstr[0] "%1%년"
+
+msgid "%1%, %2%"
+msgstr "%1%, %2%"
+
+msgid "%1%/m²"
+msgstr "%1%/m²"
+
+msgid "%1%/year"
+msgstr "%1%/년"
+
+msgid "%1%: %2%"
+msgstr "%1%: %2%"
+
+msgid "%1%: %2% (in %3% or %4%)"
+msgstr "%1%: %2% (%3% 또는 %4% 후)"
+
+msgid "%1%m to %2%m"
+msgstr "%1%m ~ %2%m"
+
+msgid "%d"
+msgstr "%d"
+
+msgid "%d Year"
+msgid_plural "%d Years"
+msgstr[0] "%d년"
+
+msgid "%d for having a fast vehicle"
+msgstr "빠른 차량 보유: %d"
+
+msgid "%d for having a profit of at least $10M"
+msgstr "수익 $10M 이상 달성: %d"
+
+msgid "%d for having a very long vehicle"
+msgstr "매우 긴 차량 보유: %d"
+
+msgid "%d for having transported at least 100000 passengers"
+msgstr "승객 100,000명 이상 수송: %d"
+
+msgid "%d for having transported at least 100000 units of cargo"
+msgstr "화물 100,000개 이상 수송: %d"
+
+msgid "%d for high-speed rail network"
+msgstr "고속 선로 연결망: %d"
+
+msgid "%d for rail network bridges"
+msgstr "선로 연결망 다리: %d"
+
+msgid "%d for rail network electrification"
+msgstr "선로 연결망 전기화: %d"
+
+msgid "%d for rail network length"
+msgstr "선로 연결망 길이: %d"
+
+msgid "%d for rail network tunnels"
+msgstr "선로 연결망 터널: %d"
+
+msgid "%d point(s) for company value"
+msgstr "기업 가치: %d점"
+
+msgid "%d point(s) for having more than 10 trains"
+msgstr "기차를 10대 이상 보유: %d점"
+
+msgid "%d point(s) for having more than 100 road vehicles"
+msgstr "도로 차량 100대 이상 보유: %d점"
+
+msgid "%d point(s) for having more than 20 trams"
+msgstr "노면전차 20대 이상 보유: %d점"
+
+msgid "%d point(s) for having more than 5 aircraft"
+msgstr "항공기 5대 이상 보유: %d점"
+
+msgid "%d point(s) for having more than 5 ships"
+msgstr "선박 5대 이상 보유: %d점"
+
+msgid "%d point(s) for maximum vehicle age"
+msgstr "최고 차량 연식: %d점"
+
+msgid "'{otherAction}': [{otherCombo}]"
+msgstr "'{otherAction}': [{otherCombo}]"
+
+msgid "(%1% compartment)"
+msgid_plural "(%1% compartments)"
+msgstr[0] "(%1%칸)"
+
+msgid "(+ Early Supporter content)"
+msgstr "(+ Early Supporter content)"
+
+msgid "(+ Pre-order content)"
+msgstr "(+ Pre-order content)"
+
+msgid "(No target)"
+msgstr "(대상 없음)"
+
+msgid "(stopped)"
+msgstr "(정지됨)"
+
+msgid "-"
+msgstr "-"
+
+msgid "---"
+msgstr "---"
+
+msgid "."
+msgstr "."
+
+msgid "... insert code"
+msgstr "...코드를 입력하세요"
+
+msgid "100%"
+msgstr "100%"
+
+msgid "125%"
+msgstr "125%"
+
+msgid "150%"
+msgstr "150%"
+
+msgid "16-bit grayscale"
+msgstr "16비트 그레이스케일"
+
+msgid "175%"
+msgstr "175%"
+
+msgid "1:1"
+msgstr "1:1"
+
+msgid "1:2"
+msgstr "1:2"
+
+msgid "1:3"
+msgstr "1:3"
+
+msgid "1:4"
+msgstr "1:4"
+
+msgid "1:5"
+msgstr "1:5"
+
+msgid "200%"
+msgstr "200%"
+
+msgid "2x"
+msgstr "2x"
+
+msgid "3D"
+msgstr "3D"
+
+msgid "4x"
+msgstr "4x"
+
+msgid "75%"
+msgstr "75%"
+
+msgid "< 0"
+msgstr "< 0"
+
+msgid "<unknown artist>"
+msgstr "<아티스트 미상>"
+
+msgid "<unknown title>"
+msgstr "<제목 미상>"
+
+msgid ">5000 years"
+msgstr ">5000년"
+
+msgid ">= 0"
+msgstr ">= 0"
+
+msgid "A game update is required to load this savegame."
+msgstr "이 세이브 파일을 불러오려면 게임 업데이트가 필요합니다."
+
+msgid "A grieving day"
+msgstr "탄식의 날"
+
+msgid "A new mod will be created on {backend}."
+msgstr "{backend}에 신규 모드를 생성합니다."
+
+msgid "A one-way street can't have stops or waypoints on both sides"
+msgstr "일방통행 거리에는 양쪽에 정류장이나 웨이포인트를 설치할 수 없습니다."
+
+msgid ""
+"A path has been found, but one or more sections of the path are not "
+"electrified. The vehicle requires electrification. Use the electrification "
+"tool to modify the sections."
+msgstr ""
+"경로를 찾았으나 경로의 한 구간 이상이 전기화되어 있지 않습니다. 본 차량은 전"
+"기화가 필요합니다. 전기화 도구를 사용해 해당 구간을 변경하세요."
+
+msgid ""
+"A path has been found, but one or more sections of the path do not have tram "
+"tracks. The vehicle requires tram tracks. Use the tram track tool to modify "
+"the sections."
+msgstr ""
+"경로를 찾았으나 경로의 한 구간 이상에 노면전차 철도가 포함되어 있지 않습니"
+"다. 본 차량은 노면전차 철도가 필요합니다. 노면전차 철도 도구를 사용해 해당 구"
+"간을 변경하세요."
+
+msgid ""
+"A path has been found, but only small aircraft are allowed on this path. "
+"Consider using small aircraft or large airports."
+msgstr ""
+"경로를 찾았으나 해당 경로는 소형 항공기만 사용할 수 있습니다. 소형 항공기나 "
+"대형 공항을 사용하세요."
+
+msgid ""
+"A path has been found, but only small ships are allowed on this path. "
+"Consider using small ships or large docks."
+msgstr ""
+"경로를 찾았으나 해당 경로는 소형 선박만 사용할 수 있습니다. 소형 선박이나 대"
+"형 부두를 사용하세요."
+
+msgid "A station appears consecutively twice"
+msgstr "정거장이 2개 연속으로 나타남"
+
+msgid "AGC"
+msgstr "AGC"
+
+msgid ""
+"Abandoned industry! Closes forever and disappears from the map if not "
+"operational within %1%"
+msgstr ""
+"유기된 산업입니다. %1% 안에 가동하지 않을 경우 영구적으로 폐쇄되고 지도에서 "
+"사라집니다."
+
+msgid "Abandoned industry! Closes in %1%."
+msgstr "유기된 산업입니다. %1% 후 폐쇄됩니다."
+
+msgid "Abort"
+msgstr "중단"
+
+msgid "Accept"
+msgstr "수락"
+
+msgid "Accept!"
+msgstr "수락"
+
+msgid "Account"
+msgstr "계좌"
+
+msgid ""
+"Accumulate a fortune of 1 billion (without debt) in free game with hard mode."
+msgstr "어려움 모드 자유 게임에서 빚을 제외하고 10억의 재산을 축적하세요."
+
+msgid "Accumulate a fortune of 1 billion (without debt) in free game."
+msgstr "자유 게임에서 빚을 제외하고 10억의 재산을 축적하세요."
+
+msgid "Accumulate a fortune of 1 million (without debt) in free game."
+msgstr "자유 게임에서 빚을 제외하고 100만의 재산을 축적하세요."
+
+msgid "Accumulate a fortune of 10 millions (without debt) in free game."
+msgstr "자유 게임에서 빚을 제외하고 1,000만의 재산을 축적하세요."
+
+msgid ""
+"Accumulate a fortune of 100 millions (without debt) in free game with hard "
+"mode."
+msgstr "어려움 모드 자유 게임에서 빚을 제외하고 1억의 재산을 축적하세요."
+
+msgid "Accumulate a fortune of 100 millions (without debt) in free game."
+msgstr "자유 게임에서 빚을 제외하고 1억의 재산을 축적하세요."
+
+msgid "Actions"
+msgstr "행동"
+
+msgid "Activate/deactivate bulldozer"
+msgstr "불도저 활성화/비활성화"
+
+msgid "Add"
+msgstr "추가"
+
+msgid "Add New"
+msgstr "신규 추가"
+
+msgid "Add a fade"
+msgstr "페이드 추가"
+
+msgid "Add a key frame"
+msgstr "키프레임 추가"
+
+msgid "Add a subtitle"
+msgstr "자막 추가"
+
+msgid "Add mods from preset to the end of the list of activated mods."
+msgstr "프리셋에 모함된 모드를 활성화된 모드 목록 끝에 추가합니다."
+
+msgid "Add station"
+msgstr "정거장 추가"
+
+msgid "Advanced"
+msgstr "고급"
+
+msgid "Advanced Game Settings"
+msgstr "고급 게임 설정"
+
+msgid "Advanced Menu"
+msgstr "고급 메뉴"
+
+msgid "Advanced Settings"
+msgstr "고급 설정"
+
+msgid "Advanced settings"
+msgstr "고급 설정"
+
+msgid "Age"
+msgstr "연식"
+
+msgid "Air"
+msgstr "항공"
+
+msgid "Aircraft"
+msgid_plural "Aircraft"
+msgstr[0] "항공기"
+
+msgid "Aircraft entrepreneur"
+msgstr "항공 사업가"
+
+msgid "Aircraft {number}"
+msgstr "항공기 {number}"
+
+msgid "All"
+msgstr "전체"
+
+msgid "All cargo"
+msgstr "모든 화물"
+
+msgid "All locomotives"
+msgstr "모든 기관차"
+
+msgid "All missions completed!"
+msgstr "모든 임무 완료!"
+
+msgid "All multiple units"
+msgstr "모든 동력분산식 열차"
+
+msgid "All unsaved progress will be lost."
+msgstr "저장되지 않은 모든 진행 상황을 잃게 됩니다."
+
+msgid ""
+"All unsaved progress will be lost.\n"
+"Where to go next?"
+msgstr ""
+"저장되지 않은 모든 진행 상황을 잃게 됩니다.\n"
+"어디로 이동하시겠습니까?"
+
+msgid "All vehicle types"
+msgstr "모든 차량 유형"
+
+msgid "All wagons"
+msgstr "모든 궤도차"
+
+msgid "Alt"
+msgstr "Alt"
+
+msgid "Ambient occlusion (SSAO)"
+msgstr "앰비언트 오클루전 (SSAO)"
+
+msgid "American vehicles"
+msgstr "미국 차량"
+
+msgid ""
+"An integrated graphic chip is active. For best performance, make sure to:"
+msgstr ""
+"내장 그래픽 칩을 사용 중입니다. 최상의 퍼포먼스를 위해서는 다음의 조치가 필요"
+"합니다."
+
+msgid "Angle: {angle}°"
+msgstr "각도: {angle}°"
+
+msgid "Anti-aliasing"
+msgstr "안티에일리어싱"
+
+msgid "Antique"
+msgstr "골동품"
+
+msgid "Any cargo type"
+msgstr "모든 화물 유형"
+
+msgid "Any conflicting bindings will be removed."
+msgstr "충돌하는 지정 키를 모두 제거합니다."
+
+msgid "Append"
+msgstr "첨부"
+
+msgid "Apply"
+msgstr "적용"
+
+msgid "Apply changes"
+msgstr "변경 사항 적용"
+
+msgid "Apply the settings and close"
+msgstr "설정 적용하고 닫기"
+
+msgid "Approximate annual throughput per station"
+msgstr "정거장별 연간 처리율 (추산)"
+
+msgid "Are you sure you want to log out?"
+msgstr "정말 로그아웃하시겠습니까?"
+
+msgid "Ascending"
+msgstr "오름차순"
+
+msgid "Asia"
+msgstr "아시아"
+
+msgid "Asian vehicles"
+msgstr "아시아 차량"
+
+msgid "Asset locked"
+msgstr "애셋 잠김"
+
+msgid "Assets"
+msgstr "애셋"
+
+msgid "Assign to %1%"
+msgstr "%1%에 할당"
+
+msgid "At home"
+msgstr "자택"
+
+msgid "At least %1% GB of graphics memory are recommended for these settings."
+msgstr ""
+"그래픽 메모리가 %1%GB 이상인 환경에서 본 설정을 사용할 것을 권장합니다."
+
+msgid "At work"
+msgstr "직장"
+
+msgid "Audio"
+msgstr "오디오"
+
+msgid "Audio settings"
+msgstr "오디오 설정"
+
+msgid "Author"
+msgstr "제작자"
+
+msgid "Authors"
+msgstr "제작자"
+
+msgid "Auto set speed"
+msgstr "속도 자동 설정"
+
+msgid "Automatic"
+msgstr "자동"
+
+msgid ""
+"Automatically send crash dump files (not including personal data) to the "
+"developers"
+msgstr "자동으로 크래시 덤프 파일(개인 데이터 미포함)을 개발자에게 보냅니다."
+
+msgid "Autosave interval (minutes)"
+msgstr "자동 저장 주기 (분)"
+
+msgid "Autosave..."
+msgstr "자동 저장…"
+
+msgid "Autosaves to keep"
+msgstr "자동 저장 유지"
+
+msgid "Available heightmaps:"
+msgstr "사용 가능 하이트맵:"
+
+msgid "Average"
+msgstr "평균"
+
+msgid "Average emission reaching residential buildings: %1%"
+msgstr "주거 건물에 영향을 주는 공해 평균값: %1%"
+
+msgid ""
+"Average number of shoppings facilities and jobs the residents of {townName} "
+"can reach"
+msgstr "{townName} 주민이 달성할 수 있는 쇼핑 시설과 일자리의 평균값"
+
+msgid "BONUS TASKS"
+msgstr "보너스 과제"
+
+msgid "Back"
+msgstr "뒤로"
+
+msgid "Back to the future"
+msgstr "백 투 더 퓨처"
+
+msgid "Bad"
+msgstr "나쁨"
+
+msgid "Balance"
+msgstr "잔고"
+
+msgid "Balance:"
+msgstr "균형:"
+
+msgid "Bank balance"
+msgstr "은행 잔고"
+
+msgid "Basic Game Settings"
+msgstr "기본 게임 설정"
+
+msgid "Basic Settings"
+msgstr "기본 설정"
+
+msgid "Big aircraft"
+msgstr "대형 항공기"
+
+msgid "Big aircraft is incompatible with small airport"
+msgstr "대형 항공기는 소형 공항 이용 불가"
+
+msgid "Big ship"
+msgstr "대형 선박"
+
+msgid "Big ship is incompatible with small harbour"
+msgstr "대형 선박은 소형 항만 이용 불가"
+
+msgid "Big spender"
+msgstr "큰손"
+
+msgid "Bit depth must be 1, 8 or 16."
+msgstr "비트 심도는 1이나 8, 16이어야 합니다."
+
+msgid "Bloom"
+msgstr "블룸"
+
+msgid "Bob Ross"
+msgstr "밥 로스"
+
+msgid "Bonus task completed"
+msgstr "보너스 과제 완료"
+
+msgid "Bonus tasks"
+msgstr "보너스 과제"
+
+msgid "Borderless"
+msgstr "경계 없는 창 모드"
+
+msgid "Borrow %1%"
+msgstr "%1% 빌리기"
+
+msgid "Bridge"
+msgstr "다리"
+
+msgid "Bridge pillar collision"
+msgstr "다리 기둥 충돌"
+
+msgid "Brush"
+msgstr "브러시"
+
+msgid "Brush size"
+msgstr "브러시 크기"
+
+msgid "Build"
+msgstr "건설"
+
+msgid "Build a bus stop in free game."
+msgstr "자유 게임에서 버스 정류장을 건설하세요."
+
+msgid "Build a passenger train station in free game."
+msgstr "자유 게임에서 여객 열차 정거장을 건설하세요."
+
+msgid "Build a town"
+msgstr "도시를 건설합니다."
+
+msgid "Build a train line with at least 10 trains in motion in free game."
+msgstr "자유 게임에서 10대 이상의 기차를 운용하는 기차 노선을 개설하세요."
+
+msgid "Build date"
+msgstr "제작 날짜"
+
+msgid "Build high bridges over rivers so that ships can pass under."
+msgstr "선박이 통과할 수 있도록 강 위로 높게 다리를 건설하세요."
+
+msgid "Build the company headquarters in free game."
+msgstr "자유 게임에서 회사 본부를 건설하세요."
+
+msgid "Build town not possible"
+msgstr "도시 건설은 불가능합니다."
+
+msgid "Building town..."
+msgstr "도시 건설 중…"
+
+msgid "Buildings"
+msgstr "건물"
+
+msgid "Buildings must be removed first"
+msgstr "우선 건물을 제거해야 합니다."
+
+msgid "Bulldozer"
+msgstr "불도저"
+
+msgid "Bus"
+msgstr "버스"
+
+msgid "Bus and tram stops"
+msgstr "버스 및 노면전차 정류장"
+
+msgid "Bus lane"
+msgstr "버스 차로"
+
+msgid "Bus lane tool"
+msgstr "버스 차로 도구"
+
+msgid "Bus/Tram station"
+msgstr "버스/노면전차 정거장"
+
+msgid "Bus/truck not compatible"
+msgstr "버스/트럭 호환 불가"
+
+msgid "Buy"
+msgstr "구매"
+
+msgid "Buy a bus and run a line in free game."
+msgstr "자유 게임에서 버스를 구매해 노선을 운영하세요."
+
+msgid "Buy a ship and run a line in free game."
+msgstr "자유 게임에서 선박을 구매해 노선을 운영하세요."
+
+msgid "Buy a steam train and run a line in free game."
+msgstr "자유 게임에서 증기 기차를 구매해 노선을 운영하세요."
+
+msgid "Buy aircraft"
+msgstr "항공기 구매"
+
+msgid "Buy an aircraft and run a line in free game."
+msgstr "자유 게임에서 항공기를 구매해 노선을 운영하세요."
+
+msgid "Buy an electric train and run a line in free game."
+msgstr "자유 게임에서 전기 기차를 구매해 노선을 운영하세요."
+
+msgid "Buy for "
+msgstr "다음에 구매 "
+
+msgid "Buy road vehicles"
+msgstr "도로 차량 구매"
+
+msgid "Buy ships"
+msgstr "선박 구매"
+
+msgid "Buy trains"
+msgstr "기차 구매"
+
+msgid "Buy trams"
+msgstr "노면전차 구매"
+
+msgid "Buy vehicles"
+msgstr "차량 구매"
+
+msgid "By car"
+msgstr "자동차"
+
+msgid "By foot"
+msgstr "도보"
+
+msgid "By submitting this item, you agree to the workshop terms of service."
+msgstr "본 항목 제출 시 Workshop 서비스 약관에 동의하는 것으로 간주됩니다."
+
+msgid "By submitting this mod, you agree to the mod.io terms of Use."
+msgstr "본 모드 제출 시 mod.io 이용 약관에 동의하는 것으로 간주됩니다."
+
+msgid "Cadet"
+msgstr "생도"
+
+msgid "Calendar"
+msgstr "달력"
+
+msgid "Camera Manager"
+msgstr "카메라 관리자"
+
+msgid "Camera config name"
+msgstr "카메라 환경 설정 이름"
+
+msgid "Camera focal length"
+msgstr "카메라 초점 거리"
+
+msgid "Camera move down"
+msgstr "카메라 아래로 이동"
+
+msgid "Camera move left"
+msgstr "카메라 왼쪽으로 이동"
+
+msgid "Camera move right"
+msgstr "카메라 오른쪽으로 이동"
+
+msgid "Camera move up"
+msgstr "카메라 위로 이동"
+
+msgid "Camera rotate left"
+msgstr "카메라 왼쪽으로 회전"
+
+msgid "Camera rotate right"
+msgstr "카메라 오른쪽으로 회전"
+
+msgid "Camera tilt down"
+msgstr "카메라 아래로 기울이기"
+
+msgid "Camera tilt up"
+msgstr "카메라 위로 기울이기"
+
+msgid "Camera tool"
+msgstr "카메라 도구"
+
+msgid "Camera tool: Add keyframe"
+msgstr "카메라 도구: 키프레임 추가"
+
+msgid "Camera tool: Capture"
+msgstr "카메라 도구: 캡처"
+
+msgid "Camera tool: Clear keyframes"
+msgstr "카메라 도구: 키프레임 초기화"
+
+msgid "Camera tool: Load"
+msgstr "카메라 도구: 불러오기"
+
+msgid "Camera tool: Pause"
+msgstr "카메라 도구: 일시 정지"
+
+msgid "Camera tool: Play"
+msgstr "카메라 도구: 재생"
+
+msgid "Camera tool: Save"
+msgstr "카메라 도구: 저장"
+
+msgid "Camera tool: Start recording"
+msgstr "카메라 도구: 녹화 시작"
+
+msgid "Camera tool: Stop"
+msgstr "카메라 도구: 정지"
+
+msgid "Camera tool: Toggle play/pause"
+msgstr "카메라 도구: 재생/일시 정지 전환"
+
+msgid "Camera tool: Toggle play/stop"
+msgstr "카메라 도구: 재생/정지 전환"
+
+msgid "Camera zoom in"
+msgstr "카메라 확대"
+
+msgid "Camera zoom out"
+msgstr "카메라 축소"
+
+msgid "Campaign"
+msgstr "캠페인"
+
+msgid "Campaign \"%1%\", mission \"%2%\""
+msgstr "캠페인 \"%1%\". 임무 \"%2%\""
+
+msgid "Campaign expert"
+msgstr "캠페인 전문가"
+
+msgid "Campaign shark"
+msgstr "캠페인 거물"
+
+msgid "Campaign tycoon"
+msgstr "캠페인 재벌"
+
+msgid "Campaign: Open mission window"
+msgstr "캠페인: 임무 창 열기"
+
+msgid "Campaigns"
+msgstr "캠페인"
+
+msgid "Cancel"
+msgstr "취소"
+
+msgid "Cancel and leave store"
+msgstr "취소 및 상점 나가기"
+
+msgid "Cancel publishing"
+msgstr "게시 취소"
+
+msgid "Cannot bulldoze headquarters, use relocate instead!"
+msgstr "본부 철거는 불가능합니다. 위치 이전을 사용하세요."
+
+msgid "Cannot get enough"
+msgstr "다다익선"
+
+msgid "Capacity"
+msgstr "수용력"
+
+msgid "Capture image"
+msgstr "이미지 캡처"
+
+msgid "Capture images"
+msgstr "이미지 캡처"
+
+msgid "Capture latlong"
+msgstr "Latlong 캡처"
+
+msgid "Capture videos"
+msgstr "비디오 캡처"
+
+msgid "Car owner"
+msgstr "자동차 소유자"
+
+msgid "Cargo"
+msgstr "화물"
+
+msgid "Cargo filter is set"
+msgstr "화물 필터 설정됨"
+
+msgid "Cargo hub"
+msgstr "화물 중심지"
+
+msgid "Cargo items consumed by this building"
+msgstr "해당 건물이 소비하는 화물"
+
+msgid "Cargo items produced by this building"
+msgstr "해당 건물이 생산하는 화물"
+
+msgid "Cargo layer"
+msgstr "화물 레이어"
+
+msgid "Cargo needs"
+msgstr "화물 수요"
+
+msgid "Cargo production"
+msgstr "화물 생산"
+
+msgid "Cargo production rating (average of last twelve months)"
+msgstr "화물 생산 등급 (지난 12개월 평균값)"
+
+msgid "Cargo station"
+msgstr "화물 정거장"
+
+msgid "Cargo stop can not used by passenger vehicles"
+msgstr "승객 차량은 화물 정류장 사용 불가"
+
+msgid "Cargo supply of {townName}"
+msgstr "{townName} 화물 공급"
+
+msgid "Cargo supply rating (average of last twelve months)"
+msgstr "화물 공급 등급 (지난 12개월 평균값)"
+
+msgid "Cargo transported (last 12 months)"
+msgstr "화물 수송 (지난 12개월)"
+
+msgid "Cargo transported (total)"
+msgstr "화물 수송 (총합)"
+
+msgid "Cargo type"
+msgid_plural "Cargo types"
+msgstr[0] "화물 유형"
+
+msgid "Cargo types"
+msgstr "화물 유형"
+
+msgid "Cargo wagons"
+msgstr "화물 궤도차"
+
+msgid "Catenary"
+msgstr "전차선"
+
+msgid "Change"
+msgstr "변경"
+
+msgid "Change Type"
+msgstr "유형 변경"
+
+msgid "Change date"
+msgstr "날짜 변경"
+
+msgid "Change log"
+msgstr "변경 기록"
+
+msgid "Change note:"
+msgstr "변경 사항 노트:"
+
+msgid "Change sorting"
+msgstr "정렬 변경"
+
+msgid "Charles Alton Ellis"
+msgstr "찰스 앨튼 엘리스"
+
+msgid "Charts"
+msgstr "도표"
+
+msgid "Cheats"
+msgstr "치트"
+
+msgid "Check for available disk space (Code: {code})"
+msgstr "사용 가능한 저장 공간을 확인해 주세요. (코드: {code})"
+
+msgid "Choose heightmap"
+msgstr "하이트맵 선택"
+
+msgid "Choose the game's difficulty"
+msgstr "게임 난이도 선택"
+
+msgid "Choose the game's start year"
+msgstr "게임 시작 연도 선택"
+
+msgid "City"
+msgstr "도시"
+
+msgid "Classic"
+msgstr "클래식"
+
+msgid "Clear"
+msgstr "초기화"
+
+msgid "Clear all key frames?"
+msgstr "모든 키프레임 초기화 확인"
+
+msgid "Clear key frame list"
+msgstr "키프레임 목록 초기화"
+
+msgid "Click on icons to select residents"
+msgstr "아이콘을 클릭하여 주민 선택"
+
+msgid "Click on stations to add"
+msgstr "클릭하여 정거장 추가"
+
+msgid ""
+"Click on the icon to jump to the first point where the path couldn't "
+"continue."
+msgstr "아이콘 클릭 시 경로가 이어지지 않는 첫 지점으로 이동합니다."
+
+msgid "Click to change date speed"
+msgstr "클릭하여 날짜 속도 변경"
+
+msgid "Click to choose a logo..."
+msgstr "클릭하여 로고 선택…"
+
+msgid "Click to modify balance"
+msgstr "클릭하여 잔고 수정"
+
+msgid "Climate"
+msgstr "기후"
+
+msgid "Climate change"
+msgstr "기후 변화"
+
+msgid "Climate:"
+msgstr "기후:"
+
+msgid "Clone all vehicles"
+msgstr "모든 차량 복제"
+
+msgid "Clone all vehicles?"
+msgstr "모든 차량 복제 확인"
+
+msgid "Clone selected vehicle"
+msgid_plural "Clone selected vehicles"
+msgstr[0] "선택한 차량 복제"
+
+msgid "Clone vehicle"
+msgstr "차량 복제"
+
+msgid "Cloning can only be performed for {number} vehicles at once"
+msgstr "복제는 한 번에 {number}대의 차량에만 수행할 수 있습니다."
+
+msgid "Close"
+msgstr "닫기"
+
+msgid "Close all"
+msgstr "모두 닫기"
+
+msgid "Close mod detail window"
+msgstr "모드 세부 사항 창 닫기"
+
+msgid "Closed."
+msgstr "폐쇄됨"
+
+msgid "Closes in %1%."
+msgstr "폐쇄까지 %1%"
+
+msgid "Cmd"
+msgstr "Cmd"
+
+msgid "Cockpit camera: horn sound"
+msgstr "조종석 카메라: 경적 울리기"
+
+msgid "Cockpit camera: next position"
+msgstr "조종석 카메라: 다음 위치"
+
+msgid "Cockpit camera: previous position"
+msgstr "조종석 카메라: 이전 위치"
+
+msgid "Code has been resent"
+msgstr "코드 발송 완료"
+
+msgid "Code:"
+msgstr "코드:"
+
+msgid "Collapse"
+msgstr "접기"
+
+msgid "Collision"
+msgstr "충돌"
+
+msgid "Color"
+msgstr "색상"
+
+msgid "Comment"
+msgstr "의견"
+
+msgid "Commercial"
+msgstr "상업"
+
+msgid "Commercial area"
+msgstr "상업 구역"
+
+msgid "Commercial building"
+msgstr "상업 건물"
+
+msgid "Commercial supply"
+msgstr "상업 공급"
+
+msgid "Company"
+msgstr "회사"
+
+msgid "Company finances"
+msgstr "회사 재정"
+
+msgid "Company score"
+msgstr "회사 점수"
+
+msgid "Complete campaign \"%1%\" to unlock"
+msgstr "\"%1%\" 캠페인 완료 시 잠금 해제"
+
+msgid "Complete the entire campaign."
+msgstr "전체 캠페인을 완료하세요."
+
+msgid "Complete the first and second era of the campaign."
+msgstr "캠페인의 첫 번째 및 두 번째 시대를 완료하세요."
+
+msgid "Complete the first era of the campaign."
+msgstr "캠페인 첫 시대를 완료하세요."
+
+msgid "Complete the first mission of the campaign."
+msgstr "캠페인 첫 임무를 완료하세요."
+
+msgid "Condition"
+msgstr "상태"
+
+msgid "Configure"
+msgstr "환경 설정"
+
+msgid "Configure construction"
+msgstr "건설 환경 설정"
+
+msgid "Configure graphics and more"
+msgstr "그래픽 환경 설정 및 기타"
+
+msgid "Configure maintenance for all vehicles"
+msgstr "모든 차량 유지보수 환경 설정"
+
+msgid "Configure maintenance for selected vehicle"
+msgid_plural "Configure maintenance for selected vehicles"
+msgstr[0] "선택 차량 유지보수 환경 설정"
+
+msgid "Confirm decommission"
+msgstr "퇴역 확인"
+
+msgid "Confirm delete?"
+msgstr "삭제 확인"
+
+msgid "Confirm destruction"
+msgstr "파괴 확정"
+
+msgid "Confirm destruction?"
+msgstr "파괴 확정 확인"
+
+msgid "Confirm disposal"
+msgstr "폐기 확인"
+
+msgid "Confirm mass clone"
+msgstr "대량 복제 확인"
+
+msgid "Confirm rebind"
+msgstr "재지정 확인"
+
+msgid "Congratulations"
+msgstr "축하합니다"
+
+msgid "Console compatible"
+msgstr "콘솔 호환"
+
+msgid "Console variant found"
+msgstr "콘솔 버전 발견"
+
+msgid "Construction"
+msgstr "건설"
+
+msgid "Construction locked"
+msgstr "건설 잠김"
+
+msgid "Construction not possible"
+msgstr "건설 불가"
+
+msgid "Construction option 1"
+msgstr "건설 옵션 1"
+
+msgid "Construction option 2"
+msgstr "건설 옵션 2"
+
+msgid "Construction option 3"
+msgstr "건설 옵션 3"
+
+msgid "Construction option 4"
+msgstr "건설 옵션 4"
+
+msgid "Construction option 5"
+msgstr "건설 옵션 5"
+
+msgid "Construction option 6"
+msgstr "건설 옵션 6"
+
+msgid "Construction option 7"
+msgstr "건설 옵션 7"
+
+msgid "Construction option 8"
+msgstr "건설 옵션 8"
+
+msgid "Construction option precise 1"
+msgstr "건설 정밀 옵션 1"
+
+msgid "Construction option precise 2"
+msgstr "건설 정밀 옵션 2"
+
+msgid "Construction option precise 3"
+msgstr "건설 정밀 옵션 3"
+
+msgid "Construction option precise 4"
+msgstr "건설 정밀 옵션 4"
+
+msgid "Construction option precise 5"
+msgstr "건설 정밀 옵션 5"
+
+msgid "Construction option precise 6"
+msgstr "건설 정밀 옵션 6"
+
+msgid "Construction option precise 7"
+msgstr "건설 정밀 옵션 7"
+
+msgid "Construction option precise 8"
+msgstr "건설 정밀 옵션 8"
+
+msgid "Consumers"
+msgstr "소비자"
+
+msgid "Consumption"
+msgstr "소비"
+
+msgid "Contained by following lines as waypoint"
+msgstr "노선 웨이포인트로 포함되어 있음"
+
+msgid "Context help"
+msgstr "상황 도움말"
+
+msgid "Continue"
+msgstr "계속"
+
+msgid "Continue anyway"
+msgstr "그래도 계속 진행하기"
+
+msgid "Continue playing..."
+msgstr "계속 플레이…"
+
+msgid "Continue to external website?"
+msgstr "외부 웹사이트로 이동하시겠습니까?"
+
+msgid "Contour lines layer"
+msgstr "등고선 레이어"
+
+msgid "Coord.sys."
+msgstr "좌표계"
+
+msgid "Copy"
+msgstr "복사"
+
+msgid "Cost: "
+msgstr "비용: "
+
+msgid "Costs"
+msgstr "비용"
+
+msgid "Costs: %1%"
+msgstr "비용: %1%"
+
+msgid "Could not connect all alternative terminals"
+msgstr "모든 대체 터미널을 연결하지 못했습니다."
+
+msgid "Could not connect all stations"
+msgstr "모든 정거장을 연결하지 못했습니다."
+
+msgid "Could not refresh"
+msgstr "새로 고침 불가"
+
+msgid ""
+"Could not save game. Please check free\n"
+"disk space and/or folder permissions."
+msgstr ""
+"게임을 저장하지 못했습니다. \n"
+"디스크 공간이나 폴더 사용 권한을 확인해 주세요."
+
+msgid "Create New Game"
+msgstr "신규 게임 생성"
+
+msgid "Create New Map"
+msgstr "신규 지도 생성"
+
+msgid "Create a line with at least two stops in free game."
+msgstr "자유 게임에서 2개 이상의 정류장을 보유한 노선을 개설하세요."
+
+msgid "Create a new line"
+msgstr "신규 노선 생성"
+
+msgid "Creating fields..."
+msgstr "경작지 생성 중…"
+
+msgid "Creating industries..."
+msgstr "산업 생성 중…"
+
+msgid "Creating streets..."
+msgstr "거리 생성 중…"
+
+msgid "Creating towns..."
+msgstr "도시 생성 중…"
+
+msgid "Credits"
+msgstr "개발진"
+
+msgid ""
+"Critical: Disabling will remove essential mod content, which causes the save "
+"game to become unstable or unusable."
+msgstr ""
+"치명적: 비활성화 시 필수 모드 콘텐츠가 제거되어, 저장 파일이 불안정해지거나 "
+"사용 불가 상태가 됩니다."
+
+msgid "Crowd in a train"
+msgstr "북적북적 기차"
+
+msgid "Ctrl"
+msgstr "Ctrl"
+
+msgid "Current"
+msgstr "현재"
+
+msgid "Current consumption rate"
+msgstr "현재 소비율"
+
+msgid "Curve: {angle}°"
+msgstr "곡선: {angle}°"
+
+msgid "Curved"
+msgstr "곡선"
+
+msgid "Custom"
+msgstr "사용자 지정"
+
+msgid "Custom Settings"
+msgstr "사용자 지정 설정"
+
+msgid "Custom cargo"
+msgstr "사용자 지정 화물"
+
+msgid "Custom colors"
+msgstr "사용자 지정 색상"
+
+msgid "Custom game settings"
+msgstr "사용자 지정 게임 설정"
+
+msgid "Cycle game speed"
+msgstr "게임 속도 전환"
+
+msgid "DMCA"
+msgstr "DMCA"
+
+msgid "DX12"
+msgstr "DX12"
+
+msgid "Data layers"
+msgstr "데이터 레이어"
+
+msgid "Date"
+msgstr "날짜"
+
+msgid "Date added"
+msgstr "추가 날짜"
+
+msgid "Date speed"
+msgstr "날짜 속도"
+
+msgid "Date updated"
+msgstr "업데이트 날짜"
+
+msgid "Date:"
+msgstr "날짜:"
+
+msgid "Day"
+msgstr "일"
+
+msgid "Deadzone"
+msgstr "데드존"
+
+msgid "Debt"
+msgstr "빚"
+
+msgid "Debug mode"
+msgstr "디버그 모드"
+
+msgid "Default"
+msgstr "기본"
+
+msgid "Delete"
+msgstr "삭제"
+
+msgid "Delete Savegame?"
+msgstr "게임 저장 파일 삭제 확인"
+
+msgid "Delete Settings (DEBUG)"
+msgstr "Delete Settings (DEBUG)"
+
+msgid "Delete camera config "
+msgstr "카메라 환경 설정 삭제 "
+
+msgid "Delete camera config?"
+msgstr "카메라 환경 설정 삭제 확인"
+
+msgid "Delete fade"
+msgstr "페이드 삭제"
+
+msgid "Delete key frame"
+msgstr "키프레임 삭제"
+
+msgid "Delete line"
+msgstr "노선 삭제"
+
+msgid "Delete mod preset "
+msgstr "모드 프리셋 삭제 "
+
+msgid "Delete mod preset?"
+msgstr "모드 프리셋 삭제 확인"
+
+msgid "Delete subtitle"
+msgstr "자막 삭제"
+
+msgid "Deliver every product to every city that requires it in free game."
+msgstr "자유 게임에서 모든 도시에 필요로 하는 상품을 운송하세요."
+
+msgid "Deluxe Edition"
+msgstr "Deluxe Edition"
+
+msgid "Departure configuration"
+msgstr "출발 환경 설정"
+
+msgid "Dependencies ({num})"
+msgstr "필요 항목 ({num}개)"
+
+msgid "Depot contains vehicles"
+msgstr "차량 보관 중인 차고"
+
+msgid "Depots"
+msgstr "차고"
+
+msgid "Descending"
+msgstr "내림차순"
+
+msgid "Description"
+msgstr "설명"
+
+msgid "Destination"
+msgstr "목적지"
+
+msgid "Destination: {stopName}"
+msgstr "목적지: {stopName}"
+
+msgid "Destination: {stopName} via {viaName}"
+msgstr "목적지: {stopName} ({viaName} 경유)"
+
+msgid "Destinations"
+msgstr "목적지"
+
+msgid "Destinations layer"
+msgstr "목적지 레이어"
+
+msgid "Details"
+msgstr "세부 사항"
+
+msgid "Diesel"
+msgstr "디젤"
+
+msgid "Diesel Train"
+msgstr "디젤 기차"
+
+msgid "Diesel locomotives"
+msgstr "디젤 기관차"
+
+msgid "Diesel multiple units"
+msgstr "디젤 동력분산식 열차"
+
+msgid "Different cargo types transported"
+msgstr "수송한 서로 다른 화물 유형"
+
+msgid "Difficulty"
+msgstr "난이도"
+
+msgid "Difficulty:"
+msgstr "난이도:"
+
+msgid "Directory: {folder}"
+msgstr "디렉터리: {folder}"
+
+msgid "Disable"
+msgstr "비활성화"
+
+msgid "Disable all"
+msgstr "모두 비활성화"
+
+msgid "Disable all mods currently visible in the list"
+msgstr "현재 목록에 수록된 모든 모드 비활성화"
+
+msgid "Disable construction snapping"
+msgstr "건설 스냅 비활성화"
+
+msgid "Disable mod"
+msgstr "모드 비활성화"
+
+msgid "Disabled"
+msgstr "비활성화"
+
+msgid "Discard changes"
+msgstr "변경 사항 취소"
+
+msgid "Disconnected!"
+msgstr "연결 해제 발생!"
+
+msgid "Display mode"
+msgstr "디스플레이 모드"
+
+msgid "Distance units"
+msgstr "거리 단위"
+
+msgid "Do not show again"
+msgstr "다시 표시하지 않기"
+
+msgid "Do you wish to proceed?"
+msgstr "계속 진행하시겠습니까?"
+
+msgid "Docks outside of navigable waters"
+msgstr "가항 수역 외부 부두"
+
+msgid "Don't take any additional loan until the year 2050 in free game."
+msgstr "자유 게임에서 2050년까지 추가 대출 없이 진행하세요."
+
+msgid "Double slip switch"
+msgstr "더블 슬립 스위치"
+
+msgid "Down"
+msgstr "아래"
+
+msgid "Download pending"
+msgstr "다운로드 대기 중"
+
+msgid "Downloading"
+msgstr "다운로드 중"
+
+msgid "Downloading mods"
+msgstr "모드 다운로드 중"
+
+msgid "Downloads"
+msgstr "다운로드"
+
+msgid "Drive backwards"
+msgstr "후진"
+
+msgid "Duration"
+msgstr "길이"
+
+msgid "E.P.E.C."
+msgstr "E.P.E.C."
+
+msgid "Earn 1 million with airplanes within a month in free game."
+msgstr "자유 게임에서 한 달에 항공기로 100만의 수익을 확보하세요."
+
+msgid "Earn 1 million with ships within a month in free game."
+msgstr "자유 게임에서 한 달에 선박으로 100만의 수익을 확보하세요."
+
+msgid "Earn 50 millions not using any train in free game."
+msgstr "자유 게임에서 기차를 사용하지 않고 5,000만의 수익을 확보하세요."
+
+msgid "Earn all medals in one of the campaign missions."
+msgstr "한 캠페인 임무에서 모든 메달을 획득하세요."
+
+msgid "Earn all medals of the entire campaign."
+msgstr "전체 캠페인에서 모든 메달을 획득하세요."
+
+msgid "Edge scrolling"
+msgstr "화면 경계 스크롤링"
+
+msgid "Edit all vehicles"
+msgstr "모든 차량 편집"
+
+msgid "Edit selected vehicle"
+msgid_plural "Edit selected vehicles"
+msgstr[0] "선택한 차량 편집"
+
+msgid "Edit vehicle"
+msgid_plural "Edit vehicles"
+msgstr[0] "차량 편집"
+
+msgid "Editor"
+msgstr "편집기"
+
+msgid "Editor's note"
+msgstr "편집자 노트"
+
+msgid "Electric"
+msgstr "전기식"
+
+msgid "Electric Train"
+msgstr "전기 기차"
+
+msgid "Electric locomotives"
+msgstr "전기 기관차"
+
+msgid "Electric multiple units"
+msgstr "전기 동력분산식 열차"
+
+msgid "Electrification tool"
+msgstr "전기화 도구"
+
+msgid "Email"
+msgstr "이메일"
+
+msgid "Email:"
+msgstr "이메일:"
+
+msgid "Emission"
+msgstr "공해"
+
+msgid "Emission %1%"
+msgstr "공해 %1%"
+
+msgid "Emission %1% + %2% (%3% condition)"
+msgstr "공해 %1% + %2% (%3% 상태)"
+
+msgid "Emission at mouse cursor: %s"
+msgstr "마우스 커서 지점 공해: %s"
+
+msgid "Emission at screen center: %s"
+msgstr "화면 중앙 지점 공해: %s"
+
+msgid "Emissions layer"
+msgstr "공해 레이어"
+
+msgid "Empty"
+msgstr "비어 있음"
+
+msgid "Empty construction"
+msgstr "비어 있는 건설 현장"
+
+msgid "Enable"
+msgstr "활성화"
+
+msgid "Enable Custom settings"
+msgstr "사용자 지정 설정 활성화"
+
+msgid "Enable all"
+msgstr "모두 활성화"
+
+msgid "Enable all mods currently visible in the list"
+msgstr "현재 목록에 수록된 모든 모드 활성화"
+
+msgid "Enable camera tool"
+msgstr "카메라 도구 활성화"
+
+msgid "Enable custom game settings"
+msgstr "사용자 지정 게임 설정 활성화"
+
+msgid "Enable guide system"
+msgstr "가이드 시스템 활성화"
+
+msgid "Enable mod"
+msgstr "모드 활성화"
+
+msgid "Enable mods from a mod preset. Already enabled mods are not disabled."
+msgstr ""
+"모드 프리셋에 포함된 모드를 활성화합니다. 이미 활성화된 모드는 해당하지 않습"
+"니다."
+
+msgid "Enable mouse/keyboard"
+msgstr "마우스/키보드 활성화"
+
+msgid "Enable production or ship items to prevent closure."
+msgstr "생산을 활성화하거나 상품을 수송하여 폐쇄를 방지할 수 있습니다."
+
+msgid "Enabled"
+msgstr "활성화"
+
+msgid "Enabled mods"
+msgstr "활성화된 모드"
+
+msgid "Enabled/disabled mod(s) may lead to unexpected results."
+msgstr "모드 활성화/비활성화 시 예상치 못한 결과가 발생할 수 있습니다."
+
+msgid "Enabled/disabled mod(s) will likely cause the game to crash!"
+msgstr "모드 활성화/비활성화 시 크래시 현상이 발생할 수 있습니다."
+
+msgid "Engine Type"
+msgid_plural "Engine Types"
+msgstr[0] "엔진 유형"
+
+msgid "Enter a file name!"
+msgstr "파일 이름을 입력하세요."
+
+msgid "Enter bank balance!"
+msgstr "은행 잔고를 입력하세요!"
+
+msgid "Enter change note"
+msgstr "변경 사항 노트 입력"
+
+msgid "Enter cockpit"
+msgstr "조종석 탑승"
+
+msgid "Enter comment"
+msgstr "의견 입력"
+
+msgid "Enter current day!"
+msgstr "현재 날짜를 입력하세요!"
+
+msgid "Enter current month!"
+msgstr "현재 달을 입력하세요!"
+
+msgid "Enter current yonth!"
+msgstr "현재 연도를 입력하세요!"
+
+msgid "Enter description"
+msgstr "설명 입력"
+
+msgid "Enter email address"
+msgstr "이메일 주소 입력"
+
+msgid "Enter save game name"
+msgstr "저장 파일 이름 입력"
+
+msgid "Enter summary"
+msgstr "요약 입력"
+
+msgid "Environment:"
+msgstr "환경:"
+
+msgid "Erase assets with a brush."
+msgstr "브러시로 애셋을 지웁니다."
+
+msgid "Erase the terrain painting (restore the default material)."
+msgstr "지형 페인트를 지웁니다(기본 소재로 복원)."
+
+msgid "Eraser tool"
+msgstr "지우개 도구"
+
+msgid "Error loading settings file"
+msgstr "설정 파일 불러오기 오류"
+
+msgid "Europe"
+msgstr "유럽"
+
+msgid "European vehicles"
+msgstr "유럽 차량"
+
+msgid "Excellent"
+msgstr "훌륭함"
+
+msgid "Exemplary student"
+msgstr "모범 학생"
+
+msgid "Exit"
+msgstr "나가기"
+
+msgid "Expand"
+msgstr "펼치기"
+
+msgid "Expenditure"
+msgstr "지출"
+
+msgid "Export"
+msgstr "내보내기"
+
+msgid "Export heightmap"
+msgstr "하이트맵 내보내기"
+
+msgid "Extracting"
+msgstr "추출 중"
+
+msgid "FPS limit"
+msgstr "FPS 제한"
+
+msgid "Fade {num}"
+msgstr "페이드 {num}"
+
+msgid "Fades"
+msgstr "페이드"
+
+msgid "Failed to login"
+msgstr "로그인 실패"
+
+msgid "Failed to logout"
+msgstr "로그아웃 실패"
+
+msgid "Failed to rate"
+msgstr "평가 남기기 실패"
+
+msgid "Failed to refresh"
+msgstr "새로 고침 실패"
+
+msgid "Failed to retrieve mod list"
+msgstr "모드 목록 가져오기 실패"
+
+msgid "Failed to share savegame"
+msgstr "게임 저장 파일 공유 실패"
+
+msgid "Failed to show mod details"
+msgstr "모드 세부 사항 표시 실패"
+
+msgid "Failed to subscribe"
+msgstr "구독 실패"
+
+msgid "Failed to uninstall"
+msgstr "삭제 실패"
+
+msgid "Failed to unsubscribe"
+msgstr "구독 취소 실패"
+
+msgid "Failed to upload mod"
+msgstr "모드 업로드 실패"
+
+msgid "False Information"
+msgstr "허위 정보"
+
+msgid "Fetching Results"
+msgstr "결과 가져오는 중"
+
+msgid "File Name"
+msgstr "파일 이름"
+
+msgid "File error"
+msgstr "파일 오류"
+
+msgid "File size"
+msgstr "파일 용량"
+
+msgid "Filesystem error"
+msgstr "파일 시스템 오류"
+
+msgid "Filter"
+msgstr "필터"
+
+msgid "Finances"
+msgstr "재정"
+
+msgid "Finances - Chart"
+msgstr "재정 - 도표"
+
+msgid "Finances - Table"
+msgstr "재정 - 목록"
+
+msgid "First"
+msgstr "처음"
+
+msgid "First aircraft arrived"
+msgstr "첫 항공기 도착"
+
+msgid "First bus arrived"
+msgstr "첫 버스 도착"
+
+msgid "First bus stop"
+msgstr "첫 버스 정류장"
+
+msgid "First cargo item on board"
+msgstr "첫 화물 적재"
+
+msgid "First cargo item waiting"
+msgstr "첫 화물 대기 중"
+
+msgid "First electric train arrived"
+msgstr "첫 전기 기차 도착"
+
+msgid "First industry upgraded"
+msgstr "첫 산업 업그레이드"
+
+msgid "First line"
+msgstr "첫 노선"
+
+msgid "First passenger on board"
+msgstr "첫 승객 탑승"
+
+msgid "First passenger waiting"
+msgstr "첫 대기 승객"
+
+msgid "First ship arrived"
+msgstr "첫 선박 도착"
+
+msgid "First steam train arrived"
+msgstr "첫 증기 기차 도착"
+
+msgid "First train station"
+msgstr "첫 기차 정거장"
+
+msgid "Fix slope"
+msgstr "경사 수정"
+
+msgid "Flatten the terrain."
+msgstr "지형을 평탄하게 만듭니다."
+
+msgid "Flatten tool"
+msgstr "평탄화 도구"
+
+msgid "Flip vehicle"
+msgstr "차량 뒤집기"
+
+msgid "Foc."
+msgstr "초점"
+
+msgid "Focus Mods"
+msgstr "모드 집중"
+
+msgid "Focus Sidebar"
+msgstr "사이드바 집중"
+
+msgid "Folder:"
+msgstr "폴더:"
+
+msgid "For experts:"
+msgstr "전문가용:"
+
+msgid "Force uninstall"
+msgstr "강제 삭제"
+
+msgid "Force units"
+msgstr "물리력 단위"
+
+msgid "Frame rate"
+msgstr "프레임률"
+
+msgid "Free Game"
+msgstr "자유 게임"
+
+msgid "Free camera"
+msgstr "자유 카메라"
+
+msgid "Freq."
+msgstr "빈도"
+
+msgid "Frequence"
+msgstr "빈도"
+
+msgid "Full load (all)"
+msgstr "전체 적재 (전체)"
+
+msgid "Full load (any)"
+msgstr "전체 적재 (임의)"
+
+msgid "Fullscreen"
+msgstr "전체화면"
+
+msgid "GNM"
+msgstr "GNM"
+
+msgid "Game"
+msgstr "게임"
+
+msgid "Game Storage"
+msgstr "게임 저장"
+
+msgid "Game options"
+msgstr "게임 옵션"
+
+msgid "Game paused"
+msgstr "게임 일시 정지"
+
+msgid "Game speed up"
+msgstr "게임 속도 상승"
+
+msgid "Generate"
+msgstr "생성"
+
+msgid "Generate a random seed"
+msgstr "무작위 시드 생성"
+
+msgid "Generate heightmap"
+msgstr "하이트맵 생성"
+
+msgid "Generate industries"
+msgstr "산업 생성"
+
+msgid "Generate streets"
+msgstr "거리 생성"
+
+msgid "Generate towns"
+msgstr "도시 생성"
+
+msgid "Generating industries..."
+msgstr "산업 생성 중…"
+
+msgid "Generating map..."
+msgstr "지도 생성 중…"
+
+msgid "Generating preview..."
+msgstr "미리 보기 생성 중…"
+
+msgid "Generating streets..."
+msgstr "거리 생성 중…"
+
+msgid "Generating terrain..."
+msgstr "지형 생성 중…"
+
+msgid "Generating towns..."
+msgstr "도시 생성 중…"
+
+msgid "Generator"
+msgstr "생성기"
+
+msgid "Generator:"
+msgstr "생성기:"
+
+msgid "Generic"
+msgstr "일반"
+
+msgid "Geometry"
+msgstr "지오메트리"
+
+msgid "Glacier express"
+msgstr "빙하 특급 열차"
+
+msgid "Go back to menu"
+msgstr "메뉴로 돌아가기"
+
+msgid "Go to next page"
+msgstr "다음 페이지"
+
+msgid "Go to previous page"
+msgstr "이전 페이지"
+
+msgid "Go to station"
+msgstr "정거장으로 이동"
+
+msgid "Going to depot"
+msgstr "차고로 이동"
+
+msgid "Good"
+msgstr "좋음"
+
+msgid "Graphic API"
+msgstr "그래픽 API"
+
+msgid "Graphics"
+msgstr "그래픽"
+
+msgid "Graphics Preference"
+msgstr "그래픽 모드"
+
+msgid "Graphics context creation failed ({graphicsApi})"
+msgstr "그래픽 컨텍스트 생성 실패 ({graphicsApi})"
+
+msgid "Graphics settings"
+msgstr "그래픽 설정"
+
+msgid "Grass"
+msgstr "수풀"
+
+msgid "Growth"
+msgstr "성장"
+
+msgid "Growth: %1% residents"
+msgstr "성장: 주민 %1%명"
+
+msgid "HUD icon filter"
+msgstr "HUD 아이콘 필터"
+
+msgid "HUD: Toggle aircraft"
+msgstr "HUD: 항공기 전환"
+
+msgid "HUD: Toggle bus/tram stops"
+msgstr "HUD: 버스/노면전차 정류장 전환"
+
+msgid "HUD: Toggle costs labels"
+msgstr "HUD: 비용 라벨 전환"
+
+msgid "HUD: Toggle depots"
+msgstr "HUD: 차고 전환"
+
+msgid "HUD: Toggle income labels"
+msgstr "HUD: 수입 라벨 전환"
+
+msgid "HUD: Toggle industries"
+msgstr "HUD: 산업 전환"
+
+msgid "HUD: Toggle rail vehicles"
+msgstr "HUD: 선로 차량 전환"
+
+msgid "HUD: Toggle road vehicles"
+msgstr "HUD: 도로 차량 전환"
+
+msgid "HUD: Toggle ships"
+msgstr "HUD: 선박 전환"
+
+msgid "HUD: Toggle signals"
+msgstr "HUD: 신호기 전환"
+
+msgid "HUD: Toggle stations"
+msgstr "HUD: 정거장 전환"
+
+msgid "HUD: Toggle towns"
+msgstr "HUD: 도시 전환"
+
+msgid "Hangar"
+msgstr "격납고"
+
+msgid "Have 100km of railway tunnels in free game."
+msgstr "자유 게임에서 100km 길이 터널을 보유하세요."
+
+msgid "Have 400km of tracks in free game."
+msgstr "자유 게임에서 400km 길이 철도를 보유하세요."
+
+msgid "Have 50km of railway bridges in free game."
+msgstr "자유 게임에서 50km 길이 다리를 보유하세요."
+
+msgid "Have a cargo item transported with one of your vehicles in free game."
+msgstr "자유 게임에서 소유 차량으로 화물을 수송하세요."
+
+msgid "Have a cargo item waiting at a terminal in free game."
+msgstr "자유 게임에서 터미널에 화물을 대기시키세요."
+
+msgid ""
+"Have a line with every passenger road vehicle type available from 1850 to "
+"2020 in free game."
+msgstr ""
+"자유 게임에서 1850년부터 2020년까지 출시된 모든 승객 도로 차량을 하나 이상 운"
+"영하는 노선을 개설하세요."
+
+msgid "Have a monthly maintenance cost of 200 million in free game."
+msgstr "자유 게임에서 월간 유지보수 비용 2억을 달성하세요."
+
+msgid "Have a passenger on a vehicle in free game."
+msgstr "자유 게임에서 차량에 승객을 태우세요."
+
+msgid "Have a town with a population of at least 1500 in free game."
+msgstr "자유 게임에서 도시 인구 1,500명 이상을 달성하세요."
+
+msgid "Have a town with a population of at least 750 in free game."
+msgstr "자유 게임에서 도시 인구 750명 이상을 달성하세요."
+
+msgid "Have a train filled with at least 100 passengers in free game."
+msgstr "자유 게임에서 기차에 100명 이상의 승객을 탑승시키세요."
+
+msgid "Have a train filled with at least 200 passengers in free game."
+msgstr "자유 게임에서 기차에 200명 이상의 승객을 탑승시키세요."
+
+msgid "Have a train filled with at least 250 cargo items in free game."
+msgstr "자유 게임에서 기차에 250개 이상의 화물을 적재하세요."
+
+msgid "Have a train longer than the longest possible station in free game."
+msgstr ""
+"자유 게임에서 가장 길게 연장할 수 있는 정거장보다 더 긴 기차를 보유하세요."
+
+msgid "Have a train that reaches higher than 450 meters in free game."
+msgstr "자유 게임에서 450미터 이상의 기차를 소유하세요."
+
+msgid ""
+"Have all tracks electrified and high speed in free game. Have at least 100km "
+"of tracks."
+msgstr ""
+"자유 게임에서 100km 이상의 철도를 보유하고, 모든 철도를 전기화 및 고속화하세"
+"요."
+
+msgid "Have at least 300 cargo items waiting at a train station in free game."
+msgstr "자유 게임에서 기차 정거장에 300개 이상의 화물을 대기시키세요."
+
+msgid "Have at least 300 passengers waiting in a train station in free game."
+msgstr "자유 게임에서 기차 정거장에 300명 이상의 승객을 대기시키세요."
+
+msgid ""
+"Have every industry shipping items using your transport network in free game."
+msgstr ""
+"자유 게임에서 모든 산업이 내 수송 연결망을 이용해 품목을 수송하게 하세요."
+
+msgid "Have two trains stuck facing each other in free game."
+msgstr ""
+"자유 게임에서 두 대의 기차가 서로를 마주 본 채 이동 불가 상태가 되도록 만드세"
+"요."
+
+msgid "Heading for depot"
+msgstr "차고행"
+
+msgid "Heading for {stopName}"
+msgstr "{stopName}행"
+
+msgid "Headquarters"
+msgstr "본부"
+
+msgid "Heavily loaded"
+msgstr "대량의 화물"
+
+msgid "Height at mouse cursor: {height}"
+msgstr "마우스 커서 지점 높이: {height}"
+
+msgid "Height at screen center: {height}"
+msgstr "화면 중앙 지점 높이: {height}"
+
+msgid "Heightmap"
+msgstr "하이트맵"
+
+msgid "Heightmap height invalid. Valid heights: %1%."
+msgstr "하이트맵 높이가 정상이 아닙니다. 유효한 높이: %1%."
+
+msgid "Heightmap texture tool"
+msgstr "하이트맵 텍스처 도구"
+
+msgid "Heightmap texture tool: Invert"
+msgstr "하이트맵 텍스처 도구: 반전"
+
+msgid "Heightmap too large. Number of pixels must not exceed %1%M."
+msgstr "하이트맵이 너무 큽니다. 픽셀의 수가 %1%M개를 초과해서는 안 됩니다."
+
+msgid "Heightmap width invalid. Valid widths: %1%."
+msgstr "하이트맵 넓이가 정상이 아닙니다. 유효한 넓이: %1%."
+
+msgid "Help"
+msgstr "도움말"
+
+msgid "High"
+msgstr "높음"
+
+msgid "High speed"
+msgstr "고속"
+
+msgid "High-speed"
+msgstr "고속"
+
+msgid "High-speed track tool"
+msgstr "고속철도 도구"
+
+msgid "Horse"
+msgstr "말"
+
+msgid "Idle"
+msgstr "유휴 상태"
+
+msgid ""
+"If you continue, all unfinished downloads will be cancelled and download "
+"progress will be lost."
+msgstr ""
+"계속할 경우 완료되지 않은 모든 다운로드가 취소되고 다운로드 진행 상황이 소실"
+"됩니다."
+
+msgid "Illegal Content"
+msgstr "불법 콘텐츠"
+
+msgid "Image file too large (must be less than 1MB)"
+msgstr "이미지 파일이 너무 큽니다. 1MB 미만이어야 합니다."
+
+msgid "Image type must be grayscale."
+msgstr "이미지 유형이 그레이스케일이어야 합니다."
+
+msgid "Image:"
+msgstr "이미지:"
+
+msgid "Import"
+msgstr "가져오기"
+
+msgid "Import heightmap"
+msgstr "하이트맵 가져오기"
+
+msgid "Important note"
+msgstr "중요 노트"
+
+msgid "In"
+msgstr "인"
+
+msgid "In depot"
+msgstr "차고 내"
+
+msgid "Income"
+msgstr "수입"
+
+msgid "Incoming vehicle(s)"
+msgstr "진입 중인 차량"
+
+msgid "Industrial"
+msgstr "산업"
+
+msgid "Industrial area"
+msgstr "산업 구역"
+
+msgid "Industrial building"
+msgstr "산업 건물"
+
+msgid "Industrial supply"
+msgstr "산업 공급"
+
+msgid "Industrialist"
+msgstr "산업가"
+
+msgid "Industries"
+msgstr "산업"
+
+msgid "Industry"
+msgstr "산업"
+
+msgid "Industry closure"
+msgstr "산업 폐쇄"
+
+msgid "Industry spawn"
+msgstr "산업 생성"
+
+msgid "Industry statistics"
+msgstr "산업 통계"
+
+msgid "Infrastructure"
+msgstr "기반시설"
+
+msgid "Initial street angle range"
+msgstr "초기 거리 각도 범위"
+
+msgid "Insert a random seed to be used for the generator"
+msgstr "생성기에 사용할 무작위의 시드를 삽입합니다."
+
+msgid "Insert fade after"
+msgstr "뒤에 페이드 삽입"
+
+msgid "Insert fade before"
+msgstr "앞에 페이드 삽입"
+
+msgid "Insert key frame after"
+msgstr "뒤에 키프레임 삽입"
+
+msgid "Insert key frame before"
+msgstr "앞에 키프레임 삽입"
+
+msgid "Insert subtitle after"
+msgstr "뒤에 자막 삽입"
+
+msgid "Insert subtitle before"
+msgstr "앞에 자막 삽입"
+
+msgid "Installation failed due to insufficient storage space"
+msgstr "저장 공간이 부족해 설치하지 못했습니다."
+
+msgid "Installation pending"
+msgstr "설치 대기 중"
+
+msgid "Installed"
+msgstr "설치 완료"
+
+msgid "Insufficient storage space"
+msgstr "저장 공간 부족"
+
+msgid "Interface"
+msgstr "인터페이스"
+
+msgid "Interface scaling"
+msgstr "인터페이스 비율"
+
+msgid "Internal error (see console for details)"
+msgstr "내부 오류 (세부 사항은 콘솔 참조)"
+
+msgid "Invalid configuration, %1% module will collide."
+msgid_plural "Invalid configuration, %1% modules will collide."
+msgstr[0] ""
+"환경 설정이 유효하지 않습니다. %1% 모듈이 충돌을 일으킬 수 있습니다."
+
+msgid "Invalid terminals"
+msgstr "잘못된 터미널"
+
+msgid "Inventory"
+msgstr "재고 목록"
+
+msgid "Invert"
+msgstr "반전"
+
+msgid "Invert panning"
+msgstr "이동 반전"
+
+msgid "Invert rotate"
+msgstr "회전 반전"
+
+msgid "Invert rotation"
+msgstr "회전 반전"
+
+msgid "Invert rotation keys"
+msgstr "회전 키 반전"
+
+msgid "Invert tilt"
+msgstr "기울이기 반전"
+
+msgid "Invert tilting"
+msgstr "기울이기 반전"
+
+msgid "Invert zoom"
+msgstr "확대/축소 반전"
+
+msgid "Invert zooming"
+msgstr "확대/축소 반전"
+
+msgid "Investments"
+msgstr "투자"
+
+msgid "JPEG couldn't be read"
+msgstr "JPEG 읽기 불가"
+
+msgid "JPEG has not enough channels (min: 3)"
+msgstr "JPEG 채널 부족 (최소: 3개)"
+
+msgid "Jobs"
+msgstr "일자리"
+
+msgid "Keep"
+msgstr "유지"
+
+msgid ""
+"Keep a train built before 1900 running until the year 2000 in free game."
+msgstr "자유 게임에서 1900년 이전에 기차를 제작해 2000년까지 운영하세요."
+
+msgid "Keep assets"
+msgstr "애셋 유지"
+
+msgid "Keep editing"
+msgstr "계속 수정"
+
+msgid "Keep existing industries"
+msgstr "기존 산업 유지"
+
+msgid "Keep existing industries:"
+msgstr "기존 산업 유지:"
+
+msgid "Keep existing streets"
+msgstr "기존 거리 유지"
+
+msgid "Keep existing towns"
+msgstr "기존 도시 유지"
+
+msgid "Keep existing towns:"
+msgstr "기존 도시 유지:"
+
+msgid "Keep heightmap"
+msgstr "하이트맵 유지"
+
+msgid "Keep resolution?"
+msgstr "해상도 유지 확인"
+
+msgid "Keep trees and rocks"
+msgstr "나무 및 바위 유지"
+
+msgid "Key mapping"
+msgstr "키 지정"
+
+msgid "KeyFrame {frame_num}"
+msgstr "키프레임 {frame_num}"
+
+msgid "Keyboard"
+msgstr "키보드"
+
+msgid "Keyboard settings"
+msgstr "키보드 설정"
+
+msgid "Keyframes"
+msgstr "키프레임"
+
+msgid "Land use"
+msgstr "토지 사용"
+
+msgid "Land use layer"
+msgstr "토지 사용 레이어"
+
+msgid "Landscaping"
+msgstr "조경"
+
+msgid "Lanes: %1%, Speed limit: %2%"
+msgstr "차로: %1%. 속도 제한: %2%"
+
+msgid "Language"
+msgstr "언어"
+
+msgid "Last Image:"
+msgstr "최근 이미지:"
+
+msgid "Last recording:"
+msgstr "최근 녹화:"
+
+msgid "Last savegame \"%1%\""
+msgstr "최근 게임 저장 파일 \"%1%\""
+
+msgid "Leaving game..."
+msgstr "게임을 떠나는 중…"
+
+msgid "Length"
+msgstr "길이"
+
+msgid "Length: %1%"
+msgstr "길이: %1%"
+
+msgid "Let a manufacturing industry upgrade in free game."
+msgstr "자유 게임에서 제조 산업을 업그레이드시키세요."
+
+msgid "Level"
+msgstr "레벨"
+
+msgid "Liabilities"
+msgstr "부채"
+
+msgid "Lifespan"
+msgstr "내구연한"
+
+msgid "Lifetime reached"
+msgstr "수명 도달"
+
+msgid "Likes"
+msgstr "좋아요"
+
+msgid "Limit of {number} industries on map reached"
+msgstr "지도상의 {number}개의 산업 제한에 도달했습니다."
+
+msgid "Limit of {number} towns on map reached"
+msgstr "지도상의 {number}개의 도시 제한에 도달했습니다."
+
+msgid "Limit reached!\n"
+msgstr "한계 도달!\n"
+
+msgid "Line"
+msgstr "노선"
+
+msgid "Line Usage"
+msgstr "노선 사용량"
+
+msgid "Line contains too few stations"
+msgstr "노선에 포함된 정거장의 수가 너무 적음"
+
+msgid "Line manager"
+msgstr "노선 관리자"
+
+msgid "Line must contain at least one stop"
+msgstr "노선에는 정류장이 한 개 이상 포함되어야 합니다."
+
+msgid "Line statistics"
+msgstr "노선 통계"
+
+msgid "Lines"
+msgstr "노선"
+
+msgid "Lines passing:"
+msgstr "노선 통과:"
+
+msgid "Lines report following problems:"
+msgstr "노선에서 다음 문제가 발생했습니다:"
+
+msgid "Liquidity"
+msgstr "유동성"
+
+msgid "Load"
+msgstr "불러오기"
+
+msgid "Load Camera config"
+msgstr "카메라 환경 설정 불러오기"
+
+msgid "Load Game"
+msgstr "게임 불러오기"
+
+msgid "Load Map"
+msgstr "지도 불러오기"
+
+msgid "Load a map"
+msgstr "지도 불러오기"
+
+msgid "Load an existing game"
+msgstr "기존 게임 불러오기"
+
+msgid "Load an existing map"
+msgstr "기존 지도 불러오기"
+
+msgid "Load game"
+msgstr "게임 불러오기"
+
+msgid "Load if available"
+msgstr "사용 가능 시 적재"
+
+msgid "Load key frames"
+msgstr "키프레임 불러오기"
+
+msgid "Load map"
+msgstr "지도 불러오기"
+
+msgid "Load mod preset"
+msgstr "모드 프리셋 불러오기"
+
+msgid "Load presets"
+msgstr "프리셋 불러오기"
+
+msgid "Load savegame?"
+msgstr "게임 저장 파일 불러오기 확인"
+
+msgid "Load the map"
+msgstr "지도 불러오기"
+
+msgid "Loaded"
+msgstr "적재"
+
+msgid "Loading order, click to change"
+msgstr "클릭하여 불러오기 순서 변경"
+
+msgid "Loading page {page}"
+msgstr "{page} 페이지 불러오는 중"
+
+msgid "Loading report"
+msgstr "리포트 불러오는 중"
+
+msgid "Loading speed"
+msgstr "적재 속도"
+
+msgid ""
+"Loading speed reduced because train length ({train}) exceeds platform length "
+"({station})"
+msgstr "기차 길이({train})가 플랫폼 길이({station})를 초과하여 적재 속도 감소"
+
+msgid "Loading speed: {amount}x"
+msgstr "적재 속도: {amount}x"
+
+msgid "Loading..."
+msgstr "불러오는 중…"
+
+msgid "Loan"
+msgstr "대출"
+
+msgid "Loan interest"
+msgstr "대출 이자"
+
+msgid "Loan to repay: %1%"
+msgstr "상환할 대출금: %1%"
+
+msgid "Locate"
+msgstr "찾기"
+
+msgid "Locomotives"
+msgstr "기관차"
+
+msgid "Logging Out"
+msgstr "로그아웃 중"
+
+msgid "Logging in, please wait..."
+msgstr "로그인 중. 기다려 주세요..."
+
+msgid "Login"
+msgstr "로그인"
+
+msgid "Login and subscribe"
+msgstr "로그인 및 구독"
+
+msgid "Login to mod.io"
+msgstr "mod.io 로그인"
+
+msgid "Logout"
+msgstr "로그아웃"
+
+msgid "Louis Favre"
+msgstr "루이스 파브르"
+
+msgid "Low"
+msgstr "낮음"
+
+msgid "Lower"
+msgstr "낮추기"
+
+msgid "Lower the terrain."
+msgstr "지형을 낮춥니다."
+
+msgid "Lower tool"
+msgstr "하강 도구"
+
+msgid "Lower {townName}"
+msgstr "하부 {townName}"
+
+msgid "MODIO_INFO"
+msgstr ""
+"Mod.io는 Urban Games에서 권장하는 Transport Fever 2용 모드 브라우저로, 모든 "
+"PC 사용자(Steam 사용자뿐만 아니라 PlayStation®5 및 Xbox Series X|S 사용자)가 "
+"Transport Fever 2의 에셋 및 스크립트 모드를 모두 다운로드할 수 있습니다.\n"
+"\n"
+"대규모 콘솔 및 비 Steam 사용자 커뮤니티에서 사용할 수 있도록 하기 위해 모드 "
+"제작자는 게임 내 모드 게시 도구를 통해 쉽게 할 수 있는 mod.io에 모드를 특별"
+"히 업로드해야 합니다.mod.io의 모드는 게임 내 모드 브라우저를 사용하여 직접 다"
+"운로드, 설치 및 자동 업데이트할 수 있습니다.기여해주신 모든 모더에게 큰 감사"
+"를 드립니다."
+
+msgid "MODIO_INFO_CONSOLE"
+msgstr ""
+"Mod.io는 Urban Games에서 권장하는 Transport Fever 2용 모드 브라우저로.\n"
+"\n"
+"mod.io의 모드는 게임 내 모드 브라우저를 사용하여 직접 다운로드, 설치 및 자동 "
+"업데이트할 수 있습니다.기여해주신 모든 모더에게 큰 감사를 드립니다."
+
+msgid "Main connection will be interrupted"
+msgstr "주 연결이 방해를 받습니다."
+
+msgid "Main connections"
+msgstr "주 연결망"
+
+msgid "Main connections:"
+msgstr "주 연결망:"
+
+msgid "Maintenance"
+msgstr "유지보수"
+
+msgid "Maintenance depots"
+msgstr "차고 유지보수"
+
+msgid "Maintenance infrastructure"
+msgstr "기반시설 유지보수"
+
+msgid "Maintenance other"
+msgstr "기타 유지보수"
+
+msgid "Maintenance roads"
+msgstr "도로 유지보수"
+
+msgid "Maintenance set to keep vehicle at %1% condition"
+msgstr "차량이 %1%의 상태를 유지하도록 유지보수 설정"
+
+msgid "Maintenance stations"
+msgstr "정거장 유지보수"
+
+msgid "Maintenance tracks"
+msgstr "철도 유지보수"
+
+msgid "Maintenance vehicles"
+msgstr "차량 유지보수"
+
+msgid "Make public"
+msgstr "공개하기"
+
+msgid "Manage line"
+msgstr "노선 관리"
+
+msgid "Manage vehicle"
+msgstr "차량 관리"
+
+msgid "Manage vehicles"
+msgstr "차량 관리"
+
+msgid "Map Editor"
+msgstr "지도 편집기"
+
+msgid "Map Parameters"
+msgstr "지도 변수"
+
+msgid "Map format"
+msgstr "지도 형식"
+
+msgid "Map generation failed"
+msgstr "지도 생성 실패"
+
+msgid "Map size"
+msgstr "지도 크기"
+
+msgid "Map size is experimental and may lead to unexpected results."
+msgstr ""
+"지도 크기는 현재 실험 중인 기능입니다. 예상치 못한 결과가 발생할 수도 있습니"
+"다."
+
+msgid "Map size:"
+msgstr "지도 크기:"
+
+msgid "Mass production"
+msgstr "대규모 생산"
+
+msgid "Master"
+msgstr "종합"
+
+msgid "Maximum loan: %1%"
+msgstr "최대 대출금: %1%"
+
+msgid "Maximum segment length reached"
+msgstr "최대 구간 길이 도달"
+
+msgid "Maximum time before departure"
+msgstr "출발 전 최대 대기 시간"
+
+msgid "Mediocre"
+msgstr "보통"
+
+msgid "Menu"
+msgstr "메뉴"
+
+msgid "Menu music"
+msgstr "메뉴 음악"
+
+msgid "Metropolis"
+msgstr "대도시"
+
+msgid "Min. bridge height"
+msgstr "최소 다리 높이"
+
+msgid "Min. tunnel depth"
+msgstr "최소 터널 깊이"
+
+msgid "Minimum time before departure"
+msgstr "출발 전 최소 대기 시간"
+
+msgid "Minus old vehicle value"
+msgstr "기존 차량 가치 차감"
+
+msgid "Misc."
+msgstr "기타"
+
+msgid "Miscellaneous"
+msgstr "기타"
+
+msgid "Missing electric tracks"
+msgstr "전기 철도 없음"
+
+msgid "Missing tram tracks"
+msgstr "노면전차 철도 없음"
+
+msgid "Mission %1%"
+msgstr "임무 %1%"
+
+msgid "Mission completed"
+msgstr "임무 완료"
+
+msgid "Mission failed"
+msgstr "임무 실패"
+
+msgid "Mission tasks"
+msgstr "임무 과제"
+
+msgid "Mission {mission_num}"
+msgstr "임무 {mission_num}"
+
+msgid "Mission {missions_done} of {missions_total}"
+msgstr "임무 {missions_total}개 중 {missions_done}개"
+
+msgid "Mission: %1%"
+msgstr "임무: %1%"
+
+msgid "Mixed rocks"
+msgstr "바위 섞기"
+
+msgid "Mixed trees"
+msgstr "나무 섞기"
+
+msgid "Mod Browser"
+msgstr "모드 브라우저"
+
+msgid "Mod Details"
+msgstr "모드 세부 사항"
+
+msgid "Mod details"
+msgstr "모드 세부 사항"
+
+msgid "Mod no longer available"
+msgstr "모드를 더 이상 사용할 수 없습니다."
+
+msgid "Mod not installed"
+msgstr "모드 미설치"
+
+msgid "Mod parameters"
+msgstr "모드 변수"
+
+msgid "Mod preset name"
+msgstr "모드 프리셋 이름"
+
+msgid "Mod publishing"
+msgstr "모드 게시"
+
+msgid "Mod size"
+msgstr "모드 용량"
+
+msgid ""
+"Mod upload could not proceed due to a filesystem issue. Please check the "
+"files in your staging area."
+msgstr ""
+"파일시스템 문제로 인해 모드를 업로드하지 못했습니다. 준비 구역의 파일을 확인"
+"해 주세요."
+
+msgid "Mod.io info"
+msgstr "Mod.io 정보"
+
+msgid "Modify for "
+msgstr "다음에 변경 "
+
+msgid "Modify the terrain with a heightmap texture."
+msgstr "하이트맵 텍스처로 지형을 수정합니다."
+
+msgid "Mods"
+msgstr "모드"
+
+msgid "Module bulldozer"
+msgstr "모듈 불도저"
+
+msgid "Money number format"
+msgstr "자금 숫자 형식"
+
+msgid "Month"
+msgstr "월"
+
+msgid "More details"
+msgstr "자세히 알아보기"
+
+msgid "Mouse"
+msgstr "마우스"
+
+msgid "Mouse movement sensitivity"
+msgstr "마우스 이동 감도"
+
+msgid "Mouse settings"
+msgstr "마우스 설정"
+
+msgid "Mouse wheel sensitivity"
+msgstr "마우스 휠 감도"
+
+msgid "Move down"
+msgstr "아래로 이동"
+
+msgid "Move mode"
+msgstr "이동 모드"
+
+msgid "Move up"
+msgstr "위로 이동"
+
+msgid "Move vehicle backward"
+msgstr "후방으로 차량 이동"
+
+msgid "Move vehicle down"
+msgstr "아래로 차량 이동"
+
+msgid "Move vehicle forward"
+msgstr "전방으로 차량 이동"
+
+msgid "Move vehicle to the back"
+msgstr "뒤로 차량 이동"
+
+msgid "Move vehicle to the front"
+msgstr "앞으로 차량 이동"
+
+msgid "Move vehicle up"
+msgstr "위로 차량 이동"
+
+msgid "Movement sensitivity (game camera)"
+msgstr "이동 감도 (게임 카메라)"
+
+msgid "Multiple units"
+msgstr "동력분산식 열차"
+
+msgid "Multiple vehicles."
+msgstr "여러 차량."
+
+msgid "Museum line"
+msgstr "박물관 노선"
+
+msgid "Music"
+msgstr "음악"
+
+msgid "Music player"
+msgstr "음악 플레이어"
+
+msgid "Mute"
+msgstr "음소거"
+
+msgid "N/A"
+msgstr "N/A"
+
+msgid "NEW_GAME_TAKING_TOO_LONG_STR"
+msgstr "지도 초기화는 조금 더 오래 걸립니다. 게임이 곧 시작됩니다."
+
+msgid "Name"
+msgstr "이름"
+
+msgid "Narrow angle"
+msgstr "좁은 각도"
+
+msgid "Navigable waters"
+msgstr "가항 수역"
+
+msgid "Navigable waters layer"
+msgstr "가항 수역 레이어"
+
+msgid "Network Error"
+msgstr "네트워크 오류"
+
+msgid "Never"
+msgstr "사용 안 함"
+
+msgid "New cargo demand"
+msgstr "신규 화물 수요"
+
+msgid "New industry founded"
+msgstr "신규 산업 형성"
+
+msgid "New line"
+msgstr "신규 노선"
+
+msgid "New train"
+msgstr "신규 기차"
+
+msgid "New vehicle"
+msgstr "신규 차량"
+
+msgid "New vehicle available"
+msgstr "신규 차량 사용 가능"
+
+msgid "New vehicles"
+msgstr "신규 차량"
+
+msgid "Next"
+msgstr "다음"
+
+msgid "Next/previous image"
+msgstr "다음/이전 이미지"
+
+msgid "No"
+msgstr "아니요"
+
+msgid "No Line"
+msgstr "노선 없음"
+
+msgid "No bridge"
+msgstr "다리 없음"
+
+msgid "No cargo type"
+msgstr "화물 유형 없음"
+
+msgid "No construction set!"
+msgstr "지정된 건설이 없습니다!"
+
+msgid "No costs"
+msgstr "비용 없음"
+
+msgid "No country for old trains"
+msgstr "구식 기차를 위한 나라는 없다"
+
+msgid "No depot found"
+msgstr "발견된 차고 없음"
+
+msgid "No electric path"
+msgstr "전기 경로 없음"
+
+msgid "No filter currently set"
+msgstr "현재 설정된 필터 없음"
+
+msgid "No free seats"
+msgstr "만차"
+
+msgid "No line passing"
+msgstr "노선 통과 없음"
+
+msgid "No lines have been created yet. Create lines to see them here."
+msgstr "아직 노선을 생성하지 않았습니다. 노선을 생성하면 이곳에 표시됩니다."
+
+msgid "No logo"
+msgstr "로고 없음"
+
+msgid ""
+"No maps available.\n"
+"\n"
+"Maps can be created with the map editor or\n"
+"downloaded from Steam Workshop."
+msgstr ""
+"사용 가능한 지도가 없습니다.\n"
+"\n"
+"지도는 지도 편집기로 생성할 수 있습니다.\n"
+"Steam Workshop에서 다운로드하는 것도 가능합니다."
+
+msgid ""
+"No maps available.\n"
+"\n"
+"Maps can be created with the map editor."
+msgstr ""
+"사용 가능한 지도가 없습니다.\n"
+"\n"
+"지도는 지도 편집기로 생성할 수 있습니다."
+
+msgid "No matches"
+msgstr "해당 없음"
+
+msgid "No mods match your current search or filter"
+msgstr "현재 검색 또는 필터에 해당하는 모드 없음"
+
+msgid "No money:"
+msgstr "자금 없음:"
+
+msgid "No parameters"
+msgstr "변수 없음"
+
+msgid "No path"
+msgstr "경로 없음"
+
+msgid "No path (Big aircraft)"
+msgstr "경로 없음 (대형 항공기)"
+
+msgid "No path (Big ship)"
+msgstr "경로 없음 (대형 선박)"
+
+msgid "No path (Electric)"
+msgstr "경로 없음 (전기)"
+
+msgid "No path for big airplanes"
+msgstr "대형 항공기 경로 없음"
+
+msgid "No path for big ships"
+msgstr "대형 선박 경로 없음"
+
+msgid "No path found between %1% and %2%"
+msgstr "%1% 및 %2% 사이에 경로가 존재하지 않음"
+
+msgid "No release notes provided"
+msgstr "제공된 릴리즈 노트 없음"
+
+msgid "No saved games available."
+msgstr "사용 가능한 게임 저장 파일이 없습니다."
+
+msgid "No segment removable"
+msgstr "제거 가능한 구간 없음"
+
+msgid "No stations have been added yet. Add stations to see them here."
+msgstr "추가한 정거장이 없습니다. 정거장을 추가하면 이곳에 표시됩니다."
+
+msgid "No street connection"
+msgstr "거리 연결망 없음"
+
+msgid "No tasks available"
+msgstr "수행 가능 과제 없음"
+
+msgid "No tunnel"
+msgstr "터널 없음"
+
+msgid "No vehicle in depot"
+msgstr "차고에 차량 없음"
+
+msgid "No vehicle to replace"
+msgstr "교체할 차량 없음"
+
+msgid "No vehicles to replace!"
+msgstr "교체할 차량이 없습니다."
+
+msgid "No vehicles with current filter setting available"
+msgstr "현재 필터 설정에 일치하는 차량이 없습니다."
+
+msgid "Node locked"
+msgstr "지점 잠김"
+
+msgid "None"
+msgstr "없음"
+
+msgid "Normal"
+msgstr "보통"
+
+msgid "Not Working"
+msgstr "작동하지 않음"
+
+msgid "Not assigned to a terminal"
+msgstr "터미널에 할당되어 있지 않음"
+
+msgid "Not compatible for replacement"
+msgstr "호환이 되지 않아 대체가 불가능합니다."
+
+msgid "Not contained by any line as waypoint"
+msgstr "노선 웨이포인트로 포함되어 있지 않음"
+
+msgid "Not enough money"
+msgstr "자금이 부족합니다."
+
+msgid "Not enough money."
+msgstr "자금이 부족합니다."
+
+msgid "Not in my backyard"
+msgstr "님비 현상"
+
+msgid "Nothing waiting"
+msgstr "대기 없음"
+
+msgid "Notifications"
+msgstr "알림"
+
+msgid "Now demands "
+msgstr "수요 생성: "
+
+msgid "Now what?"
+msgstr "이제 어떡하지?"
+
+msgid "Number of industries:"
+msgstr "산업의 수:"
+
+msgid "Number of items currently in stock"
+msgstr "현재 재고 보유량"
+
+msgid "Number of lines"
+msgstr "노선의 수"
+
+msgid "Number of towns"
+msgstr "도시의 수"
+
+msgid "Number of towns:"
+msgstr "도시의 수:"
+
+msgid "OK"
+msgstr "확인"
+
+msgid "Off"
+msgstr "끄기"
+
+msgid "Ok"
+msgstr "확인"
+
+msgid "Old timer"
+msgstr "고참"
+
+msgid "Oldest vehicle"
+msgstr "가장 오래된 차량"
+
+msgid "On"
+msgstr "켜기"
+
+msgid "One-way"
+msgstr "일방통행"
+
+msgid "Only show air lines and hangars"
+msgstr "항공 노선 및 격납고만 표시"
+
+msgid "Only show lines and depots that are visible in the main view"
+msgstr "주 보기 시점에서 볼 수 있는 노선 및 차고만 표시"
+
+msgid "Only show lines that are visible in the main view"
+msgstr "주 보기 시점에서 볼 수 있는 노선만 표시"
+
+msgid "Only show railroad lines and depots"
+msgstr "철도 노선 및 차고만 표시"
+
+msgid "Only show road lines and depots"
+msgstr "도로 노선 및 차고만 표시"
+
+msgid "Only show ship lines and shipyards"
+msgstr "선박 노선 및 조선소만 표시"
+
+msgid "Only show tram lines and depots"
+msgstr "노면전차 노선 및 차고만 표시"
+
+msgid "Only show vehicles that are visible in the main view"
+msgstr "주 보기 시점에서 볼 수 있는 차량만 표시"
+
+msgid "Open advanced game settings dialog"
+msgstr "고급 게임 설정 창 열기"
+
+msgid "Open console"
+msgstr "콘솔 열기"
+
+msgid "Open folder"
+msgstr "폴더 열기"
+
+msgid "Open source"
+msgstr "소스 열기"
+
+msgid "Open userdata folder"
+msgstr "사용자 데이터 폴더 열기"
+
+msgid "Open vehicle manager"
+msgstr "차량 관리자 열기"
+
+msgid "Open vehicle store to buy vehicles"
+msgstr "차량 상점 열기"
+
+msgid "Open vehicle window on purchase"
+msgstr "구매 시 차량 창 열기"
+
+msgid "OpenGL"
+msgstr "OpenGL"
+
+msgid "Optional: Enter email address"
+msgstr "선택: 이메일 주소 입력"
+
+msgid "Optional: Enter name"
+msgstr "선택: 이름 입력"
+
+msgid "Options:"
+msgstr "옵션:"
+
+msgid "Originally posted by {author}:"
+msgstr "{author}에 의해 최초 게시됨:"
+
+msgid "Other"
+msgstr "기타"
+
+msgid "Other infrastructure"
+msgstr "기타 기반시설"
+
+msgid "Out"
+msgstr "아웃"
+
+msgid "Out of map"
+msgstr "지도 밖"
+
+msgid "Output resolution"
+msgstr "출력 해상도"
+
+msgid "Overload"
+msgstr "과부하"
+
+msgid "Overloaded stations"
+msgstr "과부하된 정거장"
+
+msgid "Overview"
+msgstr "개요"
+
+msgid "Overwrite camera config?"
+msgstr "카메라 환경 설정 덮어쓰기 확인"
+
+msgid "Overwrite description and preview image"
+msgstr "설명 및 미리보기 이미지 덮어쓰기"
+
+msgid "Overwrite description, summary and preview image"
+msgstr "설명, 요약, 미리보기 이미지 덮어쓰기"
+
+msgid "Overwrite heightmap?"
+msgstr "하이트맵 덮어쓰기 확인"
+
+msgid "Overwrite mod preset?"
+msgstr "모드 프리셋 덮어쓰기 확인"
+
+msgid "Overwrite savegame?"
+msgstr "게임 저장 파일 덮어쓰기 확인"
+
+msgid "Own streets."
+msgstr "거리를 보유합니다."
+
+msgid "Ownership test failed"
+msgstr "소유권 검증 실패"
+
+msgid "Paint steep side"
+msgstr "측면 페인트"
+
+msgid "Paint tools"
+msgstr "페인트 도구"
+
+msgid "Pan sensitivity (free camera)"
+msgstr "이동 감도 (자유 카메라)"
+
+msgid "Pan sensitivity (game camera)"
+msgstr "이동 감도 (게임 카메라)"
+
+msgid "Passenger"
+msgstr "승객"
+
+msgid "Passenger stop can not be used by cargo vehicles"
+msgstr "화물 차량은 승객 정류장 사용 불가"
+
+msgid "Passenger stops can not be used by cargo vehicles"
+msgstr "화물 차량은 승객 정류장 사용 불가"
+
+msgid "Passenger wagons"
+msgstr "승객 궤도차"
+
+msgid "Passengers"
+msgstr "승객"
+
+msgid "Passengers transported (last 12 months)"
+msgstr "승객 수송 (지난 12개월)"
+
+msgid "Passengers transported (total)"
+msgstr "승객 수송 (총합)"
+
+msgid "Paste"
+msgstr "붙여넣기"
+
+msgid "Pause"
+msgstr "일시 정지"
+
+msgid "Pause preview"
+msgstr "미리 보기 일시 정지"
+
+msgid "Paused"
+msgstr "일시 정지"
+
+msgid "Penny pincher"
+msgstr "구두쇠"
+
+msgid "Perspective panning"
+msgstr "원근 이동"
+
+msgid "Picture"
+msgstr "사진"
+
+msgid "Pin"
+msgstr "핀 고정"
+
+msgid "Place random rocks with a brush."
+msgstr "브러시로 바위를 무작위 배치합니다."
+
+msgid "Place random trees with a brush."
+msgstr "브러시로 나무를 무작위 배치합니다."
+
+msgid "Platform:"
+msgstr "플랫폼:"
+
+msgid "Play Map"
+msgstr "지도 플레이"
+
+msgid "Play a free game in all three climates."
+msgstr "모든 세 기후에서 자유 게임을 플레이하세요."
+
+msgid "Play a map"
+msgstr "지도 플레이"
+
+msgid "Play map"
+msgstr "지도 플레이"
+
+msgid "Play next song"
+msgstr "다음 노래 재생"
+
+msgid "Play or pause current song"
+msgstr "현재 노래 재생/일시 정지"
+
+msgid "Play previous song"
+msgstr "이전 노래 재생"
+
+msgid "Player Owned"
+msgstr "플레이어 소유"
+
+msgid "Player owned"
+msgstr "플레이어 소유"
+
+msgid "Player ownership"
+msgstr "플레이어 소유권"
+
+msgid "Player ownership control tool"
+msgstr "플레이어 소유권 제어 도구"
+
+msgid "Playlist"
+msgstr "플레이리스트"
+
+msgid "Please check that you're signed in to PlayStation Network"
+msgstr "PlayStation Network에 로그인되어 있는지 확인해 주세요"
+
+msgid "Please check that you're signed in to Xbox Live"
+msgstr "Xbox Live에 로그인되어 있는지 확인해 주세요"
+
+msgid "Please check your email for your code and enter it here."
+msgstr "이메일에서 코드를 확인한 후 이곳에 입력해 주세요."
+
+msgid "Please check your network connection and try again later."
+msgstr "네트워크 연결 상태를 확인하고 나중에 다시 시도해 주세요."
+
+msgid "Please login to publish mod"
+msgstr "모드를 게시하려면 로그인하세요"
+
+msgid "Please try installing the latest drivers for your graphics card."
+msgstr "그래픽 카드 최신 드라이버를 설치하여 주시기 바랍니다."
+
+msgid "Please wait ..."
+msgstr "기다려 주세요..."
+
+msgid "Please wait, models are being replaced..."
+msgstr "기다려 주세요, 모델을 대체하고 있습니다..."
+
+msgid "Point to the terrain"
+msgstr "지형 포인트"
+
+msgid "Poor"
+msgstr "조악함"
+
+msgid "Population"
+msgstr "인구"
+
+msgid "Power"
+msgstr "동력"
+
+msgid "Power rating"
+msgstr "동력 등급"
+
+msgid "Power units"
+msgstr "동력 단위"
+
+msgid "Precision mode"
+msgstr "정밀 모드"
+
+msgid "Preparing game..."
+msgstr "게임 준비 중…"
+
+msgid "Preparing..."
+msgstr "준비 중…"
+
+msgid "Presets"
+msgstr "프리셋"
+
+msgid "Press <Shift> to set custom color"
+msgstr "<Shift>: 사용자 지정 색상 설정"
+
+msgid ""
+"Press [iaHint=IA_SELECT/] or [iaHint=IA_NAV_ACTIVATE_SPACE/] to continue..."
+msgstr ""
+"[iaHint=IA_SELECT/] 또는 [iaHint=IA_NAV_ACTIVATE_SPACE/] 버튼을 눌러 계속하"
+"기..."
+
+msgid "Press any key"
+msgstr "아무 키나 누르기"
+
+msgid "Previous resolution setting will be restored in %2d seconds!"
+msgstr "%2d초 후에 기존 해상도가 복원됩니다."
+
+msgid "Private transport"
+msgstr "민간 운송"
+
+msgid "Produced"
+msgstr "생산량"
+
+msgid "Product"
+msgstr "상품"
+
+msgid "Production"
+msgstr "생산"
+
+msgid "Production rating"
+msgstr "생산 등급"
+
+msgid "Profit last 12 months"
+msgstr "지난 12개월간 수익"
+
+msgid "Prohibited area"
+msgstr "금지 구역"
+
+msgid "Public transport"
+msgstr "공공 운송"
+
+msgid "Publish"
+msgstr "게시"
+
+msgid "Publish Map"
+msgstr "지도 게시"
+
+msgid "Publish Savegame"
+msgstr "게임 저장 파일 게시"
+
+msgid "Publishing..."
+msgstr "게시 중…"
+
+msgid "Quality"
+msgstr "품질"
+
+msgid "Quality of life in {townName}"
+msgstr "{townName} 삶의 품질"
+
+msgid "Quantity"
+msgstr "수량"
+
+msgid "Quit"
+msgstr "나가기"
+
+msgid "Quit game"
+msgstr "게임 나가기"
+
+msgid "Quit to main menu"
+msgstr "주 메뉴로 나가기"
+
+msgid "Quit to main menu or desktop"
+msgstr "주 메뉴나 바탕화면으로 나가기"
+
+msgid "Rail"
+msgstr "선로"
+
+msgid "Railroad"
+msgstr "철도"
+
+msgid "Railroad crossing"
+msgstr "철도 건널목"
+
+msgid "Raise"
+msgstr "높이기"
+
+msgid "Raise the terrain."
+msgstr "지형을 높입니다."
+
+msgid "Raise tool"
+msgstr "상승 도구"
+
+msgid "Random"
+msgstr "무작위"
+
+msgid "Random seed"
+msgstr "무작위 시드"
+
+msgid "Randomize rotation"
+msgstr "무작위 회전"
+
+msgid "Range:"
+msgstr "범위:"
+
+msgid "Rate"
+msgstr "수송량"
+
+msgid "Rating"
+msgstr "평점"
+
+msgid "Rating from \"%1%\" to \"%2%\""
+msgstr "\"%1%\" 등급에서 \"%2%\" 등급"
+
+msgid "Reach 400 production at a manufacturing industry in free game."
+msgstr "자유 게임에서 제조 산업의 생산량 400을 달성하세요."
+
+msgid "Reach a speed of at least 120 km/h with a train in free game."
+msgstr "자유 게임에서 최고 속도 120km/h를 달성하세요."
+
+msgid "Reach a speed of at least 300 km/h with a train in free game."
+msgstr "자유 게임에서 최고 속도 300km/h를 달성하세요."
+
+msgid "Reach an emission value of 80 in a town in free game."
+msgstr "자유 게임에서 한 도시의 공해 80을 달성하세요."
+
+msgid "Reach the maximum headquarters level in free game."
+msgstr "자유 게임에서 본부 최고 레벨을 달성하세요."
+
+msgid "Reach the present in free game."
+msgstr "자유 게임에서 현대 시대에 도달하세요."
+
+msgid "Reach the year 2050 using only trains in free game."
+msgstr "자유 게임에서 기차만을 사용해 2050년에 도달하세요."
+
+msgid "Reading heightmap..."
+msgstr "하이트맵 읽는 중…"
+
+msgid "Real estate"
+msgstr "부동산"
+
+msgid "Record key frame"
+msgstr "키프레임 녹화"
+
+msgid "Reduce"
+msgstr "감소"
+
+msgid "Refittable"
+msgstr "개장 가능"
+
+msgid "Reflection"
+msgstr "반사"
+
+msgid "Refresh"
+msgstr "새로 고침"
+
+msgid "Refresh finished"
+msgstr "새로 고침 완료"
+
+msgid "Refund: %1%"
+msgstr "환불: %1%"
+
+msgid "Relative mode"
+msgstr "상대 모드"
+
+msgid "Reload all textures?"
+msgstr "모든 텍스처 다시 불러오기 확인"
+
+msgid "Relocate"
+msgstr "위치 이전"
+
+msgid "Remove all"
+msgstr "모두 제거"
+
+msgid "Remove all connections"
+msgstr "모든 연결망 삭제"
+
+msgid "Remove all stations and waypoints"
+msgstr "모든 정거장 및 웨이포인트 제거"
+
+msgid "Remove all stations?"
+msgstr "모든 정거장 제거 확인"
+
+msgid "Remove attachment"
+msgstr "부속 제거"
+
+msgid "Remove station or waypoint"
+msgstr "정거장 또는 웨이포인트 제거"
+
+msgid "Remove vehicle"
+msgstr "차량 제거"
+
+msgid "Rename"
+msgstr "이름 변경"
+
+msgid "Repay %1%"
+msgstr "%1% 상환"
+
+msgid "Replace all vehicles"
+msgstr "모든 차량 교체"
+
+msgid "Replace current list of activated mods with this preset."
+msgstr "현재 활성화된 모드 목록을 이 프리셋으로 교체합니다."
+
+msgid "Replace for "
+msgstr "교체: "
+
+msgid "Replace selected vehicle"
+msgid_plural "Replace selected vehicles"
+msgstr[0] "선택한 차량 교체"
+
+msgid "Replace vehicle"
+msgid_plural "Replace vehicles"
+msgstr[0] "차량 교체"
+
+msgid "Replace vehicles"
+msgstr "차량 교체"
+
+msgid "Replacing existing"
+msgstr "기존 교체"
+
+msgid "Replacing train"
+msgstr "기차 교체"
+
+msgid "Replacing vehicle"
+msgstr "차량 교체"
+
+msgid "Report"
+msgstr "신고"
+
+msgid "Report Mod"
+msgstr "모드 신고"
+
+msgid "Report Type"
+msgstr "신고 유형"
+
+msgid "Report submitted"
+msgstr "신고 제출 완료"
+
+msgid "Requirements"
+msgstr "요구 조건"
+
+msgid "Resend Code"
+msgstr "코드 재발송"
+
+msgid "Reset color"
+msgstr "색상 초기화"
+
+msgid "Reset filters"
+msgstr "필터 초기화"
+
+msgid "Reset key mapping to default?"
+msgstr "키 지정 기본값 초기화 확인"
+
+msgid "Reset settings to default"
+msgstr "설정 기본값 초기화"
+
+msgid "Reset to default"
+msgstr "기본값 초기화"
+
+msgid "Reset vehicle"
+msgstr "차량 초기화"
+
+msgid "Residential"
+msgstr "주거"
+
+msgid "Residential area"
+msgstr "주거 구역"
+
+msgid "Residential building"
+msgstr "주거 건물"
+
+msgid "Residents"
+msgstr "주민"
+
+msgid "Resolution"
+msgstr "해상도"
+
+msgid "Resolution scale"
+msgstr "해상도 비율"
+
+msgid "Restart"
+msgstr "재시작"
+
+msgid "Restart game and apply settings"
+msgstr "게임 재시작 및 설정 적용"
+
+msgid "Restart the mission"
+msgstr "임무 재시작"
+
+msgid "Resume"
+msgstr "재개"
+
+msgid "Resume game"
+msgstr "게임 재개"
+
+msgid "Retry"
+msgstr "재시도"
+
+msgid "Return to campaign menu"
+msgstr "캠페인 메뉴로 돌아가기"
+
+msgid "Return to main menu"
+msgstr "주 메뉴로 돌아가기"
+
+msgid "Return to previous page"
+msgstr "이전 페이지로 돌아가기"
+
+msgid "Reverse"
+msgstr "반전"
+
+msgid "Road"
+msgstr "도로"
+
+msgid "Road depot"
+msgstr "도로 차고"
+
+msgid "Road vehicle"
+msgid_plural "Road vehicles"
+msgstr[0] "도로 차량"
+
+msgid "Road vehicle {number}"
+msgstr "도로 차량 {number}"
+
+msgid "Road vehicles"
+msgstr "도로 차량"
+
+msgid "Roads"
+msgstr "도로"
+
+msgid "Rotate sensitivity (free camera)"
+msgstr "회전 감도 (자유 카메라)"
+
+msgid "Rotate sensitivity (game camera)"
+msgstr "회전 감도 (게임 카메라)"
+
+msgid "Rotation"
+msgstr "회전"
+
+msgid "Rude Content"
+msgstr "모욕적인 콘텐츠"
+
+msgid "Rule"
+msgstr "규칙"
+
+msgid "Running"
+msgstr "운행 중"
+
+msgid "Running costs"
+msgstr "운영비"
+
+msgid "Running costs: +{percentage}%"
+msgstr "운영비: +{percentage}%"
+
+msgid "Sandbox mode"
+msgstr "샌드박스 모드"
+
+msgid "Sandbox mode:"
+msgstr "샌드박스 모드:"
+
+msgid "Save"
+msgstr "저장"
+
+msgid "Save & play"
+msgstr "저장 및 플레이"
+
+msgid "Save and apply settings"
+msgstr "저장 및 설정 적용"
+
+msgid "Save and play map"
+msgstr "저장 및 지도 플레이"
+
+msgid "Save as preset"
+msgstr "프리셋으로 저장"
+
+msgid "Save camera config"
+msgstr "카메라 환경 설정 저장"
+
+msgid ""
+"Save failed: no space left.\n"
+"Please free {mb} MB and try again."
+msgstr ""
+"저장 실패. 공간이 부족합니다.\n"
+"{mb}MB의 공간을 확보한 후 다시 시도해 주세요."
+
+msgid ""
+"Save failed: storage limit reached.\n"
+"Please open save menu to free {mb} MB and try again."
+msgstr ""
+"저장 실패. 저장 한도에 도달했습니다.\n"
+"저장 메뉴를 열어 {mb}MB의 공간을 확보한 후 다시 시도해 주세요."
+
+msgid "Save game"
+msgstr "게임 저장"
+
+msgid "Save game name"
+msgstr "저장 게임 이름"
+
+msgid "Save key frames"
+msgstr "키프레임 저장"
+
+msgid "Save map"
+msgstr "지도 저장"
+
+msgid "Save mod preset"
+msgstr "모드 프리셋 저장"
+
+msgid "Save..."
+msgstr "저장 중…"
+
+msgid "Save... get ready to play map"
+msgstr "저장 중… 지도 플레이 준비"
+
+msgid "Saved game \"%1%\""
+msgstr "게임 저장 \"%1%\""
+
+msgid "Savegame not ready"
+msgstr "게임 저장 파일 준비되지 않음"
+
+msgid "Saving..."
+msgstr "저장 중…"
+
+msgid "Scale"
+msgstr "비율"
+
+msgid "Scroll description"
+msgstr "스크롤 설명"
+
+msgid "Sculpturer"
+msgstr "조각가"
+
+msgid "Search for line..."
+msgstr "노선 검색…"
+
+msgid "Search for mod..."
+msgstr "모드 검색…"
+
+msgid "Search for modules..."
+msgstr "모듈 검색 중…"
+
+msgid "Search for vehicle..."
+msgstr "차량 검색…"
+
+msgid "Search..."
+msgstr "검색…"
+
+msgid "Seed"
+msgstr "시드"
+
+msgid "Seed:"
+msgstr "시드:"
+
+msgid "Select"
+msgstr "선택"
+
+msgid "Select Campaign"
+msgstr "캠페인 선택"
+
+msgid "Select bit depth of grayscale image"
+msgstr "그레이스케일 이미지 비트 심도 선택"
+
+msgid "Select generator"
+msgstr "생성기 선택"
+
+msgid "Select options"
+msgstr "옵션 선택"
+
+msgid "Select terminal for this stop"
+msgstr "해당 정류장의 터미널 선택"
+
+msgid "Select terminal for this waypoint"
+msgstr "해당 웨이포인트 터미널 선택"
+
+msgid "Select the campaign"
+msgstr "캠페인 선택"
+
+msgid "Select vehicle"
+msgstr "차량 선택"
+
+msgid "Sell"
+msgstr "매각"
+
+msgid "Sell all vehicles"
+msgstr "모든 차량 매각"
+
+msgid "Sell all vehicles?"
+msgstr "모든 차량 매각 확인"
+
+msgid "Sell selected vehicle"
+msgid_plural "Sell selected vehicles"
+msgstr[0] "선택한 차량 매각"
+
+msgid "Sell selected vehicle?"
+msgid_plural "Sell selected vehicles?"
+msgstr[0] "선택한 차량 매각"
+
+msgid "Sell vehicle"
+msgstr "차량 매각"
+
+msgid "Send"
+msgstr "보내기"
+
+msgid "Send all vehicles to depot"
+msgstr "모든 차량 차고 보내기"
+
+msgid "Send all vehicles to depot?"
+msgstr "모든 차량 차고 보내기 확인"
+
+msgid "Send crash reports"
+msgstr "크래시 보고서 보내기"
+
+msgid "Send selected vehicle to depot"
+msgid_plural "Send selected vehicles to depot"
+msgstr[0] "선택한 차량 차고 보내기"
+
+msgid "Send to depot"
+msgstr "차고로 보내기"
+
+msgid "Sensitivity settings"
+msgstr "감도 설정"
+
+msgid "Set Bridge Type"
+msgstr "다리 유형 설정"
+
+msgid "Set Railroad Crossing Type"
+msgstr "철도 건널목 유형 설정"
+
+msgid "Set Tunnel Type"
+msgstr "터널 유형 설정"
+
+msgid "Set color"
+msgstr "색상 설정"
+
+msgid "Set color for all vehicles"
+msgstr "모든 차량의 색상 설정"
+
+msgid "Set color for selected vehicle"
+msgid_plural "Set color for selected vehicles"
+msgstr[0] "선택한 차량의 색상 설정"
+
+msgid "Set line"
+msgstr "노선 설정"
+
+msgid "Set output frame rate to {framerate} fps"
+msgstr "출력 프레임률 설정: {framerate}fps"
+
+msgid "Set output game speed up to {speed}"
+msgstr "최대 출력 게임 속도 설정: {speed}"
+
+msgid "Set output resolution to {width} x {height}"
+msgstr "출력 해상도 설정: {width} x {height}"
+
+msgid "Settings"
+msgstr "설정"
+
+msgid "Settings..."
+msgstr "설정…"
+
+msgid "Settled down"
+msgstr "뿌리를 내릴 때"
+
+msgid "Setup a line so that town residents use your vehicles in free game."
+msgstr "자유 게임에서 도시 주민이 내 차량을 이용하도록 노선을 개설하세요."
+
+msgid "Shadows"
+msgstr "그림자"
+
+msgid "Share"
+msgstr "공유"
+
+msgid "Shared capacity of station buildings for full platforms"
+msgstr "전체 플랫폼에 정거장 건물의 수용력 공유"
+
+msgid "Shift"
+msgstr "Shift"
+
+msgid "Ship"
+msgid_plural "Ships"
+msgstr[0] "선박"
+
+msgid "Ship {number}"
+msgstr "선박 {number}"
+
+msgid "Shipment"
+msgstr "출하"
+
+msgid "Shipped"
+msgstr "출하량"
+
+msgid "Shipping"
+msgstr "출하"
+
+msgid "Ships"
+msgstr "선박"
+
+msgid "Shipyard"
+msgstr "조선소"
+
+msgid "Shop"
+msgstr "상점"
+
+msgid "Shopping"
+msgstr "쇼핑"
+
+msgid "Shopping facilities"
+msgstr "쇼핑 시설"
+
+msgid "Show all"
+msgstr "모두 표시"
+
+msgid "Show details"
+msgstr "세부 사항 표시"
+
+msgid "Show in browser"
+msgstr "브라우저에서 보기"
+
+msgid "Show load game dialog"
+msgstr "게임 불러오기 창 표시"
+
+msgid "Show missing resources dialog"
+msgstr "리소스 없음 창 표시"
+
+msgid "Show only visible"
+msgstr "볼 수 있는 대상만 표시"
+
+msgid "Show only visible lines"
+msgstr "볼 수 있는 노선만 표시"
+
+msgid "Show quit dialog"
+msgstr "나가기 창 표시"
+
+msgid "Show save game dialog"
+msgstr "게임 저장 창 표시"
+
+msgid "Show settings dialog"
+msgstr "설정 창 표시"
+
+msgid "Show unsupported hardware warning"
+msgstr "미지원 하드웨어 경고 표시"
+
+msgid "Show video memory usage warning"
+msgstr "비디오 메모리 사용량 경고 표시]"
+
+msgid "Show/hide HUD icon filter menu"
+msgstr "HUD 아이콘 필터 메뉴 표시/숨기기"
+
+msgid "Show/hide air buildings menu"
+msgstr "항공 건물 메뉴 표시/숨기기"
+
+msgid "Show/hide air menu"
+msgstr "항공 메뉴 표시/숨기기"
+
+msgid "Show/hide assets menu"
+msgstr "애셋 메뉴 표시/숨기기"
+
+msgid "Show/hide camera tool"
+msgstr "카메라 도구 표시/숨기기"
+
+msgid "Show/hide cargo layer"
+msgstr "화물 레이어 표시/숨기기"
+
+msgid "Show/hide contour lines layer"
+msgstr "등고선 레이어 표시/숨기기"
+
+msgid "Show/hide data layers menu"
+msgstr "데이터 레이어 메뉴 표시/숨기기"
+
+msgid "Show/hide destinations layer"
+msgstr "목적지 레이어 표시/숨기기"
+
+msgid "Show/hide emission layer"
+msgstr "공해 레이어 표시/숨기기"
+
+msgid "Show/hide industry statistics"
+msgstr "산업 통계 표시/숨기기"
+
+msgid "Show/hide land use layer"
+msgstr "토지 사용 레이어 표시/숨기기"
+
+msgid "Show/hide landscaping menu"
+msgstr "조경 메뉴 표시/숨기기"
+
+msgid "Show/hide line manager"
+msgstr "노선 관리자 표시/숨기기"
+
+msgid "Show/hide line statistics"
+msgstr "노선 통계 표시/숨기기"
+
+msgid "Show/hide music player"
+msgstr "음악 플레이어 표시/숨기기"
+
+msgid "Show/hide navigable waters layer"
+msgstr "가항 수역 레이어 표시/숨기기"
+
+msgid "Show/hide rail buildings menu"
+msgstr "선로 건물 메뉴 표시/숨기기"
+
+msgid "Show/hide rail menu"
+msgstr "선로 메뉴 표시/숨기기"
+
+msgid "Show/hide road buildings menu"
+msgstr "도로 건물 메뉴 표시/숨기기"
+
+msgid "Show/hide road menu"
+msgstr "도로 메뉴 표시/숨기기"
+
+msgid "Show/hide station statistics"
+msgstr "정거장 통계 표시/숨기기"
+
+msgid "Show/hide stations layer"
+msgstr "정거장 레이어 표시/숨기기"
+
+msgid "Show/hide statistics window"
+msgstr "통계 창 표시/숨기기"
+
+msgid "Show/hide street builder menu (curved mode)"
+msgstr "거리 건설자 메뉴 (곡선 모드) 표시/숨기기"
+
+msgid "Show/hide street builder menu (straight mode)"
+msgstr "거리 건설자 메뉴 (직선 모드) 표시/숨기기"
+
+msgid "Show/hide street builder menu (upgrade mode)"
+msgstr "거리 건설자 메뉴 (업그레이드 모드) 표시/숨기기"
+
+msgid "Show/hide street constructions menu"
+msgstr "거리 건설 메뉴 표시/숨기기"
+
+msgid "Show/hide street modification tools menu"
+msgstr "거리 변경 도구 메뉴 표시/숨기기"
+
+msgid "Show/hide street traffic layer"
+msgstr "거리 교통량 레이어 표시/숨기기"
+
+msgid "Show/hide street waypoints menu"
+msgstr "거리 웨이포인트 메뉴 표시/숨기기"
+
+msgid "Show/hide streets menu"
+msgstr "거리 메뉴 표시/숨기기"
+
+msgid "Show/hide terrain paint tools menu"
+msgstr "지형 페인트 도구 메뉴 표시/숨기기"
+
+msgid "Show/hide terrain tools menu"
+msgstr "지형 도구 메뉴 표시/숨기기"
+
+msgid "Show/hide town statistics"
+msgstr "도시 통계 표시/숨기기"
+
+msgid "Show/hide track builder menu (upgrade mode)"
+msgstr "철도 건설자 메뉴 (업그레이드 모드) 표시/숨기기"
+
+msgid "Show/hide track modification tools menu"
+msgstr "철도 변경 도구 메뉴 표시/숨기기"
+
+msgid "Show/hide track signals menu"
+msgstr "철도 신호기 메뉴 표시/숨기기"
+
+msgid "Show/hide track speed limits layer"
+msgstr "철도 속도 제한 레이어 표시/숨기기"
+
+msgid "Show/hide track waypoints menu"
+msgstr "철도 웨이포인트 메뉴 표시/숨기기"
+
+msgid "Show/hide tracks menu"
+msgstr "철도 메뉴 표시/숨기기"
+
+msgid "Show/hide vehicle manager"
+msgstr "차량 관리자 표시/숨기기"
+
+msgid "Show/hide vehicle statistics"
+msgstr "차량 통계 표시/숨기기"
+
+msgid "Show/hide warnings window"
+msgstr "경고 창 표시/숨기기"
+
+msgid "Show/hide water buildings menu"
+msgstr "수운 건물 메뉴 표시/숨기기"
+
+msgid "Show/hide water menu"
+msgstr "수운 메뉴 표시/숨기기"
+
+msgid "Showing {from}-{to} of {total} mods"
+msgstr "모드 {from}~{to}개 표시 중(총 {total}개)"
+
+msgid "Sign in with Email"
+msgstr "이메일 주소로 로그인"
+
+msgid "Sign-In Error"
+msgstr "로그인 오류"
+
+msgid "Signal #{number}"
+msgstr "신호기 #{number}"
+
+msgid "Signals"
+msgstr "신호기"
+
+msgid "Signals must be removed first"
+msgstr "우선 신호기를 제거해야 합니다."
+
+msgid "Single"
+msgstr "단일"
+
+msgid "Size"
+msgstr "크기"
+
+msgid "Skip collision"
+msgstr "충돌 건너뛰기"
+
+msgid "Sky"
+msgstr "하늘"
+
+msgid "Slope threshold"
+msgstr "경사 한계점"
+
+msgid "Smooth the terrain."
+msgstr "지형을 매끄럽게 만듭니다."
+
+msgid "Smooth tool"
+msgstr "완화 도구"
+
+msgid ""
+"Some DLCs and/or mods could not be found. Please install them first in order "
+"to load this savegame."
+msgstr ""
+"일부 DLC 또는 모드가 발견되지 않았습니다. 이 게임 저장 파일을 불러오려면 해"
+"당 콘텐츠를 설치해 주세요."
+
+msgid "Some cargo items are lost because station is overloaded."
+msgstr "정거장 과부하로 일부 화물을 상실했습니다."
+
+msgid "Some passengers leave because station is overloaded."
+msgstr "정거장 과부하로 일부 승객이 떠났습니다."
+
+msgid "Sort"
+msgstr "분류"
+
+msgid "Sound Effects"
+msgstr "효과음"
+
+msgid "Sound effects"
+msgstr "효과음"
+
+msgid "Soundtrack"
+msgstr "사운드트랙"
+
+msgid "Source"
+msgstr "소스"
+
+msgid "Spawning animals..."
+msgstr "동물 생성 중…"
+
+msgid "Specify vehicle"
+msgstr "차량 세부 설정"
+
+msgid "Speed"
+msgstr "속도"
+
+msgid "Speed of light"
+msgstr "빛의 속도"
+
+msgid "Speed units"
+msgstr "속도 단위"
+
+msgid "Speed: 1x"
+msgstr "속도: 1x"
+
+msgid "Speed: 2x"
+msgstr "속도: 2x"
+
+msgid "Speed: 4x"
+msgstr "속도: 4x"
+
+msgid "Standard Edition"
+msgstr "Standard Edition"
+
+msgid "Start"
+msgstr "시작"
+
+msgid "Start mission"
+msgstr "임무 시작"
+
+msgid "Start preview"
+msgstr "미리 보기 시작"
+
+msgid "Start recording"
+msgstr "녹화 시작"
+
+msgid "Start the editor"
+msgstr "편집기 실행"
+
+msgid "Start the game"
+msgstr "게임 시작"
+
+msgid "Start upload"
+msgstr "업로드 시작"
+
+msgid "Start year"
+msgstr "시작 연도"
+
+msgid "Start year:"
+msgstr "시작 연도:"
+
+msgid "Station"
+msgstr "정거장"
+
+msgid "Station %1% appears consecutively twice"
+msgstr "%1% 정거장이 2개 연속으로 나타남"
+
+msgid "Station appears consecutively twice"
+msgstr "정거장이 2개 연속으로 나타남"
+
+msgid "Station statistics"
+msgstr "정거장 통계"
+
+msgid "Station types don't match (e.g. bus stop and train station)"
+msgstr "정거장 유형이 일치하지 않음(예: 버스 정류장 및 기차 정거장)"
+
+msgid "Stations"
+msgstr "정거장"
+
+msgid "Stations layer"
+msgstr "정거장 레이어"
+
+msgid "Stations report the following problems:"
+msgstr "정거장에서 다음 문제가 발생했습니다:"
+
+msgid "Statistics"
+msgstr "통계"
+
+msgid "Status"
+msgstr "상태"
+
+msgid "Steam"
+msgstr "증기"
+
+msgid "Steam API init failed"
+msgstr "Steam API 초기화 실패"
+
+msgid "Steam Train"
+msgstr "증기 기차"
+
+msgid "Steam Workshop"
+msgstr "Steam Workshop"
+
+msgid "Steam locomotives"
+msgstr "증기 기관차"
+
+msgid "Steam multiple units"
+msgstr "증기 동력분산식 열차"
+
+msgid "Stocks"
+msgstr "재고"
+
+msgid "Stolen Content"
+msgstr "도난 콘텐츠"
+
+msgid "Stop"
+msgstr "정지"
+
+msgid "Stop #{number}"
+msgstr "정류장 #{number}"
+
+msgid "Stop can not be used with current vehicles"
+msgstr "정류장에 현재 차량 사용 불가"
+
+msgid "Stop preview"
+msgstr "미리 보기 중단"
+
+msgid "Stopped"
+msgstr "정지함"
+
+msgid "Stopping"
+msgstr "정지 중"
+
+msgid "Stops must be removed first"
+msgstr "우선 정류장을 제거해야 합니다."
+
+msgid "Store the current list of activated mods in a mod preset"
+msgstr "모드 프리셋에 현재 활성화된 모드 목록 저장"
+
+msgid "Store the current list of activated mods in a preset"
+msgstr "프리셋에 현재 활성화된 모드 목록 저장"
+
+msgid "Stored"
+msgstr "저장"
+
+msgid "Straight"
+msgstr "직선"
+
+msgid "Street constructions"
+msgstr "거리 건설"
+
+msgid "Street locked"
+msgstr "거리 잠김"
+
+msgid "Street traffic layer"
+msgstr "거리 교통량 레이어"
+
+msgid "Streets"
+msgstr "거리"
+
+msgid "Strength"
+msgstr "강도"
+
+msgid "Submit"
+msgstr "제출"
+
+msgid "Subscribe"
+msgstr "구독"
+
+msgid "Subscribed"
+msgstr "구독 중"
+
+msgid "Subscribers"
+msgstr "구독자"
+
+msgid "Subscription state of {amount} mods updated."
+msgstr "{amount}개 모드의 구독 상태가 업데이트되었습니다."
+
+msgid "Subtitle {num}"
+msgstr "자막 {num}"
+
+msgid "Subtitles"
+msgstr "자막"
+
+msgid "Successfully connected all stations"
+msgstr "모든 정거장을 성공적으로 연결했습니다."
+
+msgid ""
+"Successfully connected all stations, disabled {num} alternative terminal"
+msgid_plural ""
+"Successfully connected all stations, disabled {num} alternative terminals"
+msgstr[0] ""
+"모든 정거장을 성공적으로 연결했습니다. {num}개의 대체 터미널이 비활성화되었습"
+"니다."
+
+msgid "Summary"
+msgstr "요약"
+
+msgid "Summary:"
+msgstr "요약:"
+
+msgid "Suppliers"
+msgstr "공급자"
+
+msgid "Supply"
+msgstr "공급"
+
+msgid "Supply rating"
+msgstr "공급 등급"
+
+msgid "TGA could not be read"
+msgstr "TGA 읽기 불가"
+
+msgid "Tag(s):"
+msgstr "태그:"
+
+msgid "Tags"
+msgstr "태그"
+
+msgid "Target population"
+msgstr "대상 인구"
+
+msgid "Task completed"
+msgstr "과제 완료"
+
+msgid "Tasks"
+msgstr "과제"
+
+msgid "Terminal %1%"
+msgstr "터미널 %1%"
+
+msgid "Terminals"
+msgstr "터미널"
+
+msgid "Terrain"
+msgstr "지형"
+
+msgid "Terrain textures"
+msgstr "지형 텍스처"
+
+msgid "Terrain tools"
+msgstr "지형 도구"
+
+msgid "Text"
+msgstr "텍스트"
+
+msgid "Textures"
+msgstr "텍스처"
+
+msgid "Thank you for your feedback."
+msgstr "피드백을 제공해 주셔서 감사합니다."
+
+msgid "The camera config \"{}\" already exists. Do you want to overwrite it?"
+msgstr "\"{}\" 카메라 환경 설정은 이미 존재합니다. 덮어쓰시겠습니까?"
+
+msgid "The condition is very bad."
+msgstr "상태가 매우 좋지 않습니다."
+
+msgid "The condition of multiple vehicles is very bad."
+msgstr "여러 차량의 상태가 매우 좋지 않습니다."
+
+msgid ""
+"The description contains unsupported or malformed elements and cannot be "
+"displayed here."
+msgstr ""
+"설명에 지원되지 않는 문자나 기형 요소가 포함되어 있어 여기서 표시되지 않습니"
+"다."
+
+msgid "The existing mod on {backend} will be updated."
+msgstr "{backend}에 있는 기존 모드를 업데이트합니다."
+
+msgid "The future is now, old man"
+msgstr "요즘이 어떤 시대인데"
+
+msgid "The heightmap \"%1%\" already exists. Do you want to overwrite it?"
+msgstr "\"%1%\" 하이트맵은 이미 존재합니다. 덮어쓰시겠습니까?"
+
+msgid "The initial size of %1%"
+msgstr "초기 규모 %1%"
+
+msgid "The king of the sea"
+msgstr "바다의 제왕"
+
+msgid "The mod preset \"{}\" already exists. Do you want to overwrite it?"
+msgstr "\"{}\" 모드 프리셋은 이미 존재합니다. 덮어쓰시겠습니까?"
+
+msgid "The name of the animal"
+msgstr "동물 이름"
+
+msgid "The name of the construction"
+msgstr "건축 이름"
+
+msgid "The name of the depot"
+msgstr "차고 이름"
+
+msgid "The name of the industry"
+msgstr "산업 이름"
+
+msgid "The name of the line"
+msgstr "노선명"
+
+msgid "The name of the resident"
+msgstr "거주자 이름"
+
+msgid "The name of the signal"
+msgstr "신호기 이름"
+
+msgid "The name of the station"
+msgstr "정거장 이름"
+
+msgid "The name of the town"
+msgstr "도시 이름"
+
+msgid "The name of the transport vehicle"
+msgstr "수송 차량 이름"
+
+msgid "The name of the waypoint"
+msgstr "웨이포인트 이름"
+
+msgid "The number of jobs in %1%"
+msgstr "%1% 내 일자리의 수"
+
+msgid "The number of residents in %1% is growing"
+msgstr "%1% 주민 인구수: 성장 중"
+
+msgid "The number of residents in %1% is shrinking"
+msgstr "%1% 주민 인구수: 축소 중"
+
+msgid "The number of residents in %1% is stable"
+msgstr "%1% 주민 인구수: 안정적"
+
+msgid "The number of shopping facilities in %1%"
+msgstr "%1% 내 쇼핑 시설의 수"
+
+msgid "The number or residents %1% will grow/shrink to"
+msgstr "%1% 주민 수가 다음으로 성장/축소"
+
+msgid "The savegame \"{}\" already exists. Do you want to overwrite it?"
+msgstr "\"{}\" 게임 저장 파일은 이미 존재합니다. 덮어쓰시겠습니까?"
+
+msgid "The station is not connected to a street."
+msgstr "정거장이 거리에 연결되어 있지 않습니다."
+
+msgid "The total growth"
+msgstr "총 성장"
+
+msgid "The ugly smell of success"
+msgstr "성공의 악취"
+
+msgid "There are %1% vehicles to be replaced"
+msgstr "교체할 차량이 %1%대 있습니다."
+
+msgid "There are no warnings!"
+msgstr "경고가 없습니다."
+
+msgid "There is one vehicle to be replaced"
+msgstr "교체할 차량이 1대 있습니다."
+
+msgid ""
+"This mod's format is deprecated. Please contact the author to obtain an up-"
+"to-date version."
+msgstr ""
+"더 이상 사용되지 않는 모드 형식입니다. 제작자에게 문의하여 최신 버전을 사용"
+"해 주시기 바랍니다."
+
+msgid ""
+"This requires reloading all textures, might take a long time and will "
+"momentarily freeze the game. Save your progression before triggering this "
+"operation."
+msgstr ""
+"모든 텍스처를 다시 불러옵니다. 오랜 시간이 소요되며 게임이 일시적으로 응답하"
+"지 않을 수 있습니다. 본 작업을 실행하기 전에 진행 상황을 저장해 주시기 바랍니"
+"다."
+
+msgid ""
+"This savegame contains vehicles for which improved models are available due "
+"to a game update."
+msgstr ""
+"이 게임 저장 파일에는 게임 업데이트로 인해 향상된 모델 이용이 가능한 차량이 "
+"포함되어 있습니다."
+
+msgid ""
+"This savegame requires game resources which are not available, e.g. due to "
+"missing mods. Check the stdout.txt for detailed information and expect "
+"unwanted behavior of the game."
+msgstr ""
+"현재 이 게임 저장 파일에는 모드 소실 등으로 인해 이용할 수 없는 게임 리소스"
+"가 필요합니다. 자세한 정보는 stdout.txt을 확인하세요. 게임이 의도치 않은 방식"
+"으로 작동할 수 있습니다."
+
+msgid ""
+"This savegame requires models which are not available, e.g. due to missing "
+"mods. Instances of the following models are replaced by placeholders:"
+msgstr ""
+"현재 이 게임 저장 파일에는 모드 소실 등으로 인해 이용할 수 없는 모델이 필요합"
+"니다. 다음 모델 인스턴스가 임시로 대체됩니다."
+
+msgid ""
+"This savegame requires models which are not available, e.g. due to missing "
+"mods. Instances of {number} models are replaced by placeholders."
+msgstr ""
+"현재 이 게임 저장 파일에는 모드 소실 등으로 인해 이용할 수 없는 모델이 필요합"
+"니다. 모델 {number}개의 인스턴스가 임시로 대체됩니다."
+
+msgid "This setting can only be changed in the main menu"
+msgstr "본 설정은 주 메뉴에서 변경할 수 있습니다."
+
+msgid "This warning can be deactivated in the settings Advanced tab."
+msgstr "본 경고는 설정의 고급 탭에서 비활성화할 수 있습니다."
+
+msgid "Thrust"
+msgstr "추진력"
+
+msgid "Tickets"
+msgstr "표"
+
+msgid "Time"
+msgstr "시간"
+
+msgid "Time scale"
+msgstr "시간 척도"
+
+msgid "To Desktop"
+msgstr "바탕화면으로"
+
+msgid "To main menu"
+msgstr "주 메뉴로"
+
+msgid "Today, {time}"
+msgstr "오늘. {time}"
+
+msgid "Toggle precedence"
+msgstr "우선도 전환"
+
+msgid ""
+"Toggle the button to jump to the first point where the path couldn't "
+"continue."
+msgstr "버튼 전환 시 경로가 이어지지 않는 첫 지점으로 이동합니다."
+
+msgid "Toggle traffic light"
+msgstr "교통 신호등 전환"
+
+msgid "Too much curvature"
+msgstr "곡률이 너무 큽니다."
+
+msgid "Too much slope"
+msgstr "경사가 너무 큽니다."
+
+msgid "Tools"
+msgstr "도구"
+
+msgid "Top length (rail)"
+msgstr "최고 길이 (선로)"
+
+msgid "Top speed"
+msgstr "최고 속도"
+
+msgid "Top speed for slopes:"
+msgstr "경사 구간 최고 속도:"
+
+msgid "Total"
+msgstr "총합"
+
+msgid "Total bridges"
+msgstr "총 다리의 수"
+
+msgid "Total electrified"
+msgstr "총 전기화 철도의 수"
+
+msgid "Total growth: %1% residents"
+msgstr "총 성장: 주민 %1%명"
+
+msgid "Total high-speed"
+msgstr "총 고속철도의 수"
+
+msgid "Total length of train is %s"
+msgstr "기차 총 길이: %s"
+
+msgid "Total tracks"
+msgstr "총 철도의 수"
+
+msgid "Total tunnels"
+msgstr "총 터널의 수"
+
+msgid "Town"
+msgstr "도시"
+
+msgid ""
+"Town authorities complain about following interrupted street connections:"
+msgstr "다음 거리 연결망이 막혀 도시 당국에서 불만을 제기했습니다."
+
+msgid "Town builder"
+msgstr "도시 건설자"
+
+msgid "Town growth"
+msgstr "도시 성장"
+
+msgid "Town names:"
+msgstr "도시 이름:"
+
+msgid "Town statistics"
+msgstr "도시 통계"
+
+msgid "Towns"
+msgstr "도시"
+
+msgid "Towns cargo needs"
+msgstr "도시 화물 수요"
+
+msgid "Towns/industries"
+msgstr "도시/산업"
+
+msgid "Track constructions"
+msgstr "철도 건설"
+
+msgid "Track speed limits layer"
+msgstr "철도 속도 제한 레이어"
+
+msgid "Tracks"
+msgstr "철도"
+
+msgid "Tractive effort"
+msgstr "견인력"
+
+msgid "Traffic"
+msgstr "교통량"
+
+msgid "Traffic light control tool"
+msgstr "교통 신호등 제어 도구"
+
+msgid "Traffic lights"
+msgstr "교통 신호등"
+
+msgid "Train"
+msgid_plural "Trains"
+msgstr[0] "기차"
+
+msgid "Train Fever"
+msgstr "기차가 대세"
+
+msgid "Train depot"
+msgstr "기차 차고"
+
+msgid "Train does not have a locomotive"
+msgstr "기차에 기관차가 연결되어 있지 않습니다."
+
+msgid "Train {number}"
+msgstr "기차 {number}"
+
+msgid "Trains"
+msgstr "기차"
+
+msgid "Trains mutually blocked"
+msgstr "기차 상호 막힘"
+
+msgid "Tram"
+msgid_plural "Trams"
+msgstr[0] "노면전차"
+
+msgid "Tram depot"
+msgstr "노면전차 차고"
+
+msgid "Tram track"
+msgstr "노면전차 철도"
+
+msgid "Tram track tool"
+msgstr "노면전차 철도 도구"
+
+msgid "Tram {number}"
+msgstr "노면전차 {number}"
+
+msgid "Trams"
+msgstr "노면전차"
+
+msgid "Trans-Siberian Railway"
+msgstr "시베리아 횡단 열차"
+
+msgid "Transport"
+msgstr "수송"
+
+msgid "Transport Fever"
+msgstr "Transport Fever"
+
+msgid "Transport Fever 2"
+msgstr "Transport Fever 2"
+
+msgid "Transport belt"
+msgstr "수송 벨트"
+
+msgid "Transport corporation"
+msgstr "수송 기업"
+
+msgid "Transport master"
+msgstr "수송업계 장인"
+
+msgid "Transport millionaire"
+msgstr "수송업계 백만장자"
+
+msgid "Transport shark"
+msgstr "수송업계 거물"
+
+msgid "Transport shark (Hard mode)"
+msgstr "수송업계 거물 (어려움 모드)"
+
+msgid "Transport tycoon"
+msgstr "수송업계 재벌"
+
+msgid "Transport tycoon (Hard mode)"
+msgstr "수송업계 재벌 (어려움 모드)"
+
+msgid "Transported"
+msgstr "수송"
+
+msgid "Travel back and forward in time using the time control in sandbox mode."
+msgstr "샌드박스 모드에서 시간 제어를 사용해 과거로 돌아가세요."
+
+msgid "Trending"
+msgstr "인기"
+
+msgid "Trophy set for Transport Fever 2"
+msgstr "Transport Fever 2트로피 세트"
+
+msgid "Truck"
+msgstr "트럭"
+
+msgid "Truck Fever"
+msgstr "트럭이 대세"
+
+msgid "Truck station"
+msgstr "트럭 정거장"
+
+msgid "Try to fix problem automatically"
+msgstr "자동으로 문제 해결"
+
+msgid "Tunnel"
+msgstr "터널"
+
+msgid "Turn music on"
+msgstr "음악 켜기"
+
+msgid "Type"
+msgstr "유형"
+
+msgid "Types of stations %1% and %2% don't match"
+msgstr "%1% 및 %2% 정거장 유형이 일치하지 않음"
+
+msgid "USA"
+msgstr "미국"
+
+msgid "Unable to align terrain"
+msgstr "지형 정렬 불가"
+
+msgid "Unable to find path to depot"
+msgstr "차고로 가는 경로를 찾을 수 없습니다."
+
+msgid "Unable to find path to stop"
+msgstr "정류장으로 가는 경로를 찾을 수 없습니다."
+
+msgid ""
+"Unable to load. The current save contains content that is not included in "
+"your version."
+msgstr ""
+"로드할 수 없습니다. 현재 저장에는 버전에 포함되지 않은 콘텐츠가 포함되어 있습"
+"니다."
+
+msgid "Unconnected streets"
+msgstr "연결되지 않은 거리"
+
+msgid "Understood!"
+msgstr "알겠습니다"
+
+msgid "Unemployed"
+msgstr "무직"
+
+msgid "Uninstall pending"
+msgstr "삭제 대기 중"
+
+msgid "Uninstalling mod"
+msgstr "모드 삭제 중"
+
+msgid "Unknown"
+msgstr "알 수 없음"
+
+msgid "Unknown Entity"
+msgstr "알 수 없는 개체"
+
+msgid "Unload"
+msgstr "하역"
+
+msgid "Unload only"
+msgstr "하역 전용"
+
+msgid "Unloaded"
+msgstr "하역"
+
+msgid "Unlock all trophies."
+msgstr "트로피 모두 잠금 해제하기"
+
+msgid "Unsaved changes will be lost."
+msgstr "저장되지 않은 변경 사항을 모두 잃게 됩니다."
+
+msgid "Unsubscribe"
+msgstr "구독 취소"
+
+msgid "Up"
+msgstr "위"
+
+msgid "Update"
+msgstr "업데이트"
+
+msgid "Update models"
+msgstr "모델 업데이트"
+
+msgid "Update pending"
+msgstr "업데이트 대기 중"
+
+msgid "Upgrade"
+msgstr "업그레이드"
+
+msgid "Upgrade streets with bus lanes."
+msgstr "버스 차로로 거리를 업그레이드합니다."
+
+msgid "Upgrade streets with traffic lights."
+msgstr "교통 신호등으로 거리를 업그레이드합니다."
+
+msgid "Upgrade streets with tram tracks."
+msgstr "노면전차 철도로 거리를 업그레이드합니다."
+
+msgid "Upgrade tracks for higher speeds."
+msgstr "철도를 고속철도로 업그레이드합니다."
+
+msgid "Upgrade tracks with catenary."
+msgstr "전차선으로 철도를 업그레이드합니다."
+
+msgid "Upload"
+msgstr "업로드"
+
+msgid "Upload Complete"
+msgstr "업로드 완료"
+
+msgid "Upload was successful."
+msgstr "업로드에 성공했습니다."
+
+msgid "Uploaded"
+msgstr "업로드 완료"
+
+msgid "Uploading mods"
+msgstr "모드 업로드 중"
+
+msgid "Uploading..."
+msgstr "업로드 중…"
+
+msgid "Upper {townName}"
+msgstr "상부 {townName}"
+
+msgid "Use <Alt> + <Enter> to toggle between full-screen and windowed mode."
+msgstr "<Alt> + <Enter> 입력으로 전체화면과 창 모드를 전환할 수 있습니다."
+
+msgid "Use default connections"
+msgstr "기본 연결망 사용"
+
+msgid "Use hardware mouse cursor"
+msgstr "하드웨어 마우스 커서 사용"
+
+msgid "Use the <<{horn}>> button to sound the horn"
+msgstr "<<{horn}>> 버튼으로 경적을 울릴 수 있습니다."
+
+msgid ""
+"Use the <<{next}>> and <<{prev}>> buttons to change the position of the "
+"cockpit camera"
+msgstr ""
+"<<{next}>> 및 <<{prev}>> 버튼으로 조종석 카메라의 위치를 변경할 수 있습니다."
+
+msgid "Use the paint tool to change the terrain in free game."
+msgstr "자유 게임에서 페인트 도구를 사용해 지형을 변경하세요."
+
+msgid "Use the terrain tool to change the terrain in free game."
+msgstr "자유 게임에서 지형 도구를 사용해 지형을 변경하세요."
+
+msgid "User interface mode"
+msgstr "사용자 인터페이스 모드"
+
+msgid "User profile creation failed"
+msgstr "사용자 프로필 생성 실패"
+
+msgid "VSync"
+msgstr "수직동기화"
+
+msgid "Vacant"
+msgstr "공실"
+
+msgid "Validation Error"
+msgstr "인증 오류"
+
+msgid "Value"
+msgstr "가치"
+
+msgid "Vehicle"
+msgstr "차량"
+
+msgid "Vehicle condition"
+msgstr "차량 상태"
+
+msgid "Vehicle condition {percentage}%"
+msgstr "차량 상태 {percentage}%"
+
+msgid "Vehicle in depot"
+msgstr "차고 내 차량"
+
+msgid "Vehicle in the way"
+msgstr "경로에 차량이 있습니다."
+
+msgid "Vehicle lifetime"
+msgstr "차량 수명"
+
+msgid "Vehicle lifetime check interval (minutes)"
+msgstr "차량 수명 확인 주기 (분)"
+
+msgid "Vehicle manager"
+msgstr "차량 관리자"
+
+msgid "Vehicle statistics"
+msgstr "차량 통계"
+
+msgid "Vehicle store"
+msgstr "차량 상점"
+
+msgid "Vehicle to replace"
+msgstr "교체할 차량"
+
+msgid "Vehicle will be sold on arrival"
+msgstr "도착 시 차량 매각 예정"
+
+msgid "Vehicles"
+msgstr "차량"
+
+msgid "Vehicles in depot"
+msgstr "차고 내 차량"
+
+msgid "Vehicles never expire"
+msgstr "차량 내구연한 무제한"
+
+msgid "Vehicles never expire:"
+msgstr "차량 내구연한 무제한:"
+
+msgid "Vehicles on line"
+msgstr "노선 내 차량"
+
+msgid "Vehicles report following problems:"
+msgstr "차량에서 다음 문제가 발생했습니다."
+
+msgid "Vehicles to replace"
+msgstr "교체할 차량"
+
+msgid "Vehicles:"
+msgstr "차량:"
+
+msgid "Very bad"
+msgstr "매우 나쁨"
+
+msgid "Very good"
+msgstr "매우 양호"
+
+msgid "Very high"
+msgstr "매우 높음"
+
+msgid "Very poor"
+msgstr "매우 저조"
+
+msgid "Video"
+msgstr "비디오"
+
+msgid "View"
+msgstr "보기"
+
+msgid "View Statistics"
+msgstr "통계 보기"
+
+msgid "Voice-over"
+msgstr "보이스오버"
+
+msgid "Voice-over {num}"
+msgstr "보이스오버 {num}"
+
+msgid "Volume settings"
+msgstr "볼륨 설정"
+
+msgid "Vulkan"
+msgstr "Vulkan"
+
+msgid "Wagons"
+msgstr "궤도차"
+
+msgid "Wait"
+msgstr "기다리기"
+
+msgid "Waiting for free path"
+msgstr "여유 경로 생성을 기다리는 중"
+
+msgid ""
+"Warning: Disabling will remove mod content and replace it with default "
+"assets."
+msgstr "경고: 비활성화 시 모드 콘텐츠가 제거되고 기본 에셋으로 교체됩니다."
+
+msgid "Warning: adding this mod may lead to unexpected results."
+msgstr "경고: 본 모드 추가 시 예상치 못한 결과가 발생할 수 있습니다."
+
+msgid "Warning: adding this mod will likely cause the game to crash."
+msgstr "경고: 본 모드 추가 시 크래시 현상이 발생할 수 있습니다."
+
+msgid ""
+"Warning: video RAM usage critical ({percentage}). The game may close "
+"unexpectedly. It is highly recommended to reduce the texture settings."
+msgstr ""
+"경고: 비디오 RAM 사용량이 한계({percentage})에 도달했습니다. 게임이 예상치 못"
+"하게 종료될 수 있습니다. 텍스처 설정을 낮추는 것을 권장합니다."
+
+msgid "Warnings"
+msgstr "경고"
+
+msgid "Water"
+msgstr "수운"
+
+msgid "Water level:"
+msgstr "수위:"
+
+msgid "Waypoint #{number}"
+msgstr "웨이포인트 #{number}"
+
+msgid "Waypoint outside of navigable waters"
+msgstr "가항 수역 외부 웨이포인트"
+
+msgid "Waypoints"
+msgstr "웨이포인트"
+
+msgid "Weight"
+msgstr "무게"
+
+msgid "Weight %1% + %2% (Cargo)"
+msgstr "무게 %1% + %2% (화물)"
+
+msgid "Weight units"
+msgstr "무게 단위"
+
+msgid "What is mod.io"
+msgstr "mod.io란 무엇인가요?"
+
+msgid "Win"
+msgstr "Win"
+
+msgid "Window settings"
+msgstr "창 설정"
+
+msgid "Windowed"
+msgstr "창 모드"
+
+msgid "With lines"
+msgstr "노선 사용"
+
+msgid "Work"
+msgstr "작업"
+
+msgid "Workplaces"
+msgstr "직장"
+
+msgid "Write STL"
+msgstr "STL 작성"
+
+msgid "Write additional STL file with heightmap data"
+msgstr "하이트맵 데이터가 포함된 추가 STL 파일 작성"
+
+msgid "Wrong carrier"
+msgstr "잘못된 수송자"
+
+msgid "Year"
+msgstr "년"
+
+msgid "Year built"
+msgstr "제작 연도"
+
+msgid "Yes"
+msgstr "예"
+
+msgid "Yesterday, {time}"
+msgstr "어제. {time}"
+
+msgid "You did it!"
+msgstr "훌륭합니다!"
+
+msgid "You have finished the {campaignName} campaign!"
+msgstr "{campaignName} 캠페인을 완료했습니다!"
+
+msgid "You have finished {campaignName}"
+msgstr "{campaignName} 캠페인을 완료했습니다."
+
+msgid "You may retry the installation attempt or unsubscribe from the mod."
+msgstr "다시 설치를 시도하거나 모드 구독을 취소해 보세요."
+
+msgid "Zoom in to build"
+msgstr "건설하려면 확대하세요."
+
+msgid "Zoom out from cursor"
+msgstr "커서에서 축소"
+
+msgid "Zoom sensitivity (game camera)"
+msgstr "확대/축소 감도 (게임 카메라)"
+
+msgid "Zoom to cursor"
+msgstr "커서로 확대"
+
+msgid "[UserData]/"
+msgstr "[UserData]/"
+
+msgid "[not found] "
+msgstr "[발견되지 않음] "
+
+msgid "[{key}] is already used by:"
+msgstr "[{key}] 키는 이미 지정되어 있습니다. 현재 지정된 작업:"
+
+msgid "[{key}] is used by a predefined function and can not be assigned."
+msgstr "[{key}] 키는 사전 설정된 기능에 사용됩니다. 지정이 불가능합니다."
+
+msgid "around {mission_year}"
+msgstr "약 {mission_year}년"
+
+msgid "can not reach next"
+msgstr "다음 도달 불가"
+
+msgctxt "destination"
+msgid "None"
+msgstr "없음"
+
+msgctxt "difficulty"
+msgid "Easy"
+msgstr "쉬움"
+
+msgctxt "difficulty"
+msgid "Hard"
+msgstr "어려움"
+
+msgctxt "difficulty"
+msgid "Medium"
+msgstr "보통"
+
+msgctxt "difficulty"
+msgid "Very hard"
+msgstr "매우 어려움"
+
+msgctxt "distance-unit"
+msgid "Feet"
+msgstr "Feet"
+
+msgctxt "distance-unit"
+msgid "Mile"
+msgstr "Mile"
+
+msgctxt "distance-unit"
+msgid "Yard"
+msgstr "Yard"
+
+msgctxt "distance-unit"
+msgid "km"
+msgstr "km"
+
+msgctxt "distance-unit"
+msgid "m"
+msgstr "m"
+
+msgctxt "force-unit"
+msgid "kN"
+msgstr "kN"
+
+msgctxt "force-unit"
+msgid "kgf"
+msgstr "kgf"
+
+msgctxt "force-unit"
+msgid "lbf"
+msgstr "lbf"
+
+msgid "from %1%"
+msgstr "출발: %1%"
+
+msgctxt "game-speed"
+msgid "1/{factor}x"
+msgstr "1/{factor}x"
+
+msgctxt "game-speed"
+msgid "{factor}x"
+msgstr "{factor}x"
+
+msgctxt "gameSpeed"
+msgid "1x"
+msgstr "1x"
+
+msgctxt "gameSpeed"
+msgid "2x"
+msgstr "2x"
+
+msgctxt "gameSpeed"
+msgid "4x"
+msgstr "4x"
+
+msgctxt "graphic-settings"
+msgid "Performance"
+msgstr "성능"
+
+msgctxt "graphic-settings"
+msgid "Quality"
+msgstr "품질"
+
+msgctxt "main station name"
+msgid "{townName}"
+msgstr "{townName}"
+
+msgctxt "map-size"
+msgid "Huge"
+msgstr "초대형"
+
+msgctxt "map-size"
+msgid "Large"
+msgstr "대형"
+
+msgctxt "map-size"
+msgid "Medium"
+msgstr "보통"
+
+msgctxt "map-size"
+msgid "Megalomaniac"
+msgstr "상상 초월"
+
+msgctxt "map-size"
+msgid "Small"
+msgstr "소형"
+
+msgctxt "map-size"
+msgid "Tiny"
+msgstr "초소형"
+
+msgctxt "map-size"
+msgid "Very Large"
+msgstr "특대형"
+
+msgid "max. wait time"
+msgstr "최대 대기 시간"
+
+msgid "min. wait time"
+msgstr "최소 대기 시간"
+
+msgctxt "mod-state"
+msgid "Built-in mods"
+msgstr "탑재 모드"
+
+msgctxt "mod-state"
+msgid "DLC"
+msgstr "DLC"
+
+msgctxt "mod-state"
+msgid "Shared via {}"
+msgstr "공유 경로: {}"
+
+msgctxt "mod-state"
+msgid "Staging area"
+msgstr "준비 구역"
+
+msgctxt "mod-state"
+msgid "Uploaded to Steam Workshop"
+msgstr "Steam Workshop에 업로드했습니다."
+
+msgctxt "mod-state"
+msgid "User mods"
+msgstr "사용자 모드"
+
+msgctxt "mod-tags"
+msgid "Airport"
+msgstr "공항"
+
+msgctxt "mod-tags"
+msgid "Animal"
+msgstr "동물"
+
+msgctxt "mod-tags"
+msgid "Asia"
+msgstr "아시아"
+
+msgctxt "mod-tags"
+msgid "Asset"
+msgstr "애셋"
+
+msgctxt "mod-tags"
+msgid "Bridge"
+msgstr "다리"
+
+msgctxt "mod-tags"
+msgid "Brush Asset"
+msgstr "브러시 애셋"
+
+msgctxt "mod-tags"
+msgid "Building"
+msgstr "건물"
+
+msgctxt "mod-tags"
+msgid "Bus"
+msgstr "버스"
+
+msgctxt "mod-tags"
+msgid "Bus Station"
+msgstr "버스 정거장"
+
+msgctxt "mod-tags"
+msgid "Campaign"
+msgstr "캠페인"
+
+msgctxt "mod-tags"
+msgid "Car"
+msgstr "자동차"
+
+msgctxt "mod-tags"
+msgid "Cargo Harbor"
+msgstr "화물 항만"
+
+msgctxt "mod-tags"
+msgid "Cargo Station"
+msgstr "화물 정거장"
+
+msgctxt "mod-tags"
+msgid "Depot"
+msgstr "차고"
+
+msgctxt "mod-tags"
+msgid "Dry"
+msgstr "건조"
+
+msgctxt "mod-tags"
+msgid "Europe"
+msgstr "유럽"
+
+msgctxt "mod-tags"
+msgid "Industry"
+msgstr "산업"
+
+msgctxt "mod-tags"
+msgid "Localization"
+msgstr "현지화"
+
+msgctxt "mod-tags"
+msgid "Locomotive"
+msgstr "기관차"
+
+msgctxt "mod-tags"
+msgid "Map"
+msgstr "지도"
+
+msgctxt "mod-tags"
+msgid "Map/Savegame"
+msgstr "지도/게임 저장 파일"
+
+msgctxt "mod-tags"
+msgid "Misc"
+msgstr "기타"
+
+msgctxt "mod-tags"
+msgid "Mission"
+msgstr "임무"
+
+msgctxt "mod-tags"
+msgid "Multiple Unit"
+msgstr "동력분산식 열차"
+
+msgctxt "mod-tags"
+msgid "Passenger Harbor"
+msgstr "승객 항만"
+
+msgctxt "mod-tags"
+msgid "Person"
+msgstr "사람"
+
+msgctxt "mod-tags"
+msgid "Plane"
+msgstr "비행기"
+
+msgctxt "mod-tags"
+msgid "Railroad Crossing"
+msgstr "철도 건널목"
+
+msgctxt "mod-tags"
+msgid "Road Depot"
+msgstr "도로 차고"
+
+msgctxt "mod-tags"
+msgid "Savegame"
+msgstr "게임 저장 파일"
+
+msgctxt "mod-tags"
+msgid "Scenario"
+msgstr "시나리오"
+
+msgctxt "mod-tags"
+msgid "Script Mod"
+msgstr "스크립트 모드"
+
+msgctxt "mod-tags"
+msgid "Shader"
+msgstr "셰이더"
+
+msgctxt "mod-tags"
+msgid "Ship"
+msgstr "선박"
+
+msgctxt "mod-tags"
+msgid "Shipyard"
+msgstr "조선소"
+
+msgctxt "mod-tags"
+msgid "Signal"
+msgstr "신호기"
+
+msgctxt "mod-tags"
+msgid "Sound"
+msgstr "음향"
+
+msgctxt "mod-tags"
+msgid "Station"
+msgstr "정거장"
+
+msgctxt "mod-tags"
+msgid "Street"
+msgstr "거리"
+
+msgctxt "mod-tags"
+msgid "Street Construction"
+msgstr "거리 건설"
+
+msgctxt "mod-tags"
+msgid "Temperate"
+msgstr "기온"
+
+msgctxt "mod-tags"
+msgid "Town Building"
+msgstr "도시 건물"
+
+msgctxt "mod-tags"
+msgid "Track"
+msgstr "철도"
+
+msgctxt "mod-tags"
+msgid "Track Asset"
+msgstr "철도 애셋"
+
+msgctxt "mod-tags"
+msgid "Track/Street"
+msgstr "철도/거리"
+
+msgctxt "mod-tags"
+msgid "Train Depot"
+msgstr "기차 차고"
+
+msgctxt "mod-tags"
+msgid "Train Station"
+msgstr "기차 정거장"
+
+msgctxt "mod-tags"
+msgid "Tram"
+msgstr "노면전차"
+
+msgctxt "mod-tags"
+msgid "Tram Depot"
+msgstr "노면전차 차고"
+
+msgctxt "mod-tags"
+msgid "Tram Station"
+msgstr "노면전차 정거장"
+
+msgctxt "mod-tags"
+msgid "Tropical"
+msgstr "열대"
+
+msgctxt "mod-tags"
+msgid "Truck"
+msgstr "트럭"
+
+msgctxt "mod-tags"
+msgid "Truck Station"
+msgstr "트럭 정거장"
+
+msgctxt "mod-tags"
+msgid "Tunnel"
+msgstr "터널"
+
+msgctxt "mod-tags"
+msgid "USA"
+msgstr "미국"
+
+msgctxt "mod-tags"
+msgid "Vehicle"
+msgstr "차량"
+
+msgctxt "mod-tags"
+msgid "Wagon"
+msgstr "궤도차"
+
+msgid "mod.io"
+msgstr "mod.io"
+
+msgid "mod.io Terms Of Use"
+msgstr "mod.io 이용 약관"
+
+msgid "none"
+msgstr "없음"
+
+msgid "not combinable"
+msgstr "결합 불가"
+
+msgid "not reachable from previous"
+msgstr "이전 지점에서 도달 불가"
+
+msgctxt "number-format"
+msgid "Full"
+msgstr "전체"
+
+msgctxt "number-format"
+msgid "Short"
+msgstr "축약"
+
+msgctxt "platform"
+msgid "Use your Console-Account"
+msgstr "콘솔 계정 사용"
+
+msgctxt "platform"
+msgid "Use your Epic Games-Account"
+msgstr "Epic Games 계정 사용"
+
+msgctxt "platform"
+msgid "Use your Steam-Account"
+msgstr "Steam 계정 사용"
+
+msgctxt "platform"
+msgid "use your GOG-Account"
+msgstr "GOG 계정 사용"
+
+msgctxt "platform-pc"
+msgid "Achievement earned"
+msgstr "도전 과제 달성"
+
+msgctxt "platform-pc"
+msgid "Achievements"
+msgstr "도전 과제"
+
+msgctxt "platform-pc"
+msgid "Achievements can't be earned if the following settings are used:"
+msgstr "다음 설정에서는 도전 과제가 비활성화됩니다."
+
+msgctxt "platform-pc"
+msgid ""
+"Achievements cannot be earned in this game because mods are or have been "
+"active."
+msgstr "도전 과제가 비활성화되었습니다!"
+
+msgctxt "platform-pc"
+msgid "Controller"
+msgstr "컨트롤러"
+
+msgctxt "platform-pc"
+msgid "Controller connected"
+msgstr "컨트롤러 연결"
+
+msgctxt "platform-pc"
+msgid "Controller disconnected"
+msgstr "컨트롤러 분리하기"
+
+msgctxt "platform-pc"
+msgid "Controller settings"
+msgstr "컨트롤러 설정"
+
+msgctxt "platform-pc"
+msgid ""
+"Mods are active or advanced settings are modified. Achievements cannot be "
+"earned!"
+msgstr "도전 과제가 비활성화되었습니다!"
+
+msgctxt "platform-pc"
+msgid "See Deluxe Edition info"
+msgstr "Deluxe Edition 정보 보기"
+
+msgctxt "platform-pc"
+msgid "See your achievements"
+msgstr "도전 과제 열람"
+
+msgctxt "platform-pc"
+msgid "Swap sticks (game camera)"
+msgstr "스틱 바꾸기 (게임 카메라)"
+
+msgctxt "platform-pc"
+msgid "Swap sticks (menu navigation)"
+msgstr "스틱 바꾸기 (메뉴 이동)"
+
+msgctxt "platform-playstation"
+msgid ""
+"Cheats are active or advanced settings are modified. Trophies cannot be "
+"earned!"
+msgstr "트로피가 비활성화되었습니다!"
+
+msgctxt "platform-playstation"
+msgid "Controller"
+msgstr "컨트롤러"
+
+msgctxt "platform-playstation"
+msgid "Controller connected"
+msgstr "컨트롤러 연결"
+
+msgctxt "platform-playstation"
+msgid "Controller disconnected"
+msgstr "컨트롤러 분리하기"
+
+msgctxt "platform-playstation"
+msgid "Controller settings"
+msgstr "무선 컨트롤러"
+
+msgctxt "platform-playstation"
+msgid "Swap sticks (game camera)"
+msgstr "스틱 바꾸기 (게임 카메라)"
+
+msgctxt "platform-playstation"
+msgid "Swap sticks (menu navigation)"
+msgstr "스틱 바꾸기 (메뉴 이동)"
+
+msgctxt "platform-playstation"
+msgid "Trophies can't be earned if the following settings are used:"
+msgstr "다음 설정에서는 트로피가 비활성화됩니다."
+
+msgctxt "platform-playstation"
+msgid ""
+"Trophies cannot be earned in this game because cheats are or have been "
+"active."
+msgstr "트로피가 비활성화되었습니다!"
+
+msgctxt "platform-xbox"
+msgid "Achievements can't be earned if the following settings are used:"
+msgstr "다음 설정에서는 도전 과제가 비활성화됩니다."
+
+msgctxt "platform-xbox"
+msgid ""
+"Achievements cannot be earned in this game because cheats are or have been "
+"active."
+msgstr "도전 과제가 비활성화되었습니다!"
+
+msgctxt "platform-xbox"
+msgid ""
+"Cheats are active or advanced settings are modified. Achievements cannot be "
+"earned!"
+msgstr "도전 과제가 비활성화되었습니다!"
+
+msgctxt "platform-xbox"
+msgid "Controller"
+msgstr "컨트롤러"
+
+msgctxt "platform-xbox"
+msgid "Controller connected"
+msgstr "컨트롤러 연결"
+
+msgctxt "platform-xbox"
+msgid "Controller disconnected"
+msgstr "컨트롤러 분리하기"
+
+msgctxt "platform-xbox"
+msgid "Controller settings"
+msgstr "컨트롤러 설정"
+
+msgctxt "platform-xbox"
+msgid "Swap sticks (game camera)"
+msgstr "스틱 바꾸기 (게임 카메라)"
+
+msgctxt "platform-xbox"
+msgid "Swap sticks (menu navigation)"
+msgstr "스틱 바꾸기 (메뉴 이동)"
+
+msgctxt "plural"
+msgid "Aircraft"
+msgstr "항공기"
+
+msgctxt "power-unit"
+msgid "hp"
+msgstr "hp"
+
+msgctxt "power-unit"
+msgid "kW"
+msgstr "kW"
+
+msgctxt "settings"
+msgid "Basics"
+msgstr "기본"
+
+msgctxt "settings"
+msgid "Localization"
+msgstr "현지화"
+
+msgctxt "slope"
+msgid "Flat"
+msgstr "평평함"
+
+msgctxt "slope"
+msgid "High"
+msgstr "높음"
+
+msgctxt "slope"
+msgid "Medium"
+msgstr "보통"
+
+msgctxt "speed-unit"
+msgid "km/h"
+msgstr "km/h"
+
+msgctxt "speed-unit"
+msgid "mph"
+msgstr "mph"
+
+msgctxt "stats"
+msgid "Bulldozer"
+msgstr "불도저"
+
+msgctxt "stats"
+msgid "Depots"
+msgstr "차고"
+
+msgctxt "stats"
+msgid "Other"
+msgstr "기타"
+
+msgctxt "stats"
+msgid "Roads"
+msgstr "도로"
+
+msgctxt "stats"
+msgid "Signals"
+msgstr "신호기"
+
+msgctxt "stats"
+msgid "Stations"
+msgstr "정거장"
+
+msgctxt "stats"
+msgid "Tracks"
+msgstr "철도"
+
+msgctxt "stop-name"
+msgid "{streetName}"
+msgstr "{streetName}"
+
+msgid "to %1%"
+msgstr "도착: %1%"
+
+msgctxt "town-size"
+msgid "Huge"
+msgstr "초대형"
+
+msgctxt "town-size"
+msgid "Large"
+msgstr "대형"
+
+msgctxt "town-size"
+msgid "Medium"
+msgstr "보통"
+
+msgctxt "town-size"
+msgid "Small"
+msgstr "소형"
+
+msgctxt "town-size"
+msgid "Tiny"
+msgstr "초소형"
+
+msgctxt "unemployed-persons"
+msgid "none"
+msgstr "없음"
+
+msgid "unknown error"
+msgstr "알 수 없는 오류"
+
+msgid "unlimited"
+msgstr "무제한"
+
+msgctxt "vacant-jobs"
+msgid "none"
+msgstr "없음"
+
+msgctxt "value"
+msgid "High"
+msgstr "높음"
+
+msgctxt "value"
+msgid "Low"
+msgstr "낮음"
+
+msgctxt "value"
+msgid "Medium"
+msgstr "보통"
+
+msgctxt "value"
+msgid "Very high"
+msgstr "매우 높음"
+
+msgctxt "value"
+msgid "Very low"
+msgstr "매우 낮음"
+
+msgctxt "vehicle-size"
+msgid "Large"
+msgstr "대형"
+
+msgctxt "vehicle-size"
+msgid "Small"
+msgstr "소형"
+
+msgid "via"
+msgstr "경유"
+
+msgctxt "weight-unit"
+msgid "kg"
+msgstr "kg"
+
+msgctxt "weight-unit"
+msgid "lb"
+msgstr "lb"
+
+msgctxt "weight-unit"
+msgid "t/short ton"
+msgstr "t/ton"
+
+msgctxt "weight-unit"
+msgid "t/tonne"
+msgstr "t/tonne"
+
+msgid "{angle} deg field of view"
+msgstr "시야각 {angle}도"
+
+msgid "{angle}°"
+msgstr "{angle}°"
+
+msgid "{bytes} B"
+msgstr "{bytes} 바이트"
+
+msgid "{cargoType}: {loadSpeed}x"
+msgstr "{cargoType}: {loadSpeed}x"
+
+msgid "{costs} + {percentage}% (Maintenance)"
+msgstr "{costs} + {percentage}% (유지보수)"
+
+msgid "{distance} ft"
+msgstr "{distance}ft"
+
+msgid "{distance} km"
+msgstr "{distance}km"
+
+msgid "{distance} m"
+msgstr "{distance}m"
+
+msgid "{distance} mi"
+msgstr "{distance}mi"
+
+msgid "{distance} yd"
+msgstr "{distance}yd"
+
+msgid "{force} kN"
+msgstr "{force}kN"
+
+msgid "{force} kgf"
+msgstr "{force}kgf"
+
+msgid "{force} lbf"
+msgstr "{force}lbf"
+
+msgid "{framerate} fps"
+msgstr "{framerate}fps"
+
+msgid "{gigaBytes} GB"
+msgstr "{gigaBytes} GB"
+
+msgid "{kiloBytes} KB"
+msgstr "{kiloBytes} KB"
+
+msgid "{length} x {width} km, {towns}, {industries}"
+msgstr "{length} x {width}km, {towns}, {industries}"
+
+msgid "{loadSpeed}x"
+msgstr "{loadSpeed}x"
+
+msgid "{megaBytes} MB"
+msgstr "{megaBytes} MB"
+
+msgid "{minutes} min"
+msgstr "{minutes}분"
+
+msgid "{minutes} min {seconds} s"
+msgstr "{minutes}분 {seconds}초"
+
+msgid "{min} - {max}"
+msgstr "{min} ~ {max}"
+
+msgid "{min} to {max}"
+msgstr "{min} ~ {max}"
+
+msgid "{mission_start_year} - {mission_end_year}"
+msgstr "{mission_start_year} ~ {mission_end_year}"
+
+msgid "{modBackend}: {message}"
+msgstr "{modBackend}: {message}"
+
+msgid "{numVisibleEntries} / {numTotalEntries}"
+msgstr "{numVisibleEntries} / {numTotalEntries}"
+
+msgid "{number} building will be moved"
+msgid_plural "{number} buildings will be moved"
+msgstr[0] "{number}개의 건물이 제거됩니다"
+
+msgid "{number} building will be removed"
+msgid_plural "{number} buildings will be removed"
+msgstr[0] "{number}개의 건물이 제거됩니다"
+
+msgid "{number} field will be removed"
+msgid_plural "{number} fields will be removed"
+msgstr[0] "{number}개의 경작지가 제거됩니다"
+
+msgid "{number} models have been replaced successfully."
+msgstr "{number}개의 모델이 성공적으로 대체되었습니다."
+
+msgid "{number} module will be removed"
+msgid_plural "{number} modules will be removed"
+msgstr[0] "{number}개의 모듈이 제거됩니다"
+
+msgid "{number} referenced bridge types not found."
+msgstr "{number}개의 대상 다리 유형을 찾지 못했습니다."
+
+msgid "{number} referenced ground textures not found."
+msgstr "{number}개의 대상 지상 텍스처를 찾지 못했습니다."
+
+msgid "{number} referenced materials not found."
+msgstr "{number}개의 대상 재료를 찾지 못했습니다."
+
+msgid "{number} referenced street types not found."
+msgstr "{number}개의 대상 거리 유형을 찾지 못했습니다."
+
+msgid "{number} referenced track types not found."
+msgstr "{number}개의 대상 철도 유형을 찾지 못했습니다."
+
+msgid "{number} referenced tunnel types not found."
+msgstr "{number}개의 대상 터널 유형을 찾지 못했습니다."
+
+msgid "{num} mission"
+msgid_plural "{num} missions"
+msgstr[0] "임무 {num}개"
+
+msgid "{occupiedSlots} of {maxSlots}"
+msgstr "{maxSlots} 중 {occupiedSlots}"
+
+msgid "{part}/{total}"
+msgstr "{part}/{total}"
+
+msgid "{percentage}% of lifetime ({years} remaining)"
+msgstr "수명 중 {percentage}% ({years} 남음)"
+
+msgid "{percentage}% of {total}"
+msgstr "{total} 중 {percentage}%"
+
+msgid "{percentage}% positive"
+msgstr "{percentage}% 긍정적"
+
+msgid ""
+"{percent} overlength: travel time is {seconds1} s, {seconds2} s allowed!"
+msgstr "{percent} 지연: 이동 시간 {seconds1}초 / 허용 시간 {seconds2}초"
+
+msgid "{power} hp"
+msgstr "{power}hp"
+
+msgid "{power} kW"
+msgstr "{power}kW"
+
+msgid "{prefix}{rating}%"
+msgstr "{prefix}{rating}%"
+
+msgid "{seconds} s"
+msgstr "{seconds}초"
+
+msgid "{speed} km/h"
+msgstr "{speed}km/h"
+
+msgid "{speed} mph"
+msgstr "{speed}mph"
+
+msgid "{steepness}: not enough power!"
+msgstr "{steepness}: 동력 부족!"
+
+msgid "{supply}/{demand}"
+msgstr "{supply}/{demand}"
+
+msgid "{supply}/{demand} {iconToolTip}"
+msgstr "{supply}/{demand} {iconToolTip}"
+
+msgid "{townName} Airport"
+msgstr "{townName} 공항"
+
+msgid "{townName} Annex"
+msgstr "{townName} 부속"
+
+msgid "{townName} Branch"
+msgstr "{townName} 지선"
+
+msgid "{townName} Cargo"
+msgstr "{townName} 화물"
+
+msgid "{townName} Cargo Airport"
+msgstr "{townName} 화물 공항"
+
+msgid "{townName} Cargo Port"
+msgstr "{townName} 화물 항구"
+
+msgid "{townName} Central"
+msgstr "{townName} 중앙"
+
+msgid "{townName} East"
+msgstr "{townName} 동부"
+
+msgid "{townName} Exchange"
+msgstr "{townName} 교차로"
+
+msgid "{townName} Halt"
+msgstr "{townName} 간이역"
+
+msgid "{townName} North"
+msgstr "{townName} 북부"
+
+msgid "{townName} Port"
+msgstr "{townName} 항구"
+
+msgid "{townName} Sidings"
+msgstr "{townName} 측선"
+
+msgid "{townName} Signal #{number}"
+msgstr "{townName} 신호기 #{number}"
+
+msgid "{townName} South"
+msgstr "{townName} 남부"
+
+msgid "{townName} Transfer"
+msgstr "{townName} 환승로"
+
+msgid "{townName} Waypoint #{number}"
+msgstr "{townName} 웨이포인트 #{number}"
+
+msgid "{townName} West"
+msgstr "{townName} 서부"
+
+msgid "{townName} {depotName}"
+msgstr "{townName} {depotName}"
+
+msgid "{townName} {depotName} #{number}"
+msgstr "{townName} {depotName} #{number}"
+
+msgid "{townName} {industryName}"
+msgstr "{townName} {industryName}"
+
+msgid "{townName} {industryName} #{number}"
+msgstr "{townName} {industryName} #{number}"
+
+msgid "{townName} {stationName} #{number}"
+msgstr "{townName} {stationName} #{number}"
+
+msgid "{used}/{total}"
+msgstr "{used}/{total}"
+
+msgid "{username} Transport"
+msgstr "{username} 수송"
+
+msgid "{weight} kg"
+msgstr "{weight}kg"
+
+msgid "{weight} lb"
+msgstr "{weight}lb"
+
+msgid "{weight} t"
+msgstr "{weight}t"
+
+msgid "{width} x {height}"
+msgstr "{width} x {height}"
+
+msgid "{} (Error code: {code})"
+msgstr "{} (오류 코드: {code})"
+
+msgid "{}: Off"
+msgstr "{}: 끄기"
+
+msgid "{}: On"
+msgstr "{}: 켜기"

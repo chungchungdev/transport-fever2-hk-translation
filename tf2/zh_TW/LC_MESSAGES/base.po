@@ -1,0 +1,6285 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TransportFever\n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: 2024-12-05 17:15+0100\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.5\n"
+
+msgid "  - activate your dedicated graphics card (if available)"
+msgstr "  - 啟動獨立顯示卡 (若有安裝)"
+
+msgid "  - install the latest graphics drivers"
+msgstr "  - 安裝最新的顯示卡驅動程式"
+
+msgid " (terminal %1%)"
+msgstr " (總站 %1%)"
+
+msgid " + "
+msgstr " + "
+
+msgid " or "
+msgstr " 或 "
+
+msgid "%1% - %2%"
+msgstr "%1% - %2%"
+
+msgid "%1% Destinations"
+msgstr "%1% 目的地"
+
+msgid "%1% Vehicle"
+msgid_plural "%1% Vehicles"
+msgstr[0] "%1% 載具"
+msgstr[1] "%1% 載具"
+
+msgid "%1% Vehicle selected"
+msgid_plural "%1% Vehicles selected"
+msgstr[0] "已選擇 %1% 載具"
+msgstr[1] "已選擇 %1% 載具"
+
+msgid "%1% capacity"
+msgstr "%1% 容量"
+
+msgid "%1% day"
+msgid_plural "%1% days"
+msgstr[0] "%1% 天"
+msgstr[1] "%1% 天"
+
+msgid "%1% industry"
+msgid_plural "%1% industries"
+msgstr[0] "%1% 產業"
+msgstr[1] "%1% 產業"
+
+msgid "%1% is on its way to heaven."
+msgstr "%1% 升天了。"
+
+msgid "%1% mod available"
+msgid_plural "%1% mods available"
+msgstr[0] "%1% 模組可用"
+msgstr[1] "%1% 模組可用"
+
+msgid "%1% mod enabled"
+msgid_plural "%1% mods enabled"
+msgstr[0] "%1% 模組已啟用"
+msgstr[1] "%1% mods已啟用"
+
+msgid "%1% month"
+msgid_plural "%1% months"
+msgstr[0] "%1% 月"
+msgstr[1] "%1% 月"
+
+msgid "%1% per vehicle"
+msgstr "每一載具 %1%"
+
+msgid "%1% signal will be removed"
+msgid_plural "%1% signals will be removed"
+msgstr[0] "將移除 %1% 號誌"
+msgstr[1] "將移除 %1% 號誌"
+
+msgid "%1% stop will be removed"
+msgid_plural "%1% stops will be removed"
+msgstr[0] "將移除 %1% 停靠站"
+msgstr[1] "將移除 %1% 停靠站"
+
+msgid "%1% town"
+msgid_plural "%1% towns"
+msgstr[0] "%1% 城鎮"
+msgstr[1] "%1% 城鎮"
+
+msgid "%1% variant"
+msgid_plural "%1% variants"
+msgstr[0] "%1% 變體"
+msgstr[1] "%1% 變體"
+
+msgid "%1% year"
+msgid_plural "%1% years"
+msgstr[0] "%1% 年"
+msgstr[1] "%1% 年"
+
+msgid "%1%, %2%"
+msgstr "%1%，%2%"
+
+msgid "%1%/m²"
+msgstr "%1%/平方公尺"
+
+msgid "%1%/year"
+msgstr "%1%/年"
+
+msgid "%1%: %2%"
+msgstr "%1%：%2%"
+
+msgid "%1%: %2% (in %3% or %4%)"
+msgstr "%1%：%2% (在 %3% 內或 %4% 中)"
+
+msgid "%1%m to %2%m"
+msgstr "%1%公尺到%2%公尺"
+
+msgid "%d"
+msgstr "%d"
+
+msgid "%d Year"
+msgid_plural "%d Years"
+msgstr[0] "%d 年"
+msgstr[1] "%d 年"
+
+msgid "%d for having a fast vehicle"
+msgstr "擁有快速載具可獲得 %d"
+
+msgid "%d for having a profit of at least $10M"
+msgstr "獲得大於 $1000 萬利潤可獲得 %d"
+
+msgid "%d for having a very long vehicle"
+msgstr "擁有超長載具可獲得 %d"
+
+msgid "%d for having transported at least 100000 passengers"
+msgstr "載運超過 10萬名旅客可獲得 %d 分"
+
+msgid "%d for having transported at least 100000 units of cargo"
+msgstr "運輸超過 10萬件貨物可獲得 %d 分"
+
+msgid "%d for high-speed rail network"
+msgstr "擁有高速鐵路網可獲得 %d 分"
+
+msgid "%d for rail network bridges"
+msgstr "擁有高速鐵路網橋可獲得 %d 分"
+
+msgid "%d for rail network electrification"
+msgstr "擁有電氣化鐵路網可獲得 %d 分"
+
+msgid "%d for rail network length"
+msgstr "擁有鐵路網長度可獲得 %d 分"
+
+msgid "%d for rail network tunnels"
+msgstr "擁有高速鐵路網隧道可獲得 %d 分"
+
+msgid "%d point(s) for company value"
+msgstr "根據公司價值可獲得 %d 分"
+
+msgid "%d point(s) for having more than 10 trains"
+msgstr "擁有 10 輛以上的列車可獲得 %d 分"
+
+msgid "%d point(s) for having more than 100 road vehicles"
+msgstr "擁有 100 輛以上的道路載具可獲得 %d 分"
+
+msgid "%d point(s) for having more than 20 trams"
+msgstr "擁有 20 台以上的輕軌電車可獲得 %d 分"
+
+msgid "%d point(s) for having more than 5 aircraft"
+msgstr "擁有 5 架以上的飛機可獲得 %d 分"
+
+msgid "%d point(s) for having more than 5 ships"
+msgstr "擁有 5 艘以上的船隻可獲得 %d 分"
+
+msgid "%d point(s) for maximum vehicle age"
+msgstr "擁有最老載具可獲得 %d 分"
+
+msgid "'{otherAction}': [{otherCombo}]"
+msgstr "'{otherAction}': [{otherCombo}]"
+
+msgid "(%1% compartment)"
+msgid_plural "(%1% compartments)"
+msgstr[0] " (%1% 車廂)"
+msgstr[1] " (%1% 車廂)"
+
+msgid "(+ Early Supporter content)"
+msgstr "(+ Early Supporter content)"
+
+msgid "(+ Pre-order content)"
+msgstr "(+ Pre-order content)"
+
+msgid "(No target)"
+msgstr "(無目標)"
+
+msgid "(stopped)"
+msgstr "(已停止)"
+
+msgid "-"
+msgstr "-"
+
+msgid "---"
+msgstr "---"
+
+msgid "."
+msgstr "."
+
+msgid "... insert code"
+msgstr "... 輸入代碼"
+
+msgid "100%"
+msgstr "100%"
+
+msgid "125%"
+msgstr "125%"
+
+msgid "150%"
+msgstr "150%"
+
+msgid "16-bit grayscale"
+msgstr "16 位元灰階"
+
+msgid "175%"
+msgstr "175%"
+
+msgid "1:1"
+msgstr "1:1"
+
+msgid "1:2"
+msgstr "1:2"
+
+msgid "1:3"
+msgstr "1:3"
+
+msgid "1:4"
+msgstr "1:4"
+
+msgid "1:5"
+msgstr "1:5"
+
+msgid "200%"
+msgstr "200%"
+
+msgid "2x"
+msgstr "2x"
+
+msgid "3D"
+msgstr "3D"
+
+msgid "4x"
+msgstr "4x"
+
+msgid "75%"
+msgstr "75%"
+
+msgid "< 0"
+msgstr "< 0"
+
+msgid "<unknown artist>"
+msgstr "<未知的表演者>"
+
+msgid "<unknown title>"
+msgstr "<未知的標題>"
+
+msgid ">5000 years"
+msgstr ">5000年"
+
+msgid ">= 0"
+msgstr ">= 0"
+
+msgid "A game update is required to load this savegame."
+msgstr "需要遊戲更新才能載入此存檔。"
+
+msgid "A grieving day"
+msgstr "哀悼日"
+
+msgid "A new mod will be created on {backend}."
+msgstr "將會在 {backend} 創建一個新模組。"
+
+msgid "A one-way street can't have stops or waypoints on both sides"
+msgstr "單行道的兩側不能同時有車站或路徑點"
+
+msgid ""
+"A path has been found, but one or more sections of the path are not "
+"electrified. The vehicle requires electrification. Use the electrification "
+"tool to modify the sections."
+msgstr ""
+"已找到路徑，但是路徑的一個或多個區域未電氣化。該載具需要電氣化設施。請使用電"
+"氣化工具來修改這些區域。"
+
+msgid ""
+"A path has been found, but one or more sections of the path do not have tram "
+"tracks. The vehicle requires tram tracks. Use the tram track tool to modify "
+"the sections."
+msgstr ""
+"已找到路徑，但是路徑的一個或多個區域沒有輕軌電車軌道。該載具需要輕軌電車軌"
+"道。請使用輕軌電車軌道工具來修改這些區域。"
+
+msgid ""
+"A path has been found, but only small aircraft are allowed on this path. "
+"Consider using small aircraft or large airports."
+msgstr "已找到路徑，但只有小型飛機可以通過。請考慮使用小型飛機或大型機場。"
+
+msgid ""
+"A path has been found, but only small ships are allowed on this path. "
+"Consider using small ships or large docks."
+msgstr "已找到路徑，但只有小型船隻可以通過。請考慮使用小型船隻或大型碼頭。"
+
+msgid "A station appears consecutively twice"
+msgstr "有車站連續出現兩次"
+
+msgid "AGC"
+msgstr "AGC"
+
+msgid ""
+"Abandoned industry! Closes forever and disappears from the map if not "
+"operational within %1%"
+msgstr "產業已棄置！若未在%1%內運作，則永久關閉並從地圖上消失"
+
+msgid "Abandoned industry! Closes in %1%."
+msgstr "產業已棄置！將於%1%後關閉。"
+
+msgid "Abort"
+msgstr "終止"
+
+msgid "Accept"
+msgstr "接受"
+
+msgid "Accept!"
+msgstr "接受！"
+
+msgid "Account"
+msgstr "帳戶"
+
+msgid ""
+"Accumulate a fortune of 1 billion (without debt) in free game with hard mode."
+msgstr "在自由遊戲的困難模式下積累 10 億的財富 (無債務)。"
+
+msgid "Accumulate a fortune of 1 billion (without debt) in free game."
+msgstr "在自由遊戲中積累 10 億的財富 (無債務)。"
+
+msgid "Accumulate a fortune of 1 million (without debt) in free game."
+msgstr "在自由遊戲中積累 1 百萬的財富 (無債務)。"
+
+msgid "Accumulate a fortune of 10 millions (without debt) in free game."
+msgstr "在自由遊戲中積累 1 千萬的財富 (無債務)。"
+
+msgid ""
+"Accumulate a fortune of 100 millions (without debt) in free game with hard "
+"mode."
+msgstr "在自由遊戲的困難模式下積累 1 億的財富 (無債務)。"
+
+msgid "Accumulate a fortune of 100 millions (without debt) in free game."
+msgstr "在自由遊戲中積累 1 億的財富 (無債務)。"
+
+msgid "Actions"
+msgstr "行動"
+
+msgid "Activate/deactivate bulldozer"
+msgstr "啟動/關閉推土機"
+
+msgid "Add"
+msgstr "新增"
+
+msgid "Add New"
+msgstr "新增項目"
+
+msgid "Add a fade"
+msgstr "新增淡入淡出"
+
+msgid "Add a key frame"
+msgstr "新增關鍵影格"
+
+msgid "Add a subtitle"
+msgstr "新增字幕"
+
+msgid "Add mods from preset to the end of the list of activated mods."
+msgstr "從預設中已啟用模組列表中新增模組。"
+
+msgid "Add station"
+msgstr "新增車站"
+
+msgid "Advanced"
+msgstr "進階"
+
+msgid "Advanced Game Settings"
+msgstr "進階遊戲設定"
+
+msgid "Advanced Menu"
+msgstr "進階選單"
+
+msgid "Advanced Settings"
+msgstr "進階設定"
+
+msgid "Advanced settings"
+msgstr "進階設定"
+
+msgid "Age"
+msgstr "使用期限"
+
+msgid "Air"
+msgstr "空氣"
+
+msgid "Aircraft"
+msgid_plural "Aircraft"
+msgstr[0] "飛機"
+msgstr[1] "飛機"
+
+msgid "Aircraft entrepreneur"
+msgstr "飛機企業家"
+
+msgid "Aircraft {number}"
+msgstr "飛機 {number}"
+
+msgid "All"
+msgstr "全部"
+
+msgid "All cargo"
+msgstr "所有貨物"
+
+msgid "All locomotives"
+msgstr "所有火車頭"
+
+msgid "All missions completed!"
+msgstr "所有任務已完成！"
+
+msgid "All multiple units"
+msgstr "所有列車組"
+
+msgid "All unsaved progress will be lost."
+msgstr "所有未儲存的進度將會流失。"
+
+msgid ""
+"All unsaved progress will be lost.\n"
+"Where to go next?"
+msgstr ""
+"所有未儲存的進度將會流失。\n"
+" 接下來要去哪呢？"
+
+msgid "All vehicle types"
+msgstr "所有載具類型"
+
+msgid "All wagons"
+msgstr "所有馬車"
+
+msgid "Alt"
+msgstr "Alt"
+
+msgid "Ambient occlusion (SSAO)"
+msgstr "環境光遮蔽 (SSAO)"
+
+msgid "American vehicles"
+msgstr "美國載具"
+
+msgid ""
+"An integrated graphic chip is active. For best performance, make sure to:"
+msgstr "集成的圖形卡處於活動狀態。為了達到最佳效能，請確保："
+
+msgid "Angle: {angle}°"
+msgstr "角度：{angle}°"
+
+msgid "Anti-aliasing"
+msgstr "反鋸齒"
+
+msgid "Antique"
+msgstr "古董"
+
+msgid "Any cargo type"
+msgstr "任何貨物類型"
+
+msgid "Any conflicting bindings will be removed."
+msgstr "將移除任何相衝突的按鍵。"
+
+msgid "Append"
+msgstr "附加"
+
+msgid "Apply"
+msgstr "套用"
+
+msgid "Apply changes"
+msgstr "套用變更"
+
+msgid "Apply the settings and close"
+msgstr "套用設定並且關閉"
+
+msgid "Approximate annual throughput per station"
+msgstr "每個車站每年大概的流通量"
+
+msgid "Are you sure you want to log out?"
+msgstr "確定要登出嗎？"
+
+msgid "Ascending"
+msgstr "上升"
+
+msgid "Asia"
+msgstr "亞洲"
+
+msgid "Asian vehicles"
+msgstr "亞洲載具"
+
+msgid "Asset locked"
+msgstr "地上物已鎖定"
+
+msgid "Assets"
+msgstr "地上物"
+
+msgid "Assign to %1%"
+msgstr "指派至 %1%"
+
+msgid "At home"
+msgstr "在家"
+
+msgid "At least %1% GB of graphics memory are recommended for these settings."
+msgstr "推薦至少需要 %1% GB 的圖形記憶體才能運行此設定。"
+
+msgid "At work"
+msgstr "在工作"
+
+msgid "Audio"
+msgstr "音訊"
+
+msgid "Audio settings"
+msgstr "音訊設定"
+
+msgid "Author"
+msgstr "作者"
+
+msgid "Authors"
+msgstr "作者"
+
+msgid "Auto set speed"
+msgstr "自動設定速度"
+
+msgid "Automatic"
+msgstr "自動"
+
+msgid ""
+"Automatically send crash dump files (not including personal data) to the "
+"developers"
+msgstr "自動傳送遊戲崩潰轉儲檔案 (不包含個人資料) 給開發者"
+
+msgid "Autosave interval (minutes)"
+msgstr "自動儲存間隔 (分鐘)"
+
+msgid "Autosave..."
+msgstr "自動儲存..."
+
+msgid "Autosaves to keep"
+msgstr "保存的自動儲存存檔數"
+
+msgid "Available heightmaps:"
+msgstr "可用的高度圖："
+
+msgid "Average"
+msgstr "平均"
+
+msgid "Average emission reaching residential buildings: %1%"
+msgstr "到達平均排放量的住宅區建築物: %1%"
+
+msgid ""
+"Average number of shoppings facilities and jobs the residents of {townName} "
+"can reach"
+msgstr "{townName} 的居民可使用的平均購物設施與工作數量"
+
+msgid "BONUS TASKS"
+msgstr "獎勵差事"
+
+msgid "Back"
+msgstr "返回"
+
+msgid "Back to the future"
+msgstr "回到未來"
+
+msgid "Bad"
+msgstr "惡劣"
+
+msgid "Balance"
+msgstr "餘額"
+
+msgid "Balance:"
+msgstr "餘額："
+
+msgid "Bank balance"
+msgstr "銀行帳戶餘額"
+
+msgid "Basic Game Settings"
+msgstr "基本遊戲設定"
+
+msgid "Basic Settings"
+msgstr "基本設定"
+
+msgid "Big aircraft"
+msgstr "大型飛機"
+
+msgid "Big aircraft is incompatible with small airport"
+msgstr "大型飛機無法停放於小型機場"
+
+msgid "Big ship"
+msgstr "大型船隻"
+
+msgid "Big ship is incompatible with small harbour"
+msgstr "大型船隻無法停靠與小型港口"
+
+msgid "Big spender"
+msgstr "大手筆"
+
+msgid "Bit depth must be 1, 8 or 16."
+msgstr "位元深度必須為 1、8 或 16。"
+
+msgid "Bloom"
+msgstr "泛光"
+
+msgid "Bob Ross"
+msgstr "鮑伯·魯斯"
+
+msgid "Bonus task completed"
+msgstr "獎勵差事已完成"
+
+msgid "Bonus tasks"
+msgstr "獎勵差事"
+
+msgid "Borderless"
+msgstr "無邊框"
+
+msgid "Borrow %1%"
+msgstr "借貸 %1%"
+
+msgid "Bridge"
+msgstr "橋樑"
+
+msgid "Bridge pillar collision"
+msgstr "橋柱相互衝突"
+
+msgid "Brush"
+msgstr "筆刷"
+
+msgid "Brush size"
+msgstr "筆刷尺寸"
+
+msgid "Build"
+msgstr "建造"
+
+msgid "Build a bus stop in free game."
+msgstr "在自由遊戲中建造一個公車停靠站。"
+
+msgid "Build a passenger train station in free game."
+msgstr "在自由遊戲中建造一個列車客運站。"
+
+msgid "Build a town"
+msgstr "建造城鎮"
+
+msgid "Build a train line with at least 10 trains in motion in free game."
+msgstr "在自由遊戲中建造一條至少營運 10 輛列車的列車路線。"
+
+msgid "Build date"
+msgstr "建造日期"
+
+msgid "Build high bridges over rivers so that ships can pass under."
+msgstr "在河上建造高聳的橋樑好讓船隻能夠從底下穿過。"
+
+msgid "Build the company headquarters in free game."
+msgstr "在自由遊戲中建造公司總部。"
+
+msgid "Build town not possible"
+msgstr "無法建造城鎮"
+
+msgid "Building town..."
+msgstr "正在建造城鎮..."
+
+msgid "Buildings"
+msgstr "建築物"
+
+msgid "Buildings must be removed first"
+msgstr "必須先移除建築物"
+
+msgid "Bulldozer"
+msgstr "推土機"
+
+msgid "Bus"
+msgstr "公車"
+
+msgid "Bus and tram stops"
+msgstr "公車與輕軌電車停靠站"
+
+msgid "Bus lane"
+msgstr "公車車道"
+
+msgid "Bus lane tool"
+msgstr "公車車道工具"
+
+msgid "Bus/Tram station"
+msgstr "公車/輕軌電車站"
+
+msgid "Bus/truck not compatible"
+msgstr "公車/貨車不適用"
+
+msgid "Buy"
+msgstr "購買"
+
+msgid "Buy a bus and run a line in free game."
+msgstr "在自由遊戲中購買一輛公車並營運一條路線。"
+
+msgid "Buy a ship and run a line in free game."
+msgstr "在自由遊戲中購買一艘船並營運一條路線。"
+
+msgid "Buy a steam train and run a line in free game."
+msgstr "在自由遊戲中購買一輛蒸汽列車並營運一條路線。"
+
+msgid "Buy aircraft"
+msgstr "購買飛機"
+
+msgid "Buy an aircraft and run a line in free game."
+msgstr "在自由遊戲中購買一架飛機並營運一條路線。"
+
+msgid "Buy an electric train and run a line in free game."
+msgstr "在自由遊戲中購買一輛電力列車並營運一條路線。"
+
+msgid "Buy for "
+msgstr "以下列價格購買 "
+
+msgid "Buy road vehicles"
+msgstr "購買道路載具"
+
+msgid "Buy ships"
+msgstr "購買船隻"
+
+msgid "Buy trains"
+msgstr "購買列車"
+
+msgid "Buy trams"
+msgstr "購買輕軌電車"
+
+msgid "Buy vehicles"
+msgstr "購買載具"
+
+msgid "By car"
+msgstr "駕車"
+
+msgid "By foot"
+msgstr "步行"
+
+msgid "By submitting this item, you agree to the workshop terms of service."
+msgstr "在提交此物品的同時，代表您同意了工作坊的服務條款。"
+
+msgid "By submitting this mod, you agree to the mod.io terms of Use."
+msgstr "在提交此模組的同時，代表您同意了 mod.io 使用條款。"
+
+msgid "Cadet"
+msgstr "學員"
+
+msgid "Calendar"
+msgstr "行事曆"
+
+msgid "Camera Manager"
+msgstr "鏡頭管理工具"
+
+msgid "Camera config name"
+msgstr "相機設定名稱"
+
+msgid "Camera focal length"
+msgstr "鏡頭焦距"
+
+msgid "Camera move down"
+msgstr "鏡頭向後移動"
+
+msgid "Camera move left"
+msgstr "鏡頭向左移動"
+
+msgid "Camera move right"
+msgstr "鏡頭向右移動"
+
+msgid "Camera move up"
+msgstr "鏡頭向前移動"
+
+msgid "Camera rotate left"
+msgstr "鏡頭向左旋轉"
+
+msgid "Camera rotate right"
+msgstr "鏡頭向右旋轉"
+
+msgid "Camera tilt down"
+msgstr "鏡頭向下傾斜"
+
+msgid "Camera tilt up"
+msgstr "鏡頭向上傾斜"
+
+msgid "Camera tool"
+msgstr "鏡頭工具"
+
+msgid "Camera tool: Add keyframe"
+msgstr "鏡頭工具：新增關鍵影格"
+
+msgid "Camera tool: Capture"
+msgstr "鏡頭工具：截圖"
+
+msgid "Camera tool: Clear keyframes"
+msgstr "鏡頭工具：清除關鍵影格"
+
+msgid "Camera tool: Load"
+msgstr "鏡頭工具：載入"
+
+msgid "Camera tool: Pause"
+msgstr "鏡頭工具：暫停"
+
+msgid "Camera tool: Play"
+msgstr "鏡頭工具：遊玩"
+
+msgid "Camera tool: Save"
+msgstr "鏡頭工具：儲存"
+
+msgid "Camera tool: Start recording"
+msgstr "鏡頭工具：開始錄影"
+
+msgid "Camera tool: Stop"
+msgstr "鏡頭工具：停止"
+
+msgid "Camera tool: Toggle play/pause"
+msgstr "鏡頭工具：切換遊玩/暫停"
+
+msgid "Camera tool: Toggle play/stop"
+msgstr "鏡頭工具：切換遊玩/停止"
+
+msgid "Camera zoom in"
+msgstr "鏡頭放大"
+
+msgid "Camera zoom out"
+msgstr "鏡頭縮小"
+
+msgid "Campaign"
+msgstr "單人劇情"
+
+msgid "Campaign \"%1%\", mission \"%2%\""
+msgstr "單人劇情「%1%」，任務「%2%」"
+
+msgid "Campaign expert"
+msgstr "單人劇情專家"
+
+msgid "Campaign shark"
+msgstr "單人劇情高手"
+
+msgid "Campaign tycoon"
+msgstr "單人劇情大亨"
+
+msgid "Campaign: Open mission window"
+msgstr "單人劇情：開啟任務視窗"
+
+msgid "Campaigns"
+msgstr "單人劇情"
+
+msgid "Cancel"
+msgstr "取消"
+
+msgid "Cancel and leave store"
+msgstr "取消並離開商店"
+
+msgid "Cancel publishing"
+msgstr "取消發布"
+
+msgid "Cannot bulldoze headquarters, use relocate instead!"
+msgstr "總部無法被推平，請直接更改位置！"
+
+msgid "Cannot get enough"
+msgstr "永遠不嫌多"
+
+msgid "Capacity"
+msgstr "容量"
+
+msgid "Capture image"
+msgstr "擷取圖片"
+
+msgid "Capture images"
+msgstr "擷取圖片"
+
+msgid "Capture latlong"
+msgstr "擷取經緯度"
+
+msgid "Capture videos"
+msgstr "擷取影像"
+
+msgid "Car owner"
+msgstr "車主"
+
+msgid "Cargo"
+msgstr "貨物"
+
+msgid "Cargo filter is set"
+msgstr "貨物篩選器已設置"
+
+msgid "Cargo hub"
+msgstr "貨運中心"
+
+msgid "Cargo items consumed by this building"
+msgstr "此建築物消耗的貨物"
+
+msgid "Cargo items produced by this building"
+msgstr "此建築物生產的貨物"
+
+msgid "Cargo layer"
+msgstr "貨物圖層"
+
+msgid "Cargo needs"
+msgstr "貨物需求"
+
+msgid "Cargo production"
+msgstr "貨物生產"
+
+msgid "Cargo production rating (average of last twelve months)"
+msgstr "貨物生產評分 (過去十二個月的平均值)"
+
+msgid "Cargo station"
+msgstr "貨運站"
+
+msgid "Cargo stop can not used by passenger vehicles"
+msgstr "乘客載具無法使用貨運停靠站"
+
+msgid "Cargo supply of {townName}"
+msgstr "{townName} 的貨物供給"
+
+msgid "Cargo supply rating (average of last twelve months)"
+msgstr "貨物供應評分 (過去十二個月的平均值)"
+
+msgid "Cargo transported (last 12 months)"
+msgstr "運輸貨物數 (過去 12 個月)"
+
+msgid "Cargo transported (total)"
+msgstr "運輸貨物數 (總共)"
+
+msgid "Cargo type"
+msgid_plural "Cargo types"
+msgstr[0] "貨物類型"
+msgstr[1] "貨物類型"
+
+msgid "Cargo types"
+msgstr "貨物類型"
+
+msgid "Cargo wagons"
+msgstr "貨運馬車"
+
+msgid "Catenary"
+msgstr "高架電車線"
+
+msgid "Change"
+msgstr "變更"
+
+msgid "Change Type"
+msgstr "變更類型"
+
+msgid "Change date"
+msgstr "更改日期"
+
+msgid "Change log"
+msgstr "變更記錄"
+
+msgid "Change note:"
+msgstr "更改筆記："
+
+msgid "Change sorting"
+msgstr "變更排序"
+
+msgid "Charles Alton Ellis"
+msgstr "查爾斯·艾頓·埃利斯"
+
+msgid "Charts"
+msgstr "圖表"
+
+msgid "Cheats"
+msgstr "密技"
+
+msgid "Check for available disk space (Code: {code})"
+msgstr "檢查可用的磁碟空間 (代碼：{code})"
+
+msgid "Choose heightmap"
+msgstr "選擇高度圖"
+
+msgid "Choose the game's difficulty"
+msgstr "選擇遊戲難度"
+
+msgid "Choose the game's start year"
+msgstr "選擇遊戲的起始年份"
+
+msgid "City"
+msgstr "城市"
+
+msgid "Classic"
+msgstr "Classic"
+
+msgid "Clear"
+msgstr "清除"
+
+msgid "Clear all key frames?"
+msgstr "要清除所有關鍵影格嗎？"
+
+msgid "Clear key frame list"
+msgstr "清除關鍵影格清單"
+
+msgid "Click on icons to select residents"
+msgstr "點擊圖示來選擇居民"
+
+msgid "Click on stations to add"
+msgstr "點擊車站以新增"
+
+msgid ""
+"Click on the icon to jump to the first point where the path couldn't "
+"continue."
+msgstr "點擊圖示來跳到路徑的第一個中斷點。"
+
+msgid "Click to change date speed"
+msgstr "點擊以改變換日速度"
+
+msgid "Click to choose a logo..."
+msgstr "點擊以選擇商標..."
+
+msgid "Click to modify balance"
+msgstr "點擊以修改餘額"
+
+msgid "Climate"
+msgstr "氣候"
+
+msgid "Climate change"
+msgstr "氣候變遷"
+
+msgid "Climate:"
+msgstr "氣候"
+
+msgid "Clone all vehicles"
+msgstr "複製所有載具"
+
+msgid "Clone all vehicles?"
+msgstr "要複製所有載具嗎？"
+
+msgid "Clone selected vehicle"
+msgid_plural "Clone selected vehicles"
+msgstr[0] "複製選擇的載具"
+msgstr[1] "複製選擇的載具"
+
+msgid "Clone vehicle"
+msgstr "複製載具"
+
+msgid "Cloning can only be performed for {number} vehicles at once"
+msgstr "一次僅可對 {number} 輛載具進行複製"
+
+msgid "Close"
+msgstr "關閉"
+
+msgid "Close all"
+msgstr "全部關閉"
+
+msgid "Close mod detail window"
+msgstr "關閉模組詳細資訊視窗"
+
+msgid "Closed."
+msgstr "已關閉。"
+
+msgid "Closes in %1%."
+msgstr "將於 %1% 後關閉。"
+
+msgid "Cmd"
+msgstr "Cmd"
+
+msgid "Cockpit camera: horn sound"
+msgstr "駕駛座攝影視角：按喇叭"
+
+msgid "Cockpit camera: next position"
+msgstr "駕駛座攝影視角：下一位置"
+
+msgid "Cockpit camera: previous position"
+msgstr "駕駛座攝影視角：上一位置"
+
+msgid "Code has been resent"
+msgstr "代碼已重新發送"
+
+msgid "Code:"
+msgstr "代碼："
+
+msgid "Collapse"
+msgstr "折疊"
+
+msgid "Collision"
+msgstr "衝突"
+
+msgid "Color"
+msgstr "顏色"
+
+msgid "Comment"
+msgstr "評論"
+
+msgid "Commercial"
+msgstr "商業"
+
+msgid "Commercial area"
+msgstr "商業區"
+
+msgid "Commercial building"
+msgstr "商業大樓"
+
+msgid "Commercial supply"
+msgstr "商業供應"
+
+msgid "Company"
+msgstr "公司 "
+
+msgid "Company finances"
+msgstr "公司財務"
+
+msgid "Company score"
+msgstr "公司目標"
+
+msgid "Complete campaign \"%1%\" to unlock"
+msgstr "完成單人劇情「%1%」以解鎖"
+
+msgid "Complete the entire campaign."
+msgstr "完成所有單人劇情。"
+
+msgid "Complete the first and second era of the campaign."
+msgstr "完成單人劇情的第一個與第二個時代。"
+
+msgid "Complete the first era of the campaign."
+msgstr "完成單人劇情的第一個時代。"
+
+msgid "Complete the first mission of the campaign."
+msgstr "完成單人劇情的第一個任務。"
+
+msgid "Condition"
+msgstr "狀況"
+
+msgid "Configure"
+msgstr "配置"
+
+msgid "Configure construction"
+msgstr "配置建築"
+
+msgid "Configure graphics and more"
+msgstr "調整畫質與其他設定"
+
+msgid "Configure maintenance for all vehicles"
+msgstr "為所有載具安排維修"
+
+msgid "Configure maintenance for selected vehicle"
+msgid_plural "Configure maintenance for selected vehicles"
+msgstr[0] "為選擇的載具安排維修"
+msgstr[1] "為選擇的載具安排維修"
+
+msgid "Confirm decommission"
+msgstr "確認除役"
+
+msgid "Confirm delete?"
+msgstr "確定要刪除嗎？"
+
+msgid "Confirm destruction"
+msgstr "確認拆除"
+
+msgid "Confirm destruction?"
+msgstr "確定要拆除嗎？"
+
+msgid "Confirm disposal"
+msgstr "確認丟棄"
+
+msgid "Confirm mass clone"
+msgstr "確認大量複製"
+
+msgid "Confirm rebind"
+msgstr "確定重新綁定"
+
+msgid "Congratulations"
+msgstr "恭喜"
+
+msgid "Console compatible"
+msgstr "相容的主機"
+
+msgid "Console variant found"
+msgstr "已找到主機變體"
+
+msgid "Construction"
+msgstr "建築"
+
+msgid "Construction locked"
+msgstr "建築已鎖定"
+
+msgid "Construction not possible"
+msgstr "無法建造"
+
+msgid "Construction option 1"
+msgstr "建築選項 1"
+
+msgid "Construction option 2"
+msgstr "建築選項 2"
+
+msgid "Construction option 3"
+msgstr "建築選項 3"
+
+msgid "Construction option 4"
+msgstr "建築選項 4"
+
+msgid "Construction option 5"
+msgstr "建築選項 5"
+
+msgid "Construction option 6"
+msgstr "建築選項 6"
+
+msgid "Construction option 7"
+msgstr "建築選項 7"
+
+msgid "Construction option 8"
+msgstr "建築選項 8"
+
+msgid "Construction option precise 1"
+msgstr "建築選項精準 1"
+
+msgid "Construction option precise 2"
+msgstr "建築選項精準 2"
+
+msgid "Construction option precise 3"
+msgstr "建築選項精準 3"
+
+msgid "Construction option precise 4"
+msgstr "建築選項精準 4"
+
+msgid "Construction option precise 5"
+msgstr "建築選項精準 5"
+
+msgid "Construction option precise 6"
+msgstr "建築選項精準 6"
+
+msgid "Construction option precise 7"
+msgstr "建築選項精準 7"
+
+msgid "Construction option precise 8"
+msgstr "建築選項精準 8"
+
+msgid "Consumers"
+msgstr "消費者"
+
+msgid "Consumption"
+msgstr "消耗"
+
+msgid "Contained by following lines as waypoint"
+msgstr "被下列路線納為路徑點"
+
+msgid "Context help"
+msgstr "場景協助工具"
+
+msgid "Continue"
+msgstr "繼續"
+
+msgid "Continue anyway"
+msgstr "仍要繼續"
+
+msgid "Continue playing..."
+msgstr "繼續遊玩..."
+
+msgid "Continue to external website?"
+msgstr "要繼續前往外部網站嗎？"
+
+msgid "Contour lines layer"
+msgstr "地形輪廓線圖層"
+
+msgid "Coord.sys."
+msgstr "座標系統"
+
+msgid "Copy"
+msgstr "複製"
+
+msgid "Cost: "
+msgstr "成本： "
+
+msgid "Costs"
+msgstr "成本"
+
+msgid "Costs: %1%"
+msgstr "成本 %1%"
+
+msgid "Could not connect all alternative terminals"
+msgstr "無法連結所有替代總站"
+
+msgid "Could not connect all stations"
+msgstr "無法連結所有車站"
+
+msgid "Could not refresh"
+msgstr "無法重新整理"
+
+msgid ""
+"Could not save game. Please check free\n"
+"disk space and/or folder permissions."
+msgstr ""
+"無法儲存遊戲。請確認\n"
+"硬碟空間是否足夠以及/或是否開啟了資料夾的存取權限。"
+
+msgid "Create New Game"
+msgstr "創建新遊戲"
+
+msgid "Create New Map"
+msgstr "創建新地圖"
+
+msgid "Create a line with at least two stops in free game."
+msgstr "在自由遊戲中創建一條最少有兩個停靠站的路線。"
+
+msgid "Create a new line"
+msgstr "創建新路線"
+
+msgid "Creating fields..."
+msgstr "正在創建田地..."
+
+msgid "Creating industries..."
+msgstr "正在創建產業..."
+
+msgid "Creating streets..."
+msgstr "正在創建街道..."
+
+msgid "Creating towns..."
+msgstr "正在創建城鎮..."
+
+msgid "Credits"
+msgstr "開發人員名單"
+
+msgid ""
+"Critical: Disabling will remove essential mod content, which causes the save "
+"game to become unstable or unusable."
+msgstr "重大警告：停用後會移除必要模組內容，導致遊戲存檔不穩定或無法使用。"
+
+msgid "Crowd in a train"
+msgstr "擁擠的列車"
+
+msgid "Ctrl"
+msgstr "Ctrl"
+
+msgid "Current"
+msgstr "目前"
+
+msgid "Current consumption rate"
+msgstr "目前的消耗速率"
+
+msgid "Curve: {angle}°"
+msgstr "曲線：{angle}°"
+
+msgid "Curved"
+msgstr "曲線"
+
+msgid "Custom"
+msgstr "自訂"
+
+msgid "Custom Settings"
+msgstr "自訂設定"
+
+msgid "Custom cargo"
+msgstr "自訂貨物"
+
+msgid "Custom colors"
+msgstr "自訂顏色"
+
+msgid "Custom game settings"
+msgstr "自訂遊戲設定"
+
+msgid "Cycle game speed"
+msgstr "遊戲循環速度"
+
+msgid "DMCA"
+msgstr "DMCA"
+
+msgid "DX12"
+msgstr "DX12"
+
+msgid "Data layers"
+msgstr "資料層"
+
+msgid "Date"
+msgstr "日期"
+
+msgid "Date added"
+msgstr "已新增日期"
+
+msgid "Date speed"
+msgstr "換日速度"
+
+msgid "Date updated"
+msgstr "已更新日期"
+
+msgid "Date:"
+msgstr "日期："
+
+msgid "Day"
+msgstr "天"
+
+msgid "Deadzone"
+msgstr "盲區"
+
+msgid "Debt"
+msgstr "債務"
+
+msgid "Debug mode"
+msgstr "除錯模式"
+
+msgid "Default"
+msgstr "預設值"
+
+msgid "Delete"
+msgstr "刪除"
+
+msgid "Delete Savegame?"
+msgstr "要刪除遊戲存檔嗎？"
+
+msgid "Delete Settings (DEBUG)"
+msgstr "刪除設定（除錯模式）"
+
+msgid "Delete camera config "
+msgstr "刪除鏡頭設定 "
+
+msgid "Delete camera config?"
+msgstr "要刪除相機設定嗎？"
+
+msgid "Delete fade"
+msgstr "刪除淡入淡出"
+
+msgid "Delete key frame"
+msgstr "刪除關鍵影格"
+
+msgid "Delete line"
+msgstr "刪除路線"
+
+msgid "Delete mod preset "
+msgstr "刪除模組預設 "
+
+msgid "Delete mod preset?"
+msgstr "要刪除模組預設嗎？"
+
+msgid "Delete subtitle"
+msgstr "刪除字幕"
+
+msgid "Deliver every product to every city that requires it in free game."
+msgstr "在自由遊戲中將每件產品運送到每座所需的城市。"
+
+msgid "Deluxe Edition"
+msgstr "Deluxe Edition"
+
+msgid "Departure configuration"
+msgstr "發車設定"
+
+msgid "Dependencies ({num})"
+msgstr "依賴項 ({num})"
+
+msgid "Depot contains vehicles"
+msgstr "車庫內停有載具"
+
+msgid "Depots"
+msgstr "車庫"
+
+msgid "Descending"
+msgstr "下降"
+
+msgid "Description"
+msgstr "描述"
+
+msgid "Destination"
+msgstr "目的地"
+
+msgid "Destination: {stopName}"
+msgstr "目的地：{stopName}"
+
+msgid "Destination: {stopName} via {viaName}"
+msgstr "目的地：經由 {viaName} 到 {stopName}"
+
+msgid "Destinations"
+msgstr "目的地"
+
+msgid "Destinations layer"
+msgstr "目的地圖層"
+
+msgid "Details"
+msgstr "詳細資訊"
+
+msgid "Diesel"
+msgstr "柴油"
+
+msgid "Diesel Train"
+msgstr "柴油列車"
+
+msgid "Diesel locomotives"
+msgstr "柴油火車頭"
+
+msgid "Diesel multiple units"
+msgstr "柴油列車組"
+
+msgid "Different cargo types transported"
+msgstr "運輸過的不同貨物類型"
+
+msgid "Difficulty"
+msgstr "難度"
+
+msgid "Difficulty:"
+msgstr "難度："
+
+msgid "Directory: {folder}"
+msgstr "目錄：{folder}"
+
+msgid "Disable"
+msgstr "停用"
+
+msgid "Disable all"
+msgstr "全部停用"
+
+msgid "Disable all mods currently visible in the list"
+msgstr "停用目前在清單上可見的所有模組"
+
+msgid "Disable construction snapping"
+msgstr "停用建構貼齊功能"
+
+msgid "Disable mod"
+msgstr "已停用的模組"
+
+msgid "Disabled"
+msgstr "已停用"
+
+msgid "Discard changes"
+msgstr "捨棄變更"
+
+msgid "Disconnected!"
+msgstr "解除連結！"
+
+msgid "Display mode"
+msgstr "顯示模式"
+
+msgid "Distance units"
+msgstr "距離單位"
+
+msgid "Do not show again"
+msgstr "不再顯示"
+
+msgid "Do you wish to proceed?"
+msgstr "確定要繼續嗎？"
+
+msgid "Docks outside of navigable waters"
+msgstr "碼頭位於適航水域之外"
+
+msgid "Don't take any additional loan until the year 2050 in free game."
+msgstr "在自由遊戲中的 2050 年前不要申請任何附加貸款。"
+
+msgid "Double slip switch"
+msgstr "複式轉轍器"
+
+msgid "Down"
+msgstr "下"
+
+msgid "Download pending"
+msgstr "下載待定中"
+
+msgid "Downloading"
+msgstr "正在下載"
+
+msgid "Downloading mods"
+msgstr "正在下載模組"
+
+msgid "Downloads"
+msgstr "下載"
+
+msgid "Drive backwards"
+msgstr "向後駕駛"
+
+msgid "Duration"
+msgstr "持續時間"
+
+msgid "E.P.E.C."
+msgstr "E.P.E.C."
+
+msgid "Earn 1 million with airplanes within a month in free game."
+msgstr "在自由遊戲中的一個月內用飛機賺取 1 百萬。"
+
+msgid "Earn 1 million with ships within a month in free game."
+msgstr "在自由遊戲中的一個月內用船隻賺取 1 百萬。"
+
+msgid "Earn 50 millions not using any train in free game."
+msgstr "在自由遊戲中不用列車賺取 5 千萬。"
+
+msgid "Earn all medals in one of the campaign missions."
+msgstr "在單人劇情得到一個任務中的所有獎牌。"
+
+msgid "Earn all medals of the entire campaign."
+msgstr "得到單人劇情中的所有獎牌。"
+
+msgid "Edge scrolling"
+msgstr "邊緣捲動"
+
+msgid "Edit all vehicles"
+msgstr "編輯所有載具"
+
+msgid "Edit selected vehicle"
+msgid_plural "Edit selected vehicles"
+msgstr[0] "編輯選擇的載具"
+msgstr[1] "編輯選擇的載具"
+
+msgid "Edit vehicle"
+msgid_plural "Edit vehicles"
+msgstr[0] "編輯載具"
+msgstr[1] "編輯載具"
+
+msgid "Editor"
+msgstr "編輯器"
+
+msgid "Editor's note"
+msgstr "編者註"
+
+msgid "Electric"
+msgstr "電力"
+
+msgid "Electric Train"
+msgstr "電力列車"
+
+msgid "Electric locomotives"
+msgstr "電動火車頭"
+
+msgid "Electric multiple units"
+msgstr "電動列車組"
+
+msgid "Electrification tool"
+msgstr "電氣化工具"
+
+msgid "Email"
+msgstr "電子郵件"
+
+msgid "Email:"
+msgstr "電子郵件："
+
+msgid "Emission"
+msgstr "排放量"
+
+msgid "Emission %1%"
+msgstr "排放量 %1%"
+
+msgid "Emission %1% + %2% (%3% condition)"
+msgstr "排放量 %1% + %2% (%3% 狀況)"
+
+msgid "Emission at mouse cursor: %s"
+msgstr "滑鼠游標處的排放量：%s"
+
+msgid "Emission at screen center: %s"
+msgstr "螢幕中央排放量：%s"
+
+msgid "Emissions layer"
+msgstr "排放量圖層"
+
+msgid "Empty"
+msgstr "空白"
+
+msgid "Empty construction"
+msgstr "空白建築"
+
+msgid "Enable"
+msgstr "啟用"
+
+msgid "Enable Custom settings"
+msgstr "啟用自訂設定"
+
+msgid "Enable all"
+msgstr "全部啟用"
+
+msgid "Enable all mods currently visible in the list"
+msgstr "啟用目前在清單上可見的所有模組"
+
+msgid "Enable camera tool"
+msgstr "啟用鏡頭工具"
+
+msgid "Enable custom game settings"
+msgstr "啟用自訂遊戲設定"
+
+msgid "Enable guide system"
+msgstr "啟用引導系統"
+
+msgid "Enable mod"
+msgstr "已啟用的模組"
+
+msgid "Enable mods from a mod preset. Already enabled mods are not disabled."
+msgstr "從模組預設中啟用模組。已啟用的模組將不會關閉。"
+
+msgid "Enable mouse/keyboard"
+msgstr "啟用滑鼠/鍵盤"
+
+msgid "Enable production or ship items to prevent closure."
+msgstr "展開生產或啟用船隻貨物即可避免關閉。"
+
+msgid "Enabled"
+msgstr "已啟用"
+
+msgid "Enabled mods"
+msgstr "已啟用的模組"
+
+msgid "Enabled/disabled mod(s) may lead to unexpected results."
+msgstr "已啟用/已停用的模組可能造成無法預期的結果。"
+
+msgid "Enabled/disabled mod(s) will likely cause the game to crash!"
+msgstr "已啟用/已停用的模組很可能會造成遊戲崩潰！"
+
+msgid "Engine Type"
+msgid_plural "Engine Types"
+msgstr[0] "引擎類型"
+msgstr[1] "引擎類型"
+
+msgid "Enter a file name!"
+msgstr "輸入一個檔案名稱！"
+
+msgid "Enter bank balance!"
+msgstr "輸入銀行帳戶餘額！"
+
+msgid "Enter change note"
+msgstr "輸入更改筆記"
+
+msgid "Enter cockpit"
+msgstr "進入駕駛艙"
+
+msgid "Enter comment"
+msgstr "輸入評論"
+
+msgid "Enter current day!"
+msgstr "輸入目前日！"
+
+msgid "Enter current month!"
+msgstr "輸入目前月份！"
+
+msgid "Enter current yonth!"
+msgstr "輸入目前年份！"
+
+msgid "Enter description"
+msgstr "輸入描述"
+
+msgid "Enter email address"
+msgstr "輸入電子郵件地址"
+
+msgid "Enter save game name"
+msgstr "輸入遊戲存檔名稱"
+
+msgid "Enter summary"
+msgstr "輸入摘要"
+
+msgid "Environment:"
+msgstr "環境："
+
+msgid "Erase assets with a brush."
+msgstr "以筆刷擦除地上物。"
+
+msgid "Erase the terrain painting (restore the default material)."
+msgstr "擦除地形繪圖 (回復至預設的材質)。"
+
+msgid "Eraser tool"
+msgstr "橡皮擦工具"
+
+msgid "Error loading settings file"
+msgstr "載入設定檔案時發生錯誤"
+
+msgid "Europe"
+msgstr "歐洲"
+
+msgid "European vehicles"
+msgstr "歐洲載具"
+
+msgid "Excellent"
+msgstr "非常好"
+
+msgid "Exemplary student"
+msgstr "模範生"
+
+msgid "Exit"
+msgstr "離開"
+
+msgid "Expand"
+msgstr "擴張"
+
+msgid "Expenditure"
+msgstr "支出"
+
+msgid "Export"
+msgstr "匯出"
+
+msgid "Export heightmap"
+msgstr "匯出高度圖"
+
+msgid "Extracting"
+msgstr "正在解壓縮"
+
+msgid "FPS limit"
+msgstr "每秒幀數上限"
+
+msgid "Fade {num}"
+msgstr "淡入淡出 {num}"
+
+msgid "Fades"
+msgstr "淡入淡出"
+
+msgid "Failed to login"
+msgstr "無法登入"
+
+msgid "Failed to logout"
+msgstr "無法登出"
+
+msgid "Failed to rate"
+msgstr "評分失敗"
+
+msgid "Failed to refresh"
+msgstr "無法重新整理"
+
+msgid "Failed to retrieve mod list"
+msgstr "無法擷取模組清單"
+
+msgid "Failed to share savegame"
+msgstr "無法分享遊戲存檔"
+
+msgid "Failed to show mod details"
+msgstr "無法顯示模組詳細資訊"
+
+msgid "Failed to subscribe"
+msgstr "無法訂閱"
+
+msgid "Failed to uninstall"
+msgstr "無法解除安裝"
+
+msgid "Failed to unsubscribe"
+msgstr "無法取消訂閱"
+
+msgid "Failed to upload mod"
+msgstr "無法上傳模組"
+
+msgid "False Information"
+msgstr "虛假資訊"
+
+msgid "Fetching Results"
+msgstr "正在獲取結果"
+
+msgid "File Name"
+msgstr "檔案名稱"
+
+msgid "File error"
+msgstr "檔案錯誤"
+
+msgid "File size"
+msgstr "檔案大小"
+
+msgid "Filesystem error"
+msgstr "檔案系統錯誤"
+
+msgid "Filter"
+msgstr "篩選"
+
+msgid "Finances"
+msgstr "財務"
+
+msgid "Finances - Chart"
+msgstr "財務 - 圖表"
+
+msgid "Finances - Table"
+msgstr "財務 - 表格"
+
+msgid "First"
+msgstr "第一個"
+
+msgid "First aircraft arrived"
+msgstr "第一輛飛機已到達"
+
+msgid "First bus arrived"
+msgstr "第一輛公車已到達"
+
+msgid "First bus stop"
+msgstr "第一個公車停靠站"
+
+msgid "First cargo item on board"
+msgstr "運送第一件貨物"
+
+msgid "First cargo item waiting"
+msgstr "第一件等待運送的貨物"
+
+msgid "First electric train arrived"
+msgstr "第一輛電力列車已到達"
+
+msgid "First industry upgraded"
+msgstr "第一次升級的產業"
+
+msgid "First line"
+msgstr "第一條路線"
+
+msgid "First passenger on board"
+msgstr "第一位搭乘的乘客"
+
+msgid "First passenger waiting"
+msgstr "第一位等待的乘客"
+
+msgid "First ship arrived"
+msgstr "第一艘船已到達"
+
+msgid "First steam train arrived"
+msgstr "第一輛蒸汽列車已到達"
+
+msgid "First train station"
+msgstr "第一個列車站"
+
+msgid "Fix slope"
+msgstr "固定坡度"
+
+msgid "Flatten the terrain."
+msgstr "使地形變得平坦。"
+
+msgid "Flatten tool"
+msgstr "平坦工具"
+
+msgid "Flip vehicle"
+msgstr "翻轉載具"
+
+msgid "Foc."
+msgstr "焦距"
+
+msgid "Focus Mods"
+msgstr "聚焦模組"
+
+msgid "Focus Sidebar"
+msgstr "聚焦側邊欄"
+
+msgid "Folder:"
+msgstr "資料夾："
+
+msgid "For experts:"
+msgstr "給專家們："
+
+msgid "Force uninstall"
+msgstr "強制解除安裝"
+
+msgid "Force units"
+msgstr "力量單位"
+
+msgid "Frame rate"
+msgstr "每秒幀數"
+
+msgid "Free Game"
+msgstr "自由遊戲"
+
+msgid "Free camera"
+msgstr "自由攝影機"
+
+msgid "Freq."
+msgstr "頻率"
+
+msgid "Frequence"
+msgstr "頻率"
+
+msgid "Full load (all)"
+msgstr "滿載 (全部貨物)"
+
+msgid "Full load (any)"
+msgstr "滿載 (任何貨物)"
+
+msgid "Fullscreen"
+msgstr "全螢幕"
+
+msgid "GNM"
+msgstr "GNM"
+
+msgid "Game"
+msgstr "遊戲"
+
+msgid "Game Storage"
+msgstr "遊戲儲存"
+
+msgid "Game options"
+msgstr "遊戲選項"
+
+msgid "Game paused"
+msgstr "遊戲已暫停"
+
+msgid "Game speed up"
+msgstr "遊戲加速"
+
+msgid "Generate"
+msgstr "產生"
+
+msgid "Generate a random seed"
+msgstr "產生隨機種子"
+
+msgid "Generate heightmap"
+msgstr "產生高度圖"
+
+msgid "Generate industries"
+msgstr "產生產業"
+
+msgid "Generate streets"
+msgstr "產生街道"
+
+msgid "Generate towns"
+msgstr "產生城鎮"
+
+msgid "Generating industries..."
+msgstr "正在產生產業..."
+
+msgid "Generating map..."
+msgstr "正在產生地圖..."
+
+msgid "Generating preview..."
+msgstr "正在產生預覽..."
+
+msgid "Generating streets..."
+msgstr "正在產生街道..."
+
+msgid "Generating terrain..."
+msgstr "正在產生地形..."
+
+msgid "Generating towns..."
+msgstr "正在產生城鎮..."
+
+msgid "Generator"
+msgstr "產生器"
+
+msgid "Generator:"
+msgstr "產生器："
+
+msgid "Generic"
+msgstr "一般"
+
+msgid "Geometry"
+msgstr "幾何"
+
+msgid "Glacier express"
+msgstr "冰川快車"
+
+msgid "Go back to menu"
+msgstr "回到選單"
+
+msgid "Go to next page"
+msgstr "前往下一頁"
+
+msgid "Go to previous page"
+msgstr "回到上一頁"
+
+msgid "Go to station"
+msgstr "前往車站"
+
+msgid "Going to depot"
+msgstr "前往車庫"
+
+msgid "Good"
+msgstr "良好"
+
+msgid "Graphic API"
+msgstr "畫質 API"
+
+msgid "Graphics"
+msgstr "畫質"
+
+msgid "Graphics Preference"
+msgstr "圖形模式"
+
+msgid "Graphics context creation failed ({graphicsApi})"
+msgstr "{graphicsApi} 上下文創建失敗"
+
+msgid "Graphics settings"
+msgstr "畫質設定"
+
+msgid "Grass"
+msgstr "草"
+
+msgid "Growth"
+msgstr "成長"
+
+msgid "Growth: %1% residents"
+msgstr "成長：%1% 居民"
+
+msgid "HUD icon filter"
+msgstr "HUD 圖示篩選器"
+
+msgid "HUD: Toggle aircraft"
+msgstr "HUD：切換飛機"
+
+msgid "HUD: Toggle bus/tram stops"
+msgstr "HUD：切換公車/輕軌電車停靠站"
+
+msgid "HUD: Toggle costs labels"
+msgstr "HUD：切換成本標誌"
+
+msgid "HUD: Toggle depots"
+msgstr "HUD：切換車庫"
+
+msgid "HUD: Toggle income labels"
+msgstr "HUD：切換收入標誌"
+
+msgid "HUD: Toggle industries"
+msgstr "HUD：切換產業"
+
+msgid "HUD: Toggle rail vehicles"
+msgstr "HUD：切換鐵軌載具"
+
+msgid "HUD: Toggle road vehicles"
+msgstr "HUD：切換道路載具"
+
+msgid "HUD: Toggle ships"
+msgstr "HUD：切換船隻"
+
+msgid "HUD: Toggle signals"
+msgstr "HUD：切換號誌"
+
+msgid "HUD: Toggle stations"
+msgstr "HUD：切換車站"
+
+msgid "HUD: Toggle towns"
+msgstr "HUD：切換城鎮"
+
+msgid "Hangar"
+msgstr "飛機庫"
+
+msgid "Have 100km of railway tunnels in free game."
+msgstr "在自由遊戲中有總計 100 公里長的鐵路隧道。"
+
+msgid "Have 400km of tracks in free game."
+msgstr "在自由遊戲中有總計 400 公里長的軌道。"
+
+msgid "Have 50km of railway bridges in free game."
+msgstr "在自由遊戲中有總計 50 公里長的鐵路橋樑。"
+
+msgid "Have a cargo item transported with one of your vehicles in free game."
+msgstr "在自由遊戲中用您的載具運送一件貨物。"
+
+msgid "Have a cargo item waiting at a terminal in free game."
+msgstr "在自由遊戲中讓一件貨物在總站裡等待運送。"
+
+msgid ""
+"Have a line with every passenger road vehicle type available from 1850 to "
+"2020 in free game."
+msgstr ""
+"在自由遊戲中建造一條擁有 1850 年至 2020 年間所有出現過的客運道路載具類型的路"
+"線。"
+
+msgid "Have a monthly maintenance cost of 200 million in free game."
+msgstr "在自由遊戲中每月維修費用達 2 億。"
+
+msgid "Have a passenger on a vehicle in free game."
+msgstr "在自由遊戲中讓一名乘客搭乘載具。"
+
+msgid "Have a town with a population of at least 1500 in free game."
+msgstr "在自由遊戲中讓一座城鎮的人口大於 1500 人。"
+
+msgid "Have a town with a population of at least 750 in free game."
+msgstr "在自由遊戲中讓一座城鎮的人口大於 750 人。"
+
+msgid "Have a train filled with at least 100 passengers in free game."
+msgstr "在自由遊戲中讓一輛列車至少載有 100 名乘客。"
+
+msgid "Have a train filled with at least 200 passengers in free game."
+msgstr "在自由遊戲中讓一輛列車至少載有 200 名乘客。"
+
+msgid "Have a train filled with at least 250 cargo items in free game."
+msgstr "在自由遊戲中讓一輛列車至少載有 250 件貨物。"
+
+msgid "Have a train longer than the longest possible station in free game."
+msgstr "在自由遊戲中讓一輛列車比最長的車站還長。"
+
+msgid "Have a train that reaches higher than 450 meters in free game."
+msgstr "在自由遊戲中讓一輛列車到達海拔 450 公尺以上的地方。"
+
+msgid ""
+"Have all tracks electrified and high speed in free game. Have at least 100km "
+"of tracks."
+msgstr "在自由遊戲中讓所有軌道電氣化或高速化。至少擁有 100 公里長的軌道。"
+
+msgid "Have at least 300 cargo items waiting at a train station in free game."
+msgstr "在自由遊戲中讓一個列車站中至少有 300 件待運貨物。"
+
+msgid "Have at least 300 passengers waiting in a train station in free game."
+msgstr "在自由遊戲中至少讓 300 名乘客在列車站裡等待運送。"
+
+msgid ""
+"Have every industry shipping items using your transport network in free game."
+msgstr "在自由遊戲中讓每個產業都用您的運輸網路運送貨物。"
+
+msgid "Have two trains stuck facing each other in free game."
+msgstr "在自由遊戲中讓兩輛列車面對面無法動彈。"
+
+msgid "Heading for depot"
+msgstr "前往車庫"
+
+msgid "Heading for {stopName}"
+msgstr "前往 {stopName}"
+
+msgid "Headquarters"
+msgstr "總部"
+
+msgid "Heavily loaded"
+msgstr "載滿貨物"
+
+msgid "Height at mouse cursor: {height}"
+msgstr "滑鼠游標高度：{height}"
+
+msgid "Height at screen center: {height}"
+msgstr "螢幕中央高度：{height}"
+
+msgid "Heightmap"
+msgstr "保留高度圖"
+
+msgid "Heightmap height invalid. Valid heights: %1%."
+msgstr "高度圖高度無效。有效高度：%1%。"
+
+msgid "Heightmap texture tool"
+msgstr "高度圖紋理工具"
+
+msgid "Heightmap texture tool: Invert"
+msgstr "高度圖紋理工具：反轉"
+
+msgid "Heightmap too large. Number of pixels must not exceed %1%M."
+msgstr "高度圖過大。畫素數量不應超過 %1% 百萬。"
+
+msgid "Heightmap width invalid. Valid widths: %1%."
+msgstr "高度圖寬度無效。有效寬度：%1%。"
+
+msgid "Help"
+msgstr "幫助"
+
+msgid "High"
+msgstr "高"
+
+msgid "High speed"
+msgstr "高速"
+
+msgid "High-speed"
+msgstr "高速"
+
+msgid "High-speed track tool"
+msgstr "高速軌道工具"
+
+msgid "Horse"
+msgstr "馬匹"
+
+msgid "Idle"
+msgstr "閒置"
+
+msgid ""
+"If you continue, all unfinished downloads will be cancelled and download "
+"progress will be lost."
+msgstr "如果繼續操作，所有未完成的下載作業都將取消，目前的下載進度也將遺失。"
+
+msgid "Illegal Content"
+msgstr "非法內容"
+
+msgid "Image file too large (must be less than 1MB)"
+msgstr "圖片檔案過大 (必須小於 1MB)"
+
+msgid "Image type must be grayscale."
+msgstr "圖片類型必須為灰階。"
+
+msgid "Image:"
+msgstr "圖片："
+
+msgid "Import"
+msgstr "匯入"
+
+msgid "Import heightmap"
+msgstr "匯入高度圖"
+
+msgid "Important note"
+msgstr "重要提示"
+
+msgid "In"
+msgstr "進場"
+
+msgid "In depot"
+msgstr "在車庫中"
+
+msgid "Income"
+msgstr "收入"
+
+msgid "Incoming vehicle(s)"
+msgstr "即將到達的載具"
+
+msgid "Industrial"
+msgstr "產業的"
+
+msgid "Industrial area"
+msgstr "產業區"
+
+msgid "Industrial building"
+msgstr "產業大樓"
+
+msgid "Industrial supply"
+msgstr "產業供應"
+
+msgid "Industrialist"
+msgstr "產業家"
+
+msgid "Industries"
+msgstr "產業"
+
+msgid "Industry"
+msgstr "產業"
+
+msgid "Industry closure"
+msgstr "產業關閉"
+
+msgid "Industry spawn"
+msgstr "產業生成"
+
+msgid "Industry statistics"
+msgstr "產業數據"
+
+msgid "Infrastructure"
+msgstr "基礎建設"
+
+msgid "Initial street angle range"
+msgstr "初始街角範圍"
+
+msgid "Insert a random seed to be used for the generator"
+msgstr "置入隨機種子於產生器使用"
+
+msgid "Insert fade after"
+msgstr "之後嵌入淡入淡出"
+
+msgid "Insert fade before"
+msgstr "先行嵌入淡入淡出"
+
+msgid "Insert key frame after"
+msgstr "之後嵌入關鍵影格"
+
+msgid "Insert key frame before"
+msgstr "先行嵌入關鍵影格"
+
+msgid "Insert subtitle after"
+msgstr "之後嵌入字幕"
+
+msgid "Insert subtitle before"
+msgstr "先行嵌入字幕"
+
+msgid "Installation failed due to insufficient storage space"
+msgstr "由於儲存空間不足，安裝失敗"
+
+msgid "Installation pending"
+msgstr "安裝待定中"
+
+msgid "Installed"
+msgstr "已安裝"
+
+msgid "Insufficient storage space"
+msgstr "儲存空間不足"
+
+msgid "Interface"
+msgstr "介面"
+
+msgid "Interface scaling"
+msgstr "介面比例"
+
+msgid "Internal error (see console for details)"
+msgstr "內部錯誤 (查看主控台以瞭解詳細資訊)"
+
+msgid "Invalid configuration, %1% module will collide."
+msgid_plural "Invalid configuration, %1% modules will collide."
+msgstr[0] "組態無效，%1% 模組將會衝突。"
+msgstr[1] "組態無效，%1% 模組將會衝突。"
+
+msgid "Invalid terminals"
+msgstr "無效端子"
+
+msgid "Inventory"
+msgstr "庫存"
+
+msgid "Invert"
+msgstr "反轉"
+
+msgid "Invert panning"
+msgstr "反轉平移"
+
+msgid "Invert rotate"
+msgstr "反轉旋轉"
+
+msgid "Invert rotation"
+msgstr "反轉旋轉"
+
+msgid "Invert rotation keys"
+msgstr "反轉旋轉按鍵"
+
+msgid "Invert tilt"
+msgstr "反轉傾斜"
+
+msgid "Invert tilting"
+msgstr "反轉傾斜"
+
+msgid "Invert zoom"
+msgstr "反轉縮放"
+
+msgid "Invert zooming"
+msgstr "反轉縮放"
+
+msgid "Investments"
+msgstr "投資"
+
+msgid "JPEG couldn't be read"
+msgstr "無法讀取 JPEG"
+
+msgid "JPEG has not enough channels (min: 3)"
+msgstr "JPEG 的通道數不足 (最少需要 3 個)"
+
+msgid "Jobs"
+msgstr "工作"
+
+msgid "Keep"
+msgstr "保持"
+
+msgid ""
+"Keep a train built before 1900 running until the year 2000 in free game."
+msgstr "在自由遊戲中讓一輛西元 1900 年前建造的列車營運至西元 2000 年。"
+
+msgid "Keep assets"
+msgstr "保留地上物"
+
+msgid "Keep editing"
+msgstr "保留變更"
+
+msgid "Keep existing industries"
+msgstr "保留現存產業"
+
+msgid "Keep existing industries:"
+msgstr "保留現存產業："
+
+msgid "Keep existing streets"
+msgstr "保留現存街道"
+
+msgid "Keep existing towns"
+msgstr "保留現存城鎮"
+
+msgid "Keep existing towns:"
+msgstr "保留現存城鎮："
+
+msgid "Keep heightmap"
+msgstr "保留高度圖"
+
+msgid "Keep resolution?"
+msgstr "要保持此解析度嗎？"
+
+msgid "Keep trees and rocks"
+msgstr "保留樹木與石頭"
+
+msgid "Key mapping"
+msgstr "按鍵配置"
+
+msgid "KeyFrame {frame_num}"
+msgstr "關鍵影格 {frame_num}"
+
+msgid "Keyboard"
+msgstr "鍵盤"
+
+msgid "Keyboard settings"
+msgstr "鍵盤設定"
+
+msgid "Keyframes"
+msgstr "關鍵影格"
+
+msgid "Land use"
+msgstr "土地利用"
+
+msgid "Land use layer"
+msgstr "土地利用圖層"
+
+msgid "Landscaping"
+msgstr "景觀"
+
+msgid "Lanes: %1%, Speed limit: %2%"
+msgstr "車道：%1%，限速：%2%"
+
+msgid "Language"
+msgstr "語言"
+
+msgid "Last Image:"
+msgstr "最新圖片："
+
+msgid "Last recording:"
+msgstr "最新錄影："
+
+msgid "Last savegame \"%1%\""
+msgstr "最新的遊戲存檔「%1%」"
+
+msgid "Leaving game..."
+msgstr "正在離開遊戲..."
+
+msgid "Length"
+msgstr "長度"
+
+msgid "Length: %1%"
+msgstr "長度：%1%"
+
+msgid "Let a manufacturing industry upgrade in free game."
+msgstr "在自由遊戲中讓一個製造業升級。"
+
+msgid "Level"
+msgstr "等級"
+
+msgid "Liabilities"
+msgstr "負債"
+
+msgid "Lifespan"
+msgstr "使用壽命"
+
+msgid "Lifetime reached"
+msgstr "已達到壽命"
+
+msgid "Likes"
+msgstr "按讚數"
+
+msgid "Limit of {number} industries on map reached"
+msgstr "地圖上已達到 {number} 種產業數量上限"
+
+msgid "Limit of {number} towns on map reached"
+msgstr "地圖上已達到 {number} 座城鎮數量上限"
+
+msgid "Limit reached!\n"
+msgstr "已達到限制！\n"
+
+msgid "Line"
+msgstr "路線"
+
+msgid "Line Usage"
+msgstr "路線使用"
+
+msgid "Line contains too few stations"
+msgstr "路線中包含的車站數量太少"
+
+msgid "Line manager"
+msgstr "路線管理工具"
+
+msgid "Line must contain at least one stop"
+msgstr "路線中至少要有一個停靠站"
+
+msgid "Line statistics"
+msgstr "路線數據"
+
+msgid "Lines"
+msgstr "路線"
+
+msgid "Lines passing:"
+msgstr "通過的路線："
+
+msgid "Lines report following problems:"
+msgstr "路線回報了下列問題："
+
+msgid "Liquidity"
+msgstr "流動性"
+
+msgid "Load"
+msgstr "載入"
+
+msgid "Load Camera config"
+msgstr "載入鏡頭設定"
+
+msgid "Load Game"
+msgstr "載入遊戲"
+
+msgid "Load Map"
+msgstr "載入地圖"
+
+msgid "Load a map"
+msgstr "載入一張地圖"
+
+msgid "Load an existing game"
+msgstr "載入一場現存遊戲"
+
+msgid "Load an existing map"
+msgstr "載入一張現存地圖"
+
+msgid "Load game"
+msgstr "載入遊戲"
+
+msgid "Load if available"
+msgstr "在可行的狀況下裝載上去"
+
+msgid "Load key frames"
+msgstr "載入關鍵影格"
+
+msgid "Load map"
+msgstr "載入地圖"
+
+msgid "Load mod preset"
+msgstr "載入模組預設"
+
+msgid "Load presets"
+msgstr "讀取預設"
+
+msgid "Load savegame?"
+msgstr "要載入遊戲存檔嗎？"
+
+msgid "Load the map"
+msgstr "載入地圖"
+
+msgid "Loaded"
+msgstr "已裝載"
+
+msgid "Loading order, click to change"
+msgstr "載入順序，點擊以更改"
+
+msgid "Loading page {page}"
+msgstr "正在載入第 {page} 頁"
+
+msgid "Loading report"
+msgstr "報告讀取中"
+
+msgid "Loading speed"
+msgstr "裝載速度"
+
+msgid ""
+"Loading speed reduced because train length ({train}) exceeds platform length "
+"({station})"
+msgstr "因為列車長度 ({train}) 超過月台長度 ({station})，所以裝載速度降低"
+
+msgid "Loading speed: {amount}x"
+msgstr "裝載速度：{amount}x"
+
+msgid "Loading..."
+msgstr "載入中..."
+
+msgid "Loan"
+msgstr "貸款"
+
+msgid "Loan interest"
+msgstr "貸款利息"
+
+msgid "Loan to repay: %1%"
+msgstr "用貸款償還：%1%"
+
+msgid "Locate"
+msgstr "定位"
+
+msgid "Locomotives"
+msgstr "火車頭"
+
+msgid "Logging Out"
+msgstr "正在登出"
+
+msgid "Logging in, please wait..."
+msgstr "登入中，請稍候..."
+
+msgid "Login"
+msgstr "登入"
+
+msgid "Login and subscribe"
+msgstr "登入並訂閱"
+
+msgid "Login to mod.io"
+msgstr "登入 mod.io"
+
+msgid "Logout"
+msgstr "登出"
+
+msgid "Louis Favre"
+msgstr "路易·法夫爾"
+
+msgid "Low"
+msgstr "低"
+
+msgid "Lower"
+msgstr "下降"
+
+msgid "Lower the terrain."
+msgstr "壓下地形。"
+
+msgid "Lower tool"
+msgstr "壓下工具"
+
+msgid "Lower {townName}"
+msgstr "下 {townName}"
+
+msgid "MODIO_INFO"
+msgstr ""
+"Mod.io是Urban Games推薦的Mod瀏覽器，可讓所有PC用戶（不僅限於Steam用戶）以及"
+"PlayStation®5和Xbox Series X|S的用戶下載Transport Fever 2的資產和腳本Mod。\n"
+"\n"
+"為了讓大型主機和非 Steam 使用者社群也能使用，mod 製作者必須特別上傳他們的 "
+"mod 到 mod.io，這可以透過遊戲內的 mod 發佈工具輕鬆完成。mod.io 中的 mod 可以"
+"直接下載、安裝，並使用我們的遊戲內 mod 瀏覽器自動更新。"
+
+msgid "MODIO_INFO_CONSOLE"
+msgstr ""
+"Mod.io是Urban Games推薦的Mod瀏覽器。\n"
+"\n"
+"mod.io 中的 mod 可以直接下載、安裝，並使用我們的遊戲內 mod 瀏覽器自動更新。"
+
+msgid "Main connection will be interrupted"
+msgstr "主要連結將被中斷"
+
+msgid "Main connections"
+msgstr "主要連結"
+
+msgid "Main connections:"
+msgstr "主要連結："
+
+msgid "Maintenance"
+msgstr "維修"
+
+msgid "Maintenance depots"
+msgstr "車庫維修"
+
+msgid "Maintenance infrastructure"
+msgstr "基礎建設維修"
+
+msgid "Maintenance other"
+msgstr "其他設施維修"
+
+msgid "Maintenance roads"
+msgstr "道路維修"
+
+msgid "Maintenance set to keep vehicle at %1% condition"
+msgstr "維修載具保持在%1%狀況"
+
+msgid "Maintenance stations"
+msgstr "車站維修"
+
+msgid "Maintenance tracks"
+msgstr "軌道維修"
+
+msgid "Maintenance vehicles"
+msgstr "載具維修"
+
+msgid "Make public"
+msgstr "公開"
+
+msgid "Manage line"
+msgstr "管理路線"
+
+msgid "Manage vehicle"
+msgstr "管理載具"
+
+msgid "Manage vehicles"
+msgstr "管理載具"
+
+msgid "Map Editor"
+msgstr "地圖編輯器"
+
+msgid "Map Parameters"
+msgstr "地圖參數"
+
+msgid "Map format"
+msgstr "地圖格式"
+
+msgid "Map generation failed"
+msgstr "地圖產生失敗"
+
+msgid "Map size"
+msgstr "地圖尺寸"
+
+msgid "Map size is experimental and may lead to unexpected results."
+msgstr "地圖尺寸是實驗性功能，可能會造成無法預期的結果。"
+
+msgid "Map size:"
+msgstr "地圖尺寸："
+
+msgid "Mass production"
+msgstr "批量化生產"
+
+msgid "Master"
+msgstr "主音量"
+
+msgid "Maximum loan: %1%"
+msgstr "最高貸款額：%1%"
+
+msgid "Maximum segment length reached"
+msgstr "已達最大路段長度"
+
+msgid "Maximum time before departure"
+msgstr "發車前最大停止時間"
+
+msgid "Mediocre"
+msgstr "中等"
+
+msgid "Menu"
+msgstr "選單"
+
+msgid "Menu music"
+msgstr "選單音樂"
+
+msgid "Metropolis"
+msgstr "大都會"
+
+msgid "Min. bridge height"
+msgstr "最低橋樑高度"
+
+msgid "Min. tunnel depth"
+msgstr "最小隧道深度"
+
+msgid "Minimum time before departure"
+msgstr "發車前最小停止時間"
+
+msgid "Minus old vehicle value"
+msgstr "減去老舊載具價值"
+
+msgid "Misc."
+msgstr "雜項"
+
+msgid "Miscellaneous"
+msgstr "雜項"
+
+msgid "Missing electric tracks"
+msgstr "缺少電力軌道"
+
+msgid "Missing tram tracks"
+msgstr "缺少輕軌電車軌道"
+
+msgid "Mission %1%"
+msgstr "任務 %1%"
+
+msgid "Mission completed"
+msgstr "任務已完成"
+
+msgid "Mission failed"
+msgstr "任務失敗"
+
+msgid "Mission tasks"
+msgstr "任務差事"
+
+msgid "Mission {mission_num}"
+msgstr "任務 {mission_num}"
+
+msgid "Mission {missions_done} of {missions_total}"
+msgstr "{missions_total} 任務中的 {missions_done}"
+
+msgid "Mission: %1%"
+msgstr "任務：%1%"
+
+msgid "Mixed rocks"
+msgstr "混合的石頭"
+
+msgid "Mixed trees"
+msgstr "混合的樹木"
+
+msgid "Mod Browser"
+msgstr "模組瀏覽器"
+
+msgid "Mod Details"
+msgstr "模組詳細資訊"
+
+msgid "Mod details"
+msgstr "模組詳細資訊"
+
+msgid "Mod no longer available"
+msgstr "MOD 不再可用"
+
+msgid "Mod not installed"
+msgstr "未安裝模組"
+
+msgid "Mod parameters"
+msgstr "模組參數"
+
+msgid "Mod preset name"
+msgstr "模組預設名稱"
+
+msgid "Mod publishing"
+msgstr "正在發布模組"
+
+msgid "Mod size"
+msgstr "模組大小"
+
+msgid ""
+"Mod upload could not proceed due to a filesystem issue. Please check the "
+"files in your staging area."
+msgstr "發生檔案系統問題，因此無法繼續上傳模組。請檢查暫存區中的檔案。"
+
+msgid "Mod.io info"
+msgstr "Mod.io資訊"
+
+msgid "Modify for "
+msgstr "以下列價格改裝 "
+
+msgid "Modify the terrain with a heightmap texture."
+msgstr "以高度圖紋理修改地形。"
+
+msgid "Mods"
+msgstr "模組"
+
+msgid "Module bulldozer"
+msgstr "模組推土機"
+
+msgid "Money number format"
+msgstr "金錢數字格式"
+
+msgid "Month"
+msgstr "月"
+
+msgid "More details"
+msgstr "更多詳細資訊"
+
+msgid "Mouse"
+msgstr "滑鼠"
+
+msgid "Mouse movement sensitivity"
+msgstr "滑鼠移動靈敏度"
+
+msgid "Mouse settings"
+msgstr "滑鼠設定"
+
+msgid "Mouse wheel sensitivity"
+msgstr "滑鼠滾輪靈敏度"
+
+msgid "Move down"
+msgstr "向下移動"
+
+msgid "Move mode"
+msgstr "移動模式"
+
+msgid "Move up"
+msgstr "向上移動"
+
+msgid "Move vehicle backward"
+msgstr "將載具向後移"
+
+msgid "Move vehicle down"
+msgstr "將載具下移"
+
+msgid "Move vehicle forward"
+msgstr "將載具向前移"
+
+msgid "Move vehicle to the back"
+msgstr "將載具移到最後面"
+
+msgid "Move vehicle to the front"
+msgstr "將載具移到最前面"
+
+msgid "Move vehicle up"
+msgstr "將載具上移"
+
+msgid "Movement sensitivity (game camera)"
+msgstr "移動靈敏度 (遊戲攝影機)"
+
+msgid "Multiple units"
+msgstr "列車組"
+
+msgid "Multiple vehicles."
+msgstr "多輛載具。"
+
+msgid "Museum line"
+msgstr "博物館路線"
+
+msgid "Music"
+msgstr "音樂"
+
+msgid "Music player"
+msgstr "音樂播放器"
+
+msgid "Mute"
+msgstr "靜音"
+
+msgid "N/A"
+msgstr "無"
+
+msgid "NEW_GAME_TAKING_TOO_LONG_STR"
+msgstr "地圖初始化需要更長的時間。 比賽很快就要開始了。"
+
+msgid "Name"
+msgstr "名稱"
+
+msgid "Narrow angle"
+msgstr "狹角"
+
+msgid "Navigable waters"
+msgstr "適航水域"
+
+msgid "Navigable waters layer"
+msgstr "適航水域圖層"
+
+msgid "Network Error"
+msgstr "網路錯誤"
+
+msgid "Never"
+msgstr "從不"
+
+msgid "New cargo demand"
+msgstr "需要新貨物"
+
+msgid "New industry founded"
+msgstr "未找到產業"
+
+msgid "New line"
+msgstr "新路線"
+
+msgid "New train"
+msgstr "新列車"
+
+msgid "New vehicle"
+msgstr "新載具"
+
+msgid "New vehicle available"
+msgstr "有全新載具可供使用"
+
+msgid "New vehicles"
+msgstr "新載具"
+
+msgid "Next"
+msgstr "下一個"
+
+msgid "Next/previous image"
+msgstr "下一張/上一張圖片"
+
+msgid "No"
+msgstr "否"
+
+msgid "No Line"
+msgstr "沒有路線"
+
+msgid "No bridge"
+msgstr "無橋樑"
+
+msgid "No cargo type"
+msgstr "無貨物類型"
+
+msgid "No construction set!"
+msgstr "沒有已設置的建築！"
+
+msgid "No costs"
+msgstr "無成本"
+
+msgid "No country for old trains"
+msgstr "不是老舊列車待的地方"
+
+msgid "No depot found"
+msgstr "找不到車庫"
+
+msgid "No electric path"
+msgstr "沒有電力路徑"
+
+msgid "No filter currently set"
+msgstr "目前沒有設置篩選器"
+
+msgid "No free seats"
+msgstr "沒有空位"
+
+msgid "No line passing"
+msgstr "沒有通過的路線"
+
+msgid "No lines have been created yet. Create lines to see them here."
+msgstr "尚未建立任何路線。建立路線，即可在此處顯示路線。"
+
+msgid "No logo"
+msgstr "無商標"
+
+msgid ""
+"No maps available.\n"
+"\n"
+"Maps can be created with the map editor or\n"
+"downloaded from Steam Workshop."
+msgstr ""
+"無地圖可用．\n"
+"\n"
+"可以使用地圖編輯器創建地圖或\n"
+"從Steam 工作坊下載地圖．"
+
+msgid ""
+"No maps available.\n"
+"\n"
+"Maps can be created with the map editor."
+msgstr ""
+"無地圖可用．\n"
+"\n"
+"可以使用地圖編輯器創建地圖．"
+
+msgid "No matches"
+msgstr "沒有相符項目"
+
+msgid "No mods match your current search or filter"
+msgstr "沒有與目前搜尋內容或篩選條件相符的模組"
+
+msgid "No money:"
+msgstr "沒有金錢："
+
+msgid "No parameters"
+msgstr "無參數"
+
+msgid "No path"
+msgstr "沒有路徑"
+
+msgid "No path (Big aircraft)"
+msgstr "沒有路徑 (大型飛機)"
+
+msgid "No path (Big ship)"
+msgstr "沒有路徑 (大型船隻)"
+
+msgid "No path (Electric)"
+msgstr "沒有路徑 (電力載具)"
+
+msgid "No path for big airplanes"
+msgstr "沒有大型飛機可用的路徑"
+
+msgid "No path for big ships"
+msgstr "沒有大型船隻可用的路徑"
+
+msgid "No path found between %1% and %2%"
+msgstr "%1% 與 %2% 之間沒有路徑"
+
+msgid "No release notes provided"
+msgstr "未提供版本更新說明"
+
+msgid "No saved games available."
+msgstr "沒有遊戲存檔"
+
+msgid "No segment removable"
+msgstr "沒有可移除的路段"
+
+msgid "No stations have been added yet. Add stations to see them here."
+msgstr "尚未增加任何車站。增加車站，即可在此處顯示車站。"
+
+msgid "No street connection"
+msgstr "未連接至街道"
+
+msgid "No tasks available"
+msgstr "沒有可做的差事"
+
+msgid "No tunnel"
+msgstr "無隧道"
+
+msgid "No vehicle in depot"
+msgstr "車庫無載具"
+
+msgid "No vehicle to replace"
+msgstr "沒有載具可供替換"
+
+msgid "No vehicles to replace!"
+msgstr "沒有能夠替換的載具！"
+
+msgid "No vehicles with current filter setting available"
+msgstr "目前篩選設定沒有可用的載具"
+
+msgid "Node locked"
+msgstr "節點已鎖定"
+
+msgid "None"
+msgstr "無"
+
+msgid "Normal"
+msgstr "普通"
+
+msgid "Not Working"
+msgstr "無法運作"
+
+msgid "Not assigned to a terminal"
+msgstr "尚未指派總站"
+
+msgid "Not compatible for replacement"
+msgstr "無法進行替換"
+
+msgid "Not contained by any line as waypoint"
+msgstr "沒有被任何路線納為路徑點"
+
+msgid "Not enough money"
+msgstr "金錢不足"
+
+msgid "Not enough money."
+msgstr "金錢不足。"
+
+msgid "Not in my backyard"
+msgstr "不要在我家後院"
+
+msgid "Nothing waiting"
+msgstr "沒有東西正在等待"
+
+msgid "Notifications"
+msgstr "通知"
+
+msgid "Now demands "
+msgstr "目前需求 "
+
+msgid "Now what?"
+msgstr "接下來呢？"
+
+msgid "Number of industries:"
+msgstr "產業數量："
+
+msgid "Number of items currently in stock"
+msgstr "目前的庫存品數量"
+
+msgid "Number of lines"
+msgstr "路線數量"
+
+msgid "Number of towns"
+msgstr "城鎮數量"
+
+msgid "Number of towns:"
+msgstr "城鎮數量："
+
+msgid "OK"
+msgstr "好"
+
+msgid "Off"
+msgstr "關閉"
+
+msgid "Ok"
+msgstr "好"
+
+msgid "Old timer"
+msgstr "老前輩"
+
+msgid "Oldest vehicle"
+msgstr "最老的載具"
+
+msgid "On"
+msgstr "開啟"
+
+msgid "One-way"
+msgstr "單行道"
+
+msgid "Only show air lines and hangars"
+msgstr "只顯示飛行路線和停機坪"
+
+msgid "Only show lines and depots that are visible in the main view"
+msgstr "只顯示在主要畫面中可見的路線與車庫"
+
+msgid "Only show lines that are visible in the main view"
+msgstr "只顯示在主要畫面中可見的路線"
+
+msgid "Only show railroad lines and depots"
+msgstr "只顯示鐵道路線和車庫"
+
+msgid "Only show road lines and depots"
+msgstr "只顯示道路路線和車庫"
+
+msgid "Only show ship lines and shipyards"
+msgstr "只顯示船隻路線和船廠"
+
+msgid "Only show tram lines and depots"
+msgstr "只顯示輕軌電車路線和車庫"
+
+msgid "Only show vehicles that are visible in the main view"
+msgstr "只顯示在主要畫面中可見的載具"
+
+msgid "Open advanced game settings dialog"
+msgstr "開啟進階遊戲設定對話框"
+
+msgid "Open console"
+msgstr "開啟主控台"
+
+msgid "Open folder"
+msgstr "開啟資料夾"
+
+msgid "Open source"
+msgstr "打開來源"
+
+msgid "Open userdata folder"
+msgstr "開啟使用者資料的資料夾"
+
+msgid "Open vehicle manager"
+msgstr "開啟載具管理工具"
+
+msgid "Open vehicle store to buy vehicles"
+msgstr "開啟載具商店以購買載具"
+
+msgid "Open vehicle window on purchase"
+msgstr "購買載具時將車窗打開"
+
+msgid "OpenGL"
+msgstr "OpenGL"
+
+msgid "Optional: Enter email address"
+msgstr "選擇性：輸入電子郵件地址"
+
+msgid "Optional: Enter name"
+msgstr "選擇性：輸入名稱"
+
+msgid "Options:"
+msgstr "選項："
+
+msgid "Originally posted by {author}:"
+msgstr "原先由{author}發布："
+
+msgid "Other"
+msgstr "其他"
+
+msgid "Other infrastructure"
+msgstr "其他基礎建設"
+
+msgid "Out"
+msgstr "退場"
+
+msgid "Out of map"
+msgstr "超出地圖"
+
+msgid "Output resolution"
+msgstr "輸出解析度"
+
+msgid "Overload"
+msgstr "超負荷"
+
+msgid "Overloaded stations"
+msgstr "車站超負荷"
+
+msgid "Overview"
+msgstr "簡報"
+
+msgid "Overwrite camera config?"
+msgstr "覆蓋鏡頭設定？"
+
+msgid "Overwrite description and preview image"
+msgstr "覆寫描述和預覽圖片"
+
+msgid "Overwrite description, summary and preview image"
+msgstr "覆寫描述、摘要和預覽圖片"
+
+msgid "Overwrite heightmap?"
+msgstr "要覆蓋高度圖嗎？"
+
+msgid "Overwrite mod preset?"
+msgstr "要覆蓋模組預設嗎？"
+
+msgid "Overwrite savegame?"
+msgstr "要覆蓋遊戲存檔嗎？"
+
+msgid "Own streets."
+msgstr "以玩家所有權升級街道，所有權自動變化。"
+
+msgid "Ownership test failed"
+msgstr "所有權測試失敗"
+
+msgid "Paint steep side"
+msgstr "繪製峭壁"
+
+msgid "Paint tools"
+msgstr "繪圖工具"
+
+msgid "Pan sensitivity (free camera)"
+msgstr "追拍靈敏度 (自由攝影機)"
+
+msgid "Pan sensitivity (game camera)"
+msgstr "追拍靈敏度 (遊戲攝影機)"
+
+msgid "Passenger"
+msgstr "乘客"
+
+msgid "Passenger stop can not be used by cargo vehicles"
+msgstr "貨物載具無法使用載客停靠站"
+
+msgid "Passenger stops can not be used by cargo vehicles"
+msgstr "貨物載具無法使用載客停靠站"
+
+msgid "Passenger wagons"
+msgstr "客運馬車"
+
+msgid "Passengers"
+msgstr "乘客"
+
+msgid "Passengers transported (last 12 months)"
+msgstr "載客數 (過去 12 個月)"
+
+msgid "Passengers transported (total)"
+msgstr "載客數 (總共)"
+
+msgid "Paste"
+msgstr "貼上"
+
+msgid "Pause"
+msgstr "暫停"
+
+msgid "Pause preview"
+msgstr "暫停預覽"
+
+msgid "Paused"
+msgstr "已暫停"
+
+msgid "Penny pincher"
+msgstr "吝嗇鬼"
+
+msgid "Perspective panning"
+msgstr "透視平移"
+
+msgid "Picture"
+msgstr "圖像"
+
+msgid "Pin"
+msgstr "固定"
+
+msgid "Place random rocks with a brush."
+msgstr "以筆刷放置隨機種類的石頭。"
+
+msgid "Place random trees with a brush."
+msgstr "以筆刷放置隨機種類的樹木。"
+
+msgid "Platform:"
+msgstr "平台："
+
+msgid "Play Map"
+msgstr "遊玩地圖"
+
+msgid "Play a free game in all three climates."
+msgstr "在全部三個氣候中遊玩自由遊戲。"
+
+msgid "Play a map"
+msgstr "遊玩一張地圖"
+
+msgid "Play map"
+msgstr "遊玩地圖"
+
+msgid "Play next song"
+msgstr "播放下一首曲子"
+
+msgid "Play or pause current song"
+msgstr "播放或暫停目前的曲子"
+
+msgid "Play previous song"
+msgstr "播放上一首曲子"
+
+msgid "Player Owned"
+msgstr "玩家已擁有"
+
+msgid "Player owned"
+msgstr "玩家已擁有"
+
+msgid "Player ownership"
+msgstr "玩家所有權"
+
+msgid "Player ownership control tool"
+msgstr "玩家所有權控制工具"
+
+msgid "Playlist"
+msgstr "播放清單"
+
+msgid "Please check that you're signed in to PlayStation Network"
+msgstr "請確認您是否已登入 PlayStation Network"
+
+msgid "Please check that you're signed in to Xbox Live"
+msgstr "請確認您是否已登入 Xbox Live"
+
+msgid "Please check your email for your code and enter it here."
+msgstr "請從電子郵件查看您的代碼並在此輸入。"
+
+msgid "Please check your network connection and try again later."
+msgstr "請檢查您的網路連線，稍後再試一次。"
+
+msgid "Please login to publish mod"
+msgstr "請登入以發布模組"
+
+msgid "Please try installing the latest drivers for your graphics card."
+msgstr "請試著為您的顯示卡安裝最新的驅動程式。"
+
+msgid "Please wait ..."
+msgstr "請稍候..."
+
+msgid "Please wait, models are being replaced..."
+msgstr "請稍後，正在取代模組..."
+
+msgid "Point to the terrain"
+msgstr "指向地形"
+
+msgid "Poor"
+msgstr "表現不佳"
+
+msgid "Population"
+msgstr "人口"
+
+msgid "Power"
+msgstr "動力"
+
+msgid "Power rating"
+msgstr "動力評分"
+
+msgid "Power units"
+msgstr "動力單位"
+
+msgid "Precision mode"
+msgstr "精準模式"
+
+msgid "Preparing game..."
+msgstr "準備遊戲中..."
+
+msgid "Preparing..."
+msgstr "準備中..."
+
+msgid "Presets"
+msgstr "預先配置"
+
+msgid "Press <Shift> to set custom color"
+msgstr "按 <Shift> 即可自訂顏色"
+
+msgid ""
+"Press [iaHint=IA_SELECT/] or [iaHint=IA_NAV_ACTIVATE_SPACE/] to continue..."
+msgstr "按下 [iaHint=IA_SELECT/] 或 [iaHint=IA_NAV_ACTIVATE_SPACE/] 以繼續..."
+
+msgid "Press any key"
+msgstr "按下任一按鍵"
+
+msgid "Previous resolution setting will be restored in %2d seconds!"
+msgstr "將在 %2d 秒後回到之前的解析度設定！"
+
+msgid "Private transport"
+msgstr "私人運輸"
+
+msgid "Produced"
+msgstr "已生產"
+
+msgid "Product"
+msgstr "產品"
+
+msgid "Production"
+msgstr "生產"
+
+msgid "Production rating"
+msgstr "生產評分"
+
+msgid "Profit last 12 months"
+msgstr "過去 12 個月的利潤"
+
+msgid "Prohibited area"
+msgstr "禁區"
+
+msgid "Public transport"
+msgstr "大眾運輸"
+
+msgid "Publish"
+msgstr "發布"
+
+msgid "Publish Map"
+msgstr "發布地圖"
+
+msgid "Publish Savegame"
+msgstr "發布遊戲存檔"
+
+msgid "Publishing..."
+msgstr "發布中..."
+
+msgid "Quality"
+msgstr "品質"
+
+msgid "Quality of life in {townName}"
+msgstr "在 {townName} 的生活品質"
+
+msgid "Quantity"
+msgstr "數量"
+
+msgid "Quit"
+msgstr "離開"
+
+msgid "Quit game"
+msgstr "離開遊戲"
+
+msgid "Quit to main menu"
+msgstr "離開並回到主選單"
+
+msgid "Quit to main menu or desktop"
+msgstr "離開並回到主選單或桌面"
+
+msgid "Rail"
+msgstr "鐵軌"
+
+msgid "Railroad"
+msgstr "鐵道"
+
+msgid "Railroad crossing"
+msgstr "鐵道穿越道"
+
+msgid "Raise"
+msgstr "提升"
+
+msgid "Raise the terrain."
+msgstr "抬升地形。"
+
+msgid "Raise tool"
+msgstr "抬升工具"
+
+msgid "Random"
+msgstr "隨機"
+
+msgid "Random seed"
+msgstr "隨機種子"
+
+msgid "Randomize rotation"
+msgstr "反轉旋轉"
+
+msgid "Range:"
+msgstr "範圍："
+
+msgid "Rate"
+msgstr "速率"
+
+msgid "Rating"
+msgstr "評分"
+
+msgid "Rating from \"%1%\" to \"%2%\""
+msgstr "評分從 「%1%」到「%2%」"
+
+msgid "Reach 400 production at a manufacturing industry in free game."
+msgstr "在自由遊戲中讓其中一個製造業的生產力達到 400。"
+
+msgid "Reach a speed of at least 120 km/h with a train in free game."
+msgstr "在自由遊戲中的最高速度達 120 公里/小時。"
+
+msgid "Reach a speed of at least 300 km/h with a train in free game."
+msgstr "在自由遊戲中的最高速度達 300 公里/小時。"
+
+msgid "Reach an emission value of 80 in a town in free game."
+msgstr "在自由遊戲中的一座城鎮中造成的噪音達到 80 分貝。"
+
+msgid "Reach the maximum headquarters level in free game."
+msgstr "在自由遊戲中讓總部達到最高等級。"
+
+msgid "Reach the present in free game."
+msgstr "在自由遊戲中達到現代。"
+
+msgid "Reach the year 2050 using only trains in free game."
+msgstr "在自由遊戲中只使用列車營運至 2050 年。"
+
+msgid "Reading heightmap..."
+msgstr "正在讀取高度圖..."
+
+msgid "Real estate"
+msgstr "不動產"
+
+msgid "Record key frame"
+msgstr "錄下關鍵影格"
+
+msgid "Reduce"
+msgstr "減少"
+
+msgid "Refittable"
+msgstr "可改裝"
+
+msgid "Reflection"
+msgstr "映射"
+
+msgid "Refresh"
+msgstr "重新整理"
+
+msgid "Refresh finished"
+msgstr "重新整理已完成"
+
+msgid "Refund: %1%"
+msgstr "退還 %1%"
+
+msgid "Relative mode"
+msgstr "相對模式"
+
+msgid "Reload all textures?"
+msgstr "是否重新載入紋理？"
+
+msgid "Relocate"
+msgstr "重新定位"
+
+msgid "Remove all"
+msgstr "移除全部"
+
+msgid "Remove all connections"
+msgstr "移除所有連結"
+
+msgid "Remove all stations and waypoints"
+msgstr "移除所有車站與路徑點"
+
+msgid "Remove all stations?"
+msgstr "要移除所有車站嗎？"
+
+msgid "Remove attachment"
+msgstr "移除附件"
+
+msgid "Remove station or waypoint"
+msgstr "移除車站或路徑點"
+
+msgid "Remove vehicle"
+msgstr "移除載具"
+
+msgid "Rename"
+msgstr "重新命名"
+
+msgid "Repay %1%"
+msgstr "償還 %1%"
+
+msgid "Replace all vehicles"
+msgstr "替換所有載具"
+
+msgid "Replace current list of activated mods with this preset."
+msgstr "使用此預設替換目前已啟用模組的列表。"
+
+msgid "Replace for "
+msgstr "以下列價格替換 "
+
+msgid "Replace selected vehicle"
+msgid_plural "Replace selected vehicles"
+msgstr[0] "替換選擇的載具"
+msgstr[1] "替換選擇的載具"
+
+msgid "Replace vehicle"
+msgid_plural "Replace vehicles"
+msgstr[0] "替換載具"
+msgstr[1] "替換載具"
+
+msgid "Replace vehicles"
+msgstr "替換載具"
+
+msgid "Replacing existing"
+msgstr "替換現有"
+
+msgid "Replacing train"
+msgstr "正在替換列車"
+
+msgid "Replacing vehicle"
+msgstr "正在替換載具"
+
+msgid "Report"
+msgstr "報告"
+
+msgid "Report Mod"
+msgstr "報告模組"
+
+msgid "Report Type"
+msgstr "報告類型"
+
+msgid "Report submitted"
+msgstr "報告已提交"
+
+msgid "Requirements"
+msgstr "需求"
+
+msgid "Resend Code"
+msgstr "重新發送代碼"
+
+msgid "Reset color"
+msgstr "重設顏色"
+
+msgid "Reset filters"
+msgstr "重設篩選條件"
+
+msgid "Reset key mapping to default?"
+msgstr "要將按鍵配置重設為預設值嗎？"
+
+msgid "Reset settings to default"
+msgstr "將設定重設為預設值"
+
+msgid "Reset to default"
+msgstr "重設為預設值"
+
+msgid "Reset vehicle"
+msgstr "重置載具"
+
+msgid "Residential"
+msgstr "住宅區"
+
+msgid "Residential area"
+msgstr "住宅區"
+
+msgid "Residential building"
+msgstr "住宅大樓"
+
+msgid "Residents"
+msgstr "居民"
+
+msgid "Resolution"
+msgstr "解析度"
+
+msgid "Resolution scale"
+msgstr "解析度比例"
+
+msgid "Restart"
+msgstr "重新開始"
+
+msgid "Restart game and apply settings"
+msgstr "重啟遊戲並套用設定"
+
+msgid "Restart the mission"
+msgstr "重新開始任務"
+
+msgid "Resume"
+msgstr "重新開始"
+
+msgid "Resume game"
+msgstr "重新開始遊戲"
+
+msgid "Retry"
+msgstr "重試"
+
+msgid "Return to campaign menu"
+msgstr "回到單人劇情選單"
+
+msgid "Return to main menu"
+msgstr "回到主選單"
+
+msgid "Return to previous page"
+msgstr "回到上一頁"
+
+msgid "Reverse"
+msgstr "倒退"
+
+msgid "Road"
+msgstr "道路"
+
+msgid "Road depot"
+msgstr "道路車庫"
+
+msgid "Road vehicle"
+msgid_plural "Road vehicles"
+msgstr[0] "道路載具"
+msgstr[1] "道路載具"
+
+msgid "Road vehicle {number}"
+msgstr "道路載具 {number}"
+
+msgid "Road vehicles"
+msgstr "道路載具"
+
+msgid "Roads"
+msgstr "道路"
+
+msgid "Rotate sensitivity (free camera)"
+msgstr "旋轉靈敏度 (自由攝影機)"
+
+msgid "Rotate sensitivity (game camera)"
+msgstr "旋轉靈敏度 (遊戲攝影機)"
+
+msgid "Rotation"
+msgstr "旋轉"
+
+msgid "Rude Content"
+msgstr "粗魯內容"
+
+msgid "Rule"
+msgstr "規則"
+
+msgid "Running"
+msgstr "行進中"
+
+msgid "Running costs"
+msgstr "營運成本"
+
+msgid "Running costs: +{percentage}%"
+msgstr "營運成本：+{percentage}%"
+
+msgid "Sandbox mode"
+msgstr "沙盒模式"
+
+msgid "Sandbox mode:"
+msgstr "沙盒模式："
+
+msgid "Save"
+msgstr "儲存"
+
+msgid "Save & play"
+msgstr "儲存並遊玩"
+
+msgid "Save and apply settings"
+msgstr "儲存並套用設定"
+
+msgid "Save and play map"
+msgstr "儲存並遊玩"
+
+msgid "Save as preset"
+msgstr "儲存為預設"
+
+msgid "Save camera config"
+msgstr "儲存鏡頭設定"
+
+msgid ""
+"Save failed: no space left.\n"
+"Please free {mb} MB and try again."
+msgstr ""
+"儲存失敗：空間不足。\n"
+"請釋出 {mb} MB 的空間，然後再試一次。"
+
+msgid ""
+"Save failed: storage limit reached.\n"
+"Please open save menu to free {mb} MB and try again."
+msgstr ""
+"儲存失敗：達到儲存上限。\n"
+"請打開儲存選單，以釋出 {mb} MB 的空間，然後再試一次。"
+
+msgid "Save game"
+msgstr "儲存遊戲"
+
+msgid "Save game name"
+msgstr "儲存遊戲名稱"
+
+msgid "Save key frames"
+msgstr "儲存關鍵影格"
+
+msgid "Save map"
+msgstr "儲存地圖"
+
+msgid "Save mod preset"
+msgstr "儲存模組預設"
+
+msgid "Save..."
+msgstr "儲存..."
+
+msgid "Save... get ready to play map"
+msgstr "儲存中...準備遊玩地圖"
+
+msgid "Saved game \"%1%\""
+msgstr "已儲存的遊戲「%1%」"
+
+msgid "Savegame not ready"
+msgstr "遊戲存檔尚未就緒"
+
+msgid "Saving..."
+msgstr "儲存中..."
+
+msgid "Scale"
+msgstr "比例"
+
+msgid "Scroll description"
+msgstr "捲動描述"
+
+msgid "Sculpturer"
+msgstr "雕刻家"
+
+msgid "Search for line..."
+msgstr "尋找路線..."
+
+msgid "Search for mod..."
+msgstr "尋找模組..."
+
+msgid "Search for modules..."
+msgstr "尋找模組..."
+
+msgid "Search for vehicle..."
+msgstr "尋找載具..."
+
+msgid "Search..."
+msgstr "尋找..."
+
+msgid "Seed"
+msgstr "種子"
+
+msgid "Seed:"
+msgstr "種子："
+
+msgid "Select"
+msgstr "選擇"
+
+msgid "Select Campaign"
+msgstr "選擇單人劇情"
+
+msgid "Select bit depth of grayscale image"
+msgstr "選擇灰階圖的位元深度"
+
+msgid "Select generator"
+msgstr "選擇產生器"
+
+msgid "Select options"
+msgstr "選擇選項"
+
+msgid "Select terminal for this stop"
+msgstr "選擇此停靠站的總站"
+
+msgid "Select terminal for this waypoint"
+msgstr "選擇此路徑點的總站"
+
+msgid "Select the campaign"
+msgstr "選擇單人劇情"
+
+msgid "Select vehicle"
+msgstr "選擇載具"
+
+msgid "Sell"
+msgstr "賣出"
+
+msgid "Sell all vehicles"
+msgstr "賣出所有載具"
+
+msgid "Sell all vehicles?"
+msgstr "要賣出所有載具嗎？"
+
+msgid "Sell selected vehicle"
+msgid_plural "Sell selected vehicles"
+msgstr[0] "賣出選擇的載具"
+msgstr[1] "賣出選擇的載具"
+
+msgid "Sell selected vehicle?"
+msgid_plural "Sell selected vehicles?"
+msgstr[0] "要賣出選擇的載具嗎？"
+msgstr[1] "要賣出選擇的載具嗎？"
+
+msgid "Sell vehicle"
+msgstr "賣出載具"
+
+msgid "Send"
+msgstr "發送"
+
+msgid "Send all vehicles to depot"
+msgstr "將所有載具送至車庫"
+
+msgid "Send all vehicles to depot?"
+msgstr "要將所有載具送至車庫嗎？"
+
+msgid "Send crash reports"
+msgstr "傳送遊戲崩潰報告"
+
+msgid "Send selected vehicle to depot"
+msgid_plural "Send selected vehicles to depot"
+msgstr[0] "將選擇的載具送至車庫"
+msgstr[1] "將選擇的載具送至車庫"
+
+msgid "Send to depot"
+msgstr "送至車庫"
+
+msgid "Sensitivity settings"
+msgstr "靈敏度設定"
+
+msgid "Set Bridge Type"
+msgstr "設定橋梁類型"
+
+msgid "Set Railroad Crossing Type"
+msgstr "設定鐵道穿越道類型"
+
+msgid "Set Tunnel Type"
+msgstr "設定隧道類型"
+
+msgid "Set color"
+msgstr "設定顏色"
+
+msgid "Set color for all vehicles"
+msgstr "為所有載具設定顏色"
+
+msgid "Set color for selected vehicle"
+msgid_plural "Set color for selected vehicles"
+msgstr[0] "為選擇的載具設定顏色"
+msgstr[1] "為選擇的載具設定顏色"
+
+msgid "Set line"
+msgstr "設置路線"
+
+msgid "Set output frame rate to {framerate} fps"
+msgstr "將輸出幀率設為每秒 {framerate} 幀"
+
+msgid "Set output game speed up to {speed}"
+msgstr "將輸出遊戲速度設為 {speed}"
+
+msgid "Set output resolution to {width} x {height}"
+msgstr "將輸出解析度設置為 {width} x {height}"
+
+msgid "Settings"
+msgstr "設定"
+
+msgid "Settings..."
+msgstr "正在設定..."
+
+msgid "Settled down"
+msgstr "安頓下來"
+
+msgid "Setup a line so that town residents use your vehicles in free game."
+msgstr "在自由遊戲中設置一條路線，讓城鎮的居民能夠使用您的載具。"
+
+msgid "Shadows"
+msgstr "陰影"
+
+msgid "Share"
+msgstr "分享"
+
+msgid "Shared capacity of station buildings for full platforms"
+msgstr "完整月台車站建築物的共用容量"
+
+msgid "Shift"
+msgstr "Shift"
+
+msgid "Ship"
+msgid_plural "Ships"
+msgstr[0] "船隻"
+msgstr[1] "船隻"
+
+msgid "Ship {number}"
+msgstr "船隻 {number}"
+
+msgid "Shipment"
+msgstr "船隻"
+
+msgid "Shipped"
+msgstr "已運送"
+
+msgid "Shipping"
+msgstr "運送貨物"
+
+msgid "Ships"
+msgstr "船隻"
+
+msgid "Shipyard"
+msgstr "船廠"
+
+msgid "Shop"
+msgstr "商店"
+
+msgid "Shopping"
+msgstr "購物"
+
+msgid "Shopping facilities"
+msgstr "購物設施"
+
+msgid "Show all"
+msgstr "顯示全部"
+
+msgid "Show details"
+msgstr "顯示詳細資訊"
+
+msgid "Show in browser"
+msgstr "在瀏覽器中顯示"
+
+msgid "Show load game dialog"
+msgstr "顯示載入遊戲對話框"
+
+msgid "Show missing resources dialog"
+msgstr "缺少資源時顯示警告"
+
+msgid "Show only visible"
+msgstr "只顯示可見項目"
+
+msgid "Show only visible lines"
+msgstr "只顯示可見路線"
+
+msgid "Show quit dialog"
+msgstr "顯示離開對話框"
+
+msgid "Show save game dialog"
+msgstr "顯示儲存遊戲對話框"
+
+msgid "Show settings dialog"
+msgstr "顯示設定對話框"
+
+msgid "Show unsupported hardware warning"
+msgstr "顯示硬體不支援警告"
+
+msgid "Show video memory usage warning"
+msgstr "顯示視訊記憶體使用量警告"
+
+msgid "Show/hide HUD icon filter menu"
+msgstr "顯示/隱藏 HUD 圖示篩選器選單"
+
+msgid "Show/hide air buildings menu"
+msgstr "顯示/隱藏空路建築物選單"
+
+msgid "Show/hide air menu"
+msgstr "顯示/隱藏空路選單"
+
+msgid "Show/hide assets menu"
+msgstr "顯示/隱藏地上物選單"
+
+msgid "Show/hide camera tool"
+msgstr "顯示/隱藏鏡頭工具"
+
+msgid "Show/hide cargo layer"
+msgstr "顯示/隱藏貨物圖層"
+
+msgid "Show/hide contour lines layer"
+msgstr "顯示/隱藏地形輪廓線圖層"
+
+msgid "Show/hide data layers menu"
+msgstr "顯示/隱藏資料層選單"
+
+msgid "Show/hide destinations layer"
+msgstr "顯示/隱藏目的地圖層"
+
+msgid "Show/hide emission layer"
+msgstr "顯示/隱藏排放量圖層"
+
+msgid "Show/hide industry statistics"
+msgstr "顯示/隱藏產業數據"
+
+msgid "Show/hide land use layer"
+msgstr "顯示/隱藏陸用圖層"
+
+msgid "Show/hide landscaping menu"
+msgstr "顯示/隱藏景觀選單"
+
+msgid "Show/hide line manager"
+msgstr "顯示/隱藏路線管理工具"
+
+msgid "Show/hide line statistics"
+msgstr "顯示/隱藏路線數據"
+
+msgid "Show/hide music player"
+msgstr "顯示/隱藏音樂播放器"
+
+msgid "Show/hide navigable waters layer"
+msgstr "顯示/隱藏適航水域圖層"
+
+msgid "Show/hide rail buildings menu"
+msgstr "顯示/隱藏鐵軌車庫選單"
+
+msgid "Show/hide rail menu"
+msgstr "顯示/隱藏鐵軌選單"
+
+msgid "Show/hide road buildings menu"
+msgstr "顯示/隱藏道路車庫選單"
+
+msgid "Show/hide road menu"
+msgstr "顯示/隱藏道路選單"
+
+msgid "Show/hide station statistics"
+msgstr "顯示/隱藏車站數據"
+
+msgid "Show/hide stations layer"
+msgstr "顯示/隱藏車站圖層"
+
+msgid "Show/hide statistics window"
+msgstr "顯示/隱藏數據視窗"
+
+msgid "Show/hide street builder menu (curved mode)"
+msgstr "顯示/隱藏街道建造器選單 (曲線模式)"
+
+msgid "Show/hide street builder menu (straight mode)"
+msgstr "顯示/隱藏街道建造器選單 (直線模式)"
+
+msgid "Show/hide street builder menu (upgrade mode)"
+msgstr "顯示/隱藏街道建造器選單 (升級模式)"
+
+msgid "Show/hide street constructions menu"
+msgstr "顯示/隱藏街道建築選單"
+
+msgid "Show/hide street modification tools menu"
+msgstr "顯示/隱藏街道修改工具選單"
+
+msgid "Show/hide street traffic layer"
+msgstr "顯示/隱藏街道交通圖層"
+
+msgid "Show/hide street waypoints menu"
+msgstr "顯示/隱藏街道路徑點選單"
+
+msgid "Show/hide streets menu"
+msgstr "顯示/隱藏街道選單"
+
+msgid "Show/hide terrain paint tools menu"
+msgstr "顯示/隱藏地形繪圖工具選單"
+
+msgid "Show/hide terrain tools menu"
+msgstr "顯示/隱藏地形工具選單"
+
+msgid "Show/hide town statistics"
+msgstr "顯示/隱藏城鎮數據"
+
+msgid "Show/hide track builder menu (upgrade mode)"
+msgstr "顯示/隱藏軌道建造器選單 (升級模式)"
+
+msgid "Show/hide track modification tools menu"
+msgstr "顯示/隱藏軌道修改工具選單"
+
+msgid "Show/hide track signals menu"
+msgstr "顯示/隱藏軌道號誌選單"
+
+msgid "Show/hide track speed limits layer"
+msgstr "顯示/隱藏軌道限速圖層"
+
+msgid "Show/hide track waypoints menu"
+msgstr "顯示/隱藏軌道路徑點選單"
+
+msgid "Show/hide tracks menu"
+msgstr "顯示/隱藏軌道選單"
+
+msgid "Show/hide vehicle manager"
+msgstr "顯示/隱藏載具管理工具"
+
+msgid "Show/hide vehicle statistics"
+msgstr "顯示/隱藏載具數據"
+
+msgid "Show/hide warnings window"
+msgstr "顯示/隱藏警告視窗"
+
+msgid "Show/hide water buildings menu"
+msgstr "顯示/隱藏水路建築物選單"
+
+msgid "Show/hide water menu"
+msgstr "顯示/隱藏水路選單"
+
+msgid "Showing {from}-{to} of {total} mods"
+msgstr "正在顯示 {from} 至 {to} 的模組 (共 {total} 個)"
+
+msgid "Sign in with Email"
+msgstr "使用電子郵件地址登入"
+
+msgid "Sign-In Error"
+msgstr "登入錯誤"
+
+msgid "Signal #{number}"
+msgstr "號誌 #{number}"
+
+msgid "Signals"
+msgstr "號誌"
+
+msgid "Signals must be removed first"
+msgstr "必須先移除號誌"
+
+msgid "Single"
+msgstr "單一"
+
+msgid "Size"
+msgstr "尺寸"
+
+msgid "Skip collision"
+msgstr "略過衝突"
+
+msgid "Sky"
+msgstr "天空"
+
+msgid "Slope threshold"
+msgstr "坡度閾值"
+
+msgid "Smooth the terrain."
+msgstr "使地形變得平滑。"
+
+msgid "Smooth tool"
+msgstr "平滑工具"
+
+msgid ""
+"Some DLCs and/or mods could not be found. Please install them first in order "
+"to load this savegame."
+msgstr "無法找到部分 DLC 與/或模組。請先安裝它們才能載入此遊戲存檔。"
+
+msgid "Some cargo items are lost because station is overloaded."
+msgstr "由於車站超負荷，一些貨物已經丟失。"
+
+msgid "Some passengers leave because station is overloaded."
+msgstr "由於車站超負荷，一些乘客已經離開。"
+
+msgid "Sort"
+msgstr "排序"
+
+msgid "Sound Effects"
+msgstr "音效"
+
+msgid "Sound effects"
+msgstr "音效"
+
+msgid "Soundtrack"
+msgstr "音樂"
+
+msgid "Source"
+msgstr "來源"
+
+msgid "Spawning animals..."
+msgstr "生成動物..."
+
+msgid "Specify vehicle"
+msgstr "指定載具"
+
+msgid "Speed"
+msgstr "速度"
+
+msgid "Speed of light"
+msgstr "光速"
+
+msgid "Speed units"
+msgstr "速度單位"
+
+msgid "Speed: 1x"
+msgstr "速度：1x"
+
+msgid "Speed: 2x"
+msgstr "速度：2x"
+
+msgid "Speed: 4x"
+msgstr "速度：4x"
+
+msgid "Standard Edition"
+msgstr "Standard Edition"
+
+msgid "Start"
+msgstr "開始"
+
+msgid "Start mission"
+msgstr "開始任務"
+
+msgid "Start preview"
+msgstr "開始預覽"
+
+msgid "Start recording"
+msgstr "開始錄影"
+
+msgid "Start the editor"
+msgstr "啟動編輯器"
+
+msgid "Start the game"
+msgstr "開始遊戲"
+
+msgid "Start upload"
+msgstr "開始上載"
+
+msgid "Start year"
+msgstr "起始年份"
+
+msgid "Start year:"
+msgstr "起始年份："
+
+msgid "Station"
+msgstr "站"
+
+msgid "Station %1% appears consecutively twice"
+msgstr "車站 %1% 連續出現兩次"
+
+msgid "Station appears consecutively twice"
+msgstr "車站連續出現兩次"
+
+msgid "Station statistics"
+msgstr "車站數據"
+
+msgid "Station types don't match (e.g. bus stop and train station)"
+msgstr "車站類型不符 (例如：公車停靠站與列車站)"
+
+msgid "Stations"
+msgstr "車站"
+
+msgid "Stations layer"
+msgstr "車站圖層"
+
+msgid "Stations report the following problems:"
+msgstr "車站回報了下列問題："
+
+msgid "Statistics"
+msgstr "數據"
+
+msgid "Status"
+msgstr "狀態"
+
+msgid "Steam"
+msgstr "蒸汽"
+
+msgid "Steam API init failed"
+msgstr "Steam 應用程式界面開啟失敗"
+
+msgid "Steam Train"
+msgstr "蒸汽列車"
+
+msgid "Steam Workshop"
+msgstr "Steam 工作坊"
+
+msgid "Steam locomotives"
+msgstr "蒸氣火車頭"
+
+msgid "Steam multiple units"
+msgstr "蒸氣列車組"
+
+msgid "Stocks"
+msgstr "存貨"
+
+msgid "Stolen Content"
+msgstr "盜用內容"
+
+msgid "Stop"
+msgstr "停止"
+
+msgid "Stop #{number}"
+msgstr "停止 #{number}"
+
+msgid "Stop can not be used with current vehicles"
+msgstr "目前載具無法用於停靠站"
+
+msgid "Stop preview"
+msgstr "停止預覽"
+
+msgid "Stopped"
+msgstr "已停靠"
+
+msgid "Stopping"
+msgstr "停靠中"
+
+msgid "Stops must be removed first"
+msgstr "必須先移除停靠站"
+
+msgid "Store the current list of activated mods in a mod preset"
+msgstr "將目前已啟用模組的列表儲存至模組預設"
+
+msgid "Store the current list of activated mods in a preset"
+msgstr "將目前已啟用模組的列表儲存至預設"
+
+msgid "Stored"
+msgstr "已貯存"
+
+msgid "Straight"
+msgstr "直線"
+
+msgid "Street constructions"
+msgstr "街道建築"
+
+msgid "Street locked"
+msgstr "街道已鎖定"
+
+msgid "Street traffic layer"
+msgstr "街道交通圖層"
+
+msgid "Streets"
+msgstr "街道"
+
+msgid "Strength"
+msgstr "強度"
+
+msgid "Submit"
+msgstr "提交"
+
+msgid "Subscribe"
+msgstr "訂閱"
+
+msgid "Subscribed"
+msgstr "已訂閱"
+
+msgid "Subscribers"
+msgstr "訂閱者"
+
+msgid "Subscription state of {amount} mods updated."
+msgstr "{amount} 個模組的訂閱狀態已更新。"
+
+msgid "Subtitle {num}"
+msgstr "字幕 {num}"
+
+msgid "Subtitles"
+msgstr "字幕"
+
+msgid "Successfully connected all stations"
+msgstr "成功連結所有車站"
+
+msgid ""
+"Successfully connected all stations, disabled {num} alternative terminal"
+msgid_plural ""
+"Successfully connected all stations, disabled {num} alternative terminals"
+msgstr[0] "成功連結所有車站，已停用 {num} 座替代月台"
+msgstr[1] "成功連結所有車站，已停用 {num} 座替代月台"
+
+msgid "Summary"
+msgstr "摘要"
+
+msgid "Summary:"
+msgstr "摘要："
+
+msgid "Suppliers"
+msgstr "供應商"
+
+msgid "Supply"
+msgstr "供給"
+
+msgid "Supply rating"
+msgstr "供應評分"
+
+msgid "TGA could not be read"
+msgstr "無法讀取 TGA"
+
+msgid "Tag(s):"
+msgstr "標籤："
+
+msgid "Tags"
+msgstr "標籤"
+
+msgid "Target population"
+msgstr "目標人口"
+
+msgid "Task completed"
+msgstr "差事已完成"
+
+msgid "Tasks"
+msgstr "差事"
+
+msgid "Terminal %1%"
+msgstr "總站 %1%"
+
+msgid "Terminals"
+msgstr "航廈"
+
+msgid "Terrain"
+msgstr "地形"
+
+msgid "Terrain textures"
+msgstr "地形紋理"
+
+msgid "Terrain tools"
+msgstr "地形工具"
+
+msgid "Text"
+msgstr "文字"
+
+msgid "Textures"
+msgstr "紋理"
+
+msgid "Thank you for your feedback."
+msgstr "感謝您提供意見回饋。"
+
+msgid "The camera config \"{}\" already exists. Do you want to overwrite it?"
+msgstr "相機設定「{}」已存在。要覆蓋嗎？"
+
+msgid "The condition is very bad."
+msgstr "狀況非常糟糕。"
+
+msgid "The condition of multiple vehicles is very bad."
+msgstr "多輛載具的狀況非常糟糕。"
+
+msgid ""
+"The description contains unsupported or malformed elements and cannot be "
+"displayed here."
+msgstr "描述包含不支援或格式錯誤的元素，無法在此顯示。"
+
+msgid "The existing mod on {backend} will be updated."
+msgstr "{backend} 上的現有模組將會更新。"
+
+msgid "The future is now, old man"
+msgstr "老頭子，現在就是未來"
+
+msgid "The heightmap \"%1%\" already exists. Do you want to overwrite it?"
+msgstr "高度圖「%1%」已存在。要覆蓋嗎？"
+
+msgid "The initial size of %1%"
+msgstr "%1% 的起始尺寸"
+
+msgid "The king of the sea"
+msgstr "海洋之王"
+
+msgid "The mod preset \"{}\" already exists. Do you want to overwrite it?"
+msgstr "模組預設「{}」已存在。要覆蓋嗎？"
+
+msgid "The name of the animal"
+msgstr "動物名稱"
+
+msgid "The name of the construction"
+msgstr "建築名稱"
+
+msgid "The name of the depot"
+msgstr "車庫名稱"
+
+msgid "The name of the industry"
+msgstr "產業名稱"
+
+msgid "The name of the line"
+msgstr "路線名稱"
+
+msgid "The name of the resident"
+msgstr "居民名稱"
+
+msgid "The name of the signal"
+msgstr "號誌名稱"
+
+msgid "The name of the station"
+msgstr "車站名稱"
+
+msgid "The name of the town"
+msgstr "城鎮名稱"
+
+msgid "The name of the transport vehicle"
+msgstr "運輸載具名稱"
+
+msgid "The name of the waypoint"
+msgstr "路徑點名稱"
+
+msgid "The number of jobs in %1%"
+msgstr "%1% 中工作機會的數量"
+
+msgid "The number of residents in %1% is growing"
+msgstr "%1%生活的居民數量正在增長"
+
+msgid "The number of residents in %1% is shrinking"
+msgstr "%1%生活的居民數量正在減少"
+
+msgid "The number of residents in %1% is stable"
+msgstr "%1%生活的居民數量保持穩定"
+
+msgid "The number of shopping facilities in %1%"
+msgstr "%1% 中購物設施的數量"
+
+msgid "The number or residents %1% will grow/shrink to"
+msgstr "%1% 的居民數量將成長/縮減為"
+
+msgid "The savegame \"{}\" already exists. Do you want to overwrite it?"
+msgstr "遊戲存檔「{}」已存在。要覆蓋嗎？"
+
+msgid "The station is not connected to a street."
+msgstr "車站沒有連接到街道。"
+
+msgid "The total growth"
+msgstr "總成長"
+
+msgid "The ugly smell of success"
+msgstr "成功的銅臭味"
+
+msgid "There are %1% vehicles to be replaced"
+msgstr "有 %1% 輛需要替換的載具"
+
+msgid "There are no warnings!"
+msgstr "沒有任何警告！"
+
+msgid "There is one vehicle to be replaced"
+msgstr "有一輛需要替換的載具"
+
+msgid ""
+"This mod's format is deprecated. Please contact the author to obtain an up-"
+"to-date version."
+msgstr "不推薦使用此模組的格式。請聯絡作者來取得最新版本。"
+
+msgid ""
+"This requires reloading all textures, might take a long time and will "
+"momentarily freeze the game. Save your progression before triggering this "
+"operation."
+msgstr "這項操作需要重新載入所有地形紋理，因此需稍待片刻。"
+
+msgid ""
+"This savegame contains vehicles for which improved models are available due "
+"to a game update."
+msgstr "此遊戲存檔包含因遊戲更新而開放改良模組的載具。"
+
+msgid ""
+"This savegame requires game resources which are not available, e.g. due to "
+"missing mods. Check the stdout.txt for detailed information and expect "
+"unwanted behavior of the game."
+msgstr ""
+"此遊戲存檔所需要的遊戲資源無法使用，可能原因是遺失模組。請查看 stdout.txt 了"
+"解詳細資訊，遊戲可能出現預期之外的行為。"
+
+msgid ""
+"This savegame requires models which are not available, e.g. due to missing "
+"mods. Instances of the following models are replaced by placeholders:"
+msgstr ""
+"此遊戲存檔所需要的模組無法使用，可能原因是遺失模組。下列模組場合由預留位置取"
+"代："
+
+msgid ""
+"This savegame requires models which are not available, e.g. due to missing "
+"mods. Instances of {number} models are replaced by placeholders."
+msgstr ""
+"此遊戲存檔所需要的模組無法使用，可能原因是遺失模組。{number} 個模組場合由預留"
+"位置取代。"
+
+msgid "This setting can only be changed in the main menu"
+msgstr "此設定只能在主選單中變更"
+
+msgid "This warning can be deactivated in the settings Advanced tab."
+msgstr "可在設定中的進階分頁將此警告關閉。"
+
+msgid "Thrust"
+msgstr "推力"
+
+msgid "Tickets"
+msgstr "交通票"
+
+msgid "Time"
+msgstr "時間"
+
+msgid "Time scale"
+msgstr "時間比例"
+
+msgid "To Desktop"
+msgstr "前往桌面"
+
+msgid "To main menu"
+msgstr "前往主選單"
+
+msgid "Today, {time}"
+msgstr "今天，{time}"
+
+msgid "Toggle precedence"
+msgstr "切換優先級"
+
+msgid ""
+"Toggle the button to jump to the first point where the path couldn't "
+"continue."
+msgstr "切換按鈕即可跳到路徑的第一個中斷點。"
+
+msgid "Toggle traffic light"
+msgstr "切換交通號誌燈"
+
+msgid "Too much curvature"
+msgstr "曲率過大"
+
+msgid "Too much slope"
+msgstr "坡度過大"
+
+msgid "Tools"
+msgstr "工具"
+
+msgid "Top length (rail)"
+msgstr "最長長度 (鐵軌)"
+
+msgid "Top speed"
+msgstr "最高速度"
+
+msgid "Top speed for slopes:"
+msgstr "斜坡上的最高速度："
+
+msgid "Total"
+msgstr "總共"
+
+msgid "Total bridges"
+msgstr "橋樑總數"
+
+msgid "Total electrified"
+msgstr "電氣化總數"
+
+msgid "Total growth: %1% residents"
+msgstr "總成長：%1% 居民"
+
+msgid "Total high-speed"
+msgstr "高速道路總數"
+
+msgid "Total length of train is %s"
+msgstr "列車的總長為 %s"
+
+msgid "Total tracks"
+msgstr "軌道總數"
+
+msgid "Total tunnels"
+msgstr "隧道總數"
+
+msgid "Town"
+msgstr "城鎮"
+
+msgid ""
+"Town authorities complain about following interrupted street connections:"
+msgstr "城鎮當局抱怨了以下已中斷的街道連結："
+
+msgid "Town builder"
+msgstr "城鎮建造器"
+
+msgid "Town growth"
+msgstr "城鎮成長"
+
+msgid "Town names:"
+msgstr "城鎮名稱:"
+
+msgid "Town statistics"
+msgstr "城鎮數據"
+
+msgid "Towns"
+msgstr "城鎮"
+
+msgid "Towns cargo needs"
+msgstr "城鎮貨物需求"
+
+msgid "Towns/industries"
+msgstr "城鎮/產業"
+
+msgid "Track constructions"
+msgstr "軌道建築"
+
+msgid "Track speed limits layer"
+msgstr "軌道限速圖層"
+
+msgid "Tracks"
+msgstr "軌道"
+
+msgid "Tractive effort"
+msgstr "牽引力"
+
+msgid "Traffic"
+msgstr "交通"
+
+msgid "Traffic light control tool"
+msgstr "交通號誌燈控制工具"
+
+msgid "Traffic lights"
+msgstr "交通號誌燈"
+
+msgid "Train"
+msgid_plural "Trains"
+msgstr[0] "列車"
+msgstr[1] "列車"
+
+msgid "Train Fever"
+msgstr "列車狂熱"
+
+msgid "Train depot"
+msgstr "列車車庫"
+
+msgid "Train does not have a locomotive"
+msgstr "列車缺少火車頭"
+
+msgid "Train {number}"
+msgstr "列車 {number}"
+
+msgid "Trains"
+msgstr "列車"
+
+msgid "Trains mutually blocked"
+msgstr "對向列車相互阻擋"
+
+msgid "Tram"
+msgid_plural "Trams"
+msgstr[0] "輕軌電車"
+msgstr[1] "輕軌電車"
+
+msgid "Tram depot"
+msgstr "輕軌電車車庫"
+
+msgid "Tram track"
+msgstr "輕軌電車軌道"
+
+msgid "Tram track tool"
+msgstr "輕軌電車軌道工具"
+
+msgid "Tram {number}"
+msgstr "輕軌電車 {number}"
+
+msgid "Trams"
+msgstr "輕軌電車"
+
+msgid "Trans-Siberian Railway"
+msgstr "西伯利亞鐵路"
+
+msgid "Transport"
+msgstr "運輸"
+
+msgid "Transport Fever"
+msgstr "運輸狂熱者"
+
+msgid "Transport Fever 2"
+msgstr "Transport Fever 2"
+
+msgid "Transport belt"
+msgstr "運輸帶"
+
+msgid "Transport corporation"
+msgstr "運輸企業"
+
+msgid "Transport master"
+msgstr "運輸業大師"
+
+msgid "Transport millionaire"
+msgstr "運輸業百萬富翁"
+
+msgid "Transport shark"
+msgstr "運輸業高手"
+
+msgid "Transport shark (Hard mode)"
+msgstr "運輸業高手 (困難模式)"
+
+msgid "Transport tycoon"
+msgstr "運輸業大亨"
+
+msgid "Transport tycoon (Hard mode)"
+msgstr "運輸業大亨 (困難模式)"
+
+msgid "Transported"
+msgstr "已運輸"
+
+msgid "Travel back and forward in time using the time control in sandbox mode."
+msgstr "在沙盒模式中使用時間控制回到過去或前往未來。"
+
+msgid "Trending"
+msgstr "正在流行"
+
+msgid "Trophy set for Transport Fever 2"
+msgstr "Transport Fever 2獎盃組"
+
+msgid "Truck"
+msgstr "貨車"
+
+msgid "Truck Fever"
+msgstr "貨車狂熱"
+
+msgid "Truck station"
+msgstr "貨車站"
+
+msgid "Try to fix problem automatically"
+msgstr "嘗試自動解決問題"
+
+msgid "Tunnel"
+msgstr "隧道"
+
+msgid "Turn music on"
+msgstr "開啟音樂"
+
+msgid "Type"
+msgstr "類型"
+
+msgid "Types of stations %1% and %2% don't match"
+msgstr "車站 %1% 與 %2% 的類型不相符"
+
+msgid "USA"
+msgstr "美國"
+
+msgid "Unable to align terrain"
+msgstr "無法對齊地形"
+
+msgid "Unable to find path to depot"
+msgstr "找不到前往車庫的路徑"
+
+msgid "Unable to find path to stop"
+msgstr "找不到前往停靠站的路徑"
+
+msgid ""
+"Unable to load. The current save contains content that is not included in "
+"your version."
+msgstr "無法加載。當前存檔包含您的版本中不包含的內容。"
+
+msgid "Unconnected streets"
+msgstr "未連結的街道"
+
+msgid "Understood!"
+msgstr "瞭解"
+
+msgid "Unemployed"
+msgstr "未僱用"
+
+msgid "Uninstall pending"
+msgstr "解除安裝待定中"
+
+msgid "Uninstalling mod"
+msgstr "正在解除安裝模組"
+
+msgid "Unknown"
+msgstr "未知"
+
+msgid "Unknown Entity"
+msgstr "未知實體"
+
+msgid "Unload"
+msgstr "卸貨"
+
+msgid "Unload only"
+msgstr "僅限卸貨"
+
+msgid "Unloaded"
+msgstr "已卸貨"
+
+msgid "Unlock all trophies."
+msgstr "解鎖所有獎盃。"
+
+msgid "Unsaved changes will be lost."
+msgstr "未儲存的變更將會流失。"
+
+msgid "Unsubscribe"
+msgstr "取消訂閱"
+
+msgid "Up"
+msgstr "上"
+
+msgid "Update"
+msgstr "更新"
+
+msgid "Update models"
+msgstr "更新模組"
+
+msgid "Update pending"
+msgstr "更新待定中"
+
+msgid "Upgrade"
+msgstr "升級"
+
+msgid "Upgrade streets with bus lanes."
+msgstr "以公車車道升級街道。"
+
+msgid "Upgrade streets with traffic lights."
+msgstr "以交通號誌燈升級街道。"
+
+msgid "Upgrade streets with tram tracks."
+msgstr "以輕軌電車軌道升級街道。"
+
+msgid "Upgrade tracks for higher speeds."
+msgstr "將軌道升級使其能承受更高速度。"
+
+msgid "Upgrade tracks with catenary."
+msgstr "以高架電車線升級軌道。"
+
+msgid "Upload"
+msgstr "上載"
+
+msgid "Upload Complete"
+msgstr "上傳完成"
+
+msgid "Upload was successful."
+msgstr "上傳成功。"
+
+msgid "Uploaded"
+msgstr "已上傳"
+
+msgid "Uploading mods"
+msgstr "正在上傳模組"
+
+msgid "Uploading..."
+msgstr "上載中..."
+
+msgid "Upper {townName}"
+msgstr "上 {townName}"
+
+msgid "Use <Alt> + <Enter> to toggle between full-screen and windowed mode."
+msgstr "按下 <Alt> + <Enter> 可在全螢幕與視窗化模式間切換。"
+
+msgid "Use default connections"
+msgstr "使用預設連結"
+
+msgid "Use hardware mouse cursor"
+msgstr "使用硬體滑鼠游標"
+
+msgid "Use the <<{horn}>> button to sound the horn"
+msgstr "使用<<{horn}>>按鈕來按喇叭"
+
+msgid ""
+"Use the <<{next}>> and <<{prev}>> buttons to change the position of the "
+"cockpit camera"
+msgstr "使用<<{next}>>與<<{prev}>>按鈕來變更駕駛座攝影視角位置"
+
+msgid "Use the paint tool to change the terrain in free game."
+msgstr "在自由遊戲中使用繪圖工具來改變地形。"
+
+msgid "Use the terrain tool to change the terrain in free game."
+msgstr "在自由遊戲中使用地形工具來改變地形。"
+
+msgid "User interface mode"
+msgstr "使用者介面模式"
+
+msgid "User profile creation failed"
+msgstr "用戶個人檔案創建失敗"
+
+msgid "VSync"
+msgstr "垂直同步"
+
+msgid "Vacant"
+msgstr "空閒的"
+
+msgid "Validation Error"
+msgstr "驗證錯誤"
+
+msgid "Value"
+msgstr "值"
+
+msgid "Vehicle"
+msgstr "載具"
+
+msgid "Vehicle condition"
+msgstr "載具狀況"
+
+msgid "Vehicle condition {percentage}%"
+msgstr "載具狀況 {percentage}%"
+
+msgid "Vehicle in depot"
+msgstr "車庫內具有載具"
+
+msgid "Vehicle in the way"
+msgstr "有載具擋在路上"
+
+msgid "Vehicle lifetime"
+msgstr "載具壽命"
+
+msgid "Vehicle lifetime check interval (minutes)"
+msgstr "載具壽命檢查間隔 (分鐘)"
+
+msgid "Vehicle manager"
+msgstr "載具管理工具"
+
+msgid "Vehicle statistics"
+msgstr "載具數據"
+
+msgid "Vehicle store"
+msgstr "載具商店"
+
+msgid "Vehicle to replace"
+msgstr "有載具可供替換"
+
+msgid "Vehicle will be sold on arrival"
+msgstr "載具會在到達後賣出"
+
+msgid "Vehicles"
+msgstr "載具"
+
+msgid "Vehicles in depot"
+msgstr "車庫內具有載具"
+
+msgid "Vehicles never expire"
+msgstr "載具從不失效"
+
+msgid "Vehicles never expire:"
+msgstr "載具從不失效："
+
+msgid "Vehicles on line"
+msgstr "路線上的載具"
+
+msgid "Vehicles report following problems:"
+msgstr "載具回報了下列問題："
+
+msgid "Vehicles to replace"
+msgstr "有載具可供替換"
+
+msgid "Vehicles:"
+msgstr "載具："
+
+msgid "Very bad"
+msgstr "非常差"
+
+msgid "Very good"
+msgstr "非常好"
+
+msgid "Very high"
+msgstr "非常高"
+
+msgid "Very poor"
+msgstr "非常窮"
+
+msgid "Video"
+msgstr "影像"
+
+msgid "View"
+msgstr "檢視"
+
+msgid "View Statistics"
+msgstr "檢視數據"
+
+msgid "Voice-over"
+msgstr "配音"
+
+msgid "Voice-over {num}"
+msgstr "配音 {num}"
+
+msgid "Volume settings"
+msgstr "音量設定"
+
+msgid "Vulkan"
+msgstr "Vulkan"
+
+msgid "Wagons"
+msgstr "馬車"
+
+msgid "Wait"
+msgstr "等待"
+
+msgid "Waiting for free path"
+msgstr "等待空閒的路徑"
+
+msgid ""
+"Warning: Disabling will remove mod content and replace it with default "
+"assets."
+msgstr "警告：停用後會移除模組內容並替換為預設地上物。"
+
+msgid "Warning: adding this mod may lead to unexpected results."
+msgstr "警告：新增這個模組可能會造成無法預期的結果。"
+
+msgid "Warning: adding this mod will likely cause the game to crash."
+msgstr "警告：新增這個模組可能會使遊戲崩潰。"
+
+msgid ""
+"Warning: video RAM usage critical ({percentage}). The game may close "
+"unexpectedly. It is highly recommended to reduce the texture settings."
+msgstr ""
+"警告：視訊記憶體不足 ({percentage})。遊戲可能會無預警關閉。強烈建議降低紋理設"
+"定。"
+
+msgid "Warnings"
+msgstr "警告"
+
+msgid "Water"
+msgstr "水"
+
+msgid "Water level:"
+msgstr "水位："
+
+msgid "Waypoint #{number}"
+msgstr "路徑點 #{number}"
+
+msgid "Waypoint outside of navigable waters"
+msgstr "路徑點位於適航水域之外"
+
+msgid "Waypoints"
+msgstr "路徑點"
+
+msgid "Weight"
+msgstr "重量"
+
+msgid "Weight %1% + %2% (Cargo)"
+msgstr "重量 %1% + %2% (貨物)"
+
+msgid "Weight units"
+msgstr "重量單位"
+
+msgid "What is mod.io"
+msgstr "什麼是 mod.io？"
+
+msgid "Win"
+msgstr "Win"
+
+msgid "Window settings"
+msgstr "視窗設定"
+
+msgid "Windowed"
+msgstr "視窗化"
+
+msgid "With lines"
+msgstr "乘坐大眾運輸工具"
+
+msgid "Work"
+msgstr "工作"
+
+msgid "Workplaces"
+msgstr "工作場所"
+
+msgid "Write STL"
+msgstr "編寫 STL"
+
+msgid "Write additional STL file with heightmap data"
+msgstr "以高度圖資料編寫額外的 STL 檔案"
+
+msgid "Wrong carrier"
+msgstr "錯誤的運輸工具"
+
+msgid "Year"
+msgstr "年"
+
+msgid "Year built"
+msgstr "建造年份"
+
+msgid "Yes"
+msgstr "是"
+
+msgid "Yesterday, {time}"
+msgstr "昨天，{time}"
+
+msgid "You did it!"
+msgstr "您做到了！"
+
+msgid "You have finished the {campaignName} campaign!"
+msgstr "您完成了 {campaignName} 單人劇情！"
+
+msgid "You have finished {campaignName}"
+msgstr "您已完成了 {campaignName}"
+
+msgid "You may retry the installation attempt or unsubscribe from the mod."
+msgstr "您可以重新嘗試安裝，或是取消訂閱模組。"
+
+msgid "Zoom in to build"
+msgstr "將視角拉近以建造"
+
+msgid "Zoom out from cursor"
+msgstr "從游標處縮小"
+
+msgid "Zoom sensitivity (game camera)"
+msgstr "縮放靈敏度 (遊戲攝影機)"
+
+msgid "Zoom to cursor"
+msgstr "拉近至游標"
+
+msgid "[UserData]/"
+msgstr "[UserData]/"
+
+msgid "[not found] "
+msgstr "[找不到] "
+
+msgid "[{key}] is already used by:"
+msgstr "[{key}] 已用於："
+
+msgid "[{key}] is used by a predefined function and can not be assigned."
+msgstr "[{key}] 已用於預先設定的功能，無法變更。"
+
+msgid "around {mission_year}"
+msgstr "大约 {mission_year}"
+
+msgid "can not reach next"
+msgstr "無法到達下一個車站"
+
+msgctxt "destination"
+msgid "None"
+msgstr "無"
+
+msgctxt "difficulty"
+msgid "Easy"
+msgstr "簡單"
+
+msgctxt "difficulty"
+msgid "Hard"
+msgstr "困難"
+
+msgctxt "difficulty"
+msgid "Medium"
+msgstr "中型"
+
+msgctxt "difficulty"
+msgid "Very hard"
+msgstr "非常困難"
+
+msgctxt "distance-unit"
+msgid "Feet"
+msgstr "英尺"
+
+msgctxt "distance-unit"
+msgid "Mile"
+msgstr "英里"
+
+msgctxt "distance-unit"
+msgid "Yard"
+msgstr "碼"
+
+msgctxt "distance-unit"
+msgid "km"
+msgstr "公里"
+
+msgctxt "distance-unit"
+msgid "m"
+msgstr "公尺"
+
+msgctxt "force-unit"
+msgid "kN"
+msgstr "千牛頓"
+
+msgctxt "force-unit"
+msgid "kgf"
+msgstr "公斤重"
+
+msgctxt "force-unit"
+msgid "lbf"
+msgstr "磅重"
+
+msgid "from %1%"
+msgstr "從 %1%"
+
+msgctxt "game-speed"
+msgid "1/{factor}x"
+msgstr "1/{factor}x"
+
+msgctxt "game-speed"
+msgid "{factor}x"
+msgstr "{factor}x"
+
+msgctxt "gameSpeed"
+msgid "1x"
+msgstr "1x"
+
+msgctxt "gameSpeed"
+msgid "2x"
+msgstr "2x"
+
+msgctxt "gameSpeed"
+msgid "4x"
+msgstr "4x"
+
+msgctxt "graphic-settings"
+msgid "Performance"
+msgstr "表現"
+
+msgctxt "graphic-settings"
+msgid "Quality"
+msgstr "質量"
+
+msgctxt "main station name"
+msgid "{townName}"
+msgstr "{townName}"
+
+msgctxt "map-size"
+msgid "Huge"
+msgstr "龐大"
+
+msgctxt "map-size"
+msgid "Large"
+msgstr "大型"
+
+msgctxt "map-size"
+msgid "Medium"
+msgstr "中型"
+
+msgctxt "map-size"
+msgid "Megalomaniac"
+msgstr "巨大"
+
+msgctxt "map-size"
+msgid "Small"
+msgstr "小型"
+
+msgctxt "map-size"
+msgid "Tiny"
+msgstr "迷你"
+
+msgctxt "map-size"
+msgid "Very Large"
+msgstr "非常大"
+
+msgid "max. wait time"
+msgstr "最大停止時間"
+
+msgid "min. wait time"
+msgstr "最小停止時間"
+
+msgctxt "mod-state"
+msgid "Built-in mods"
+msgstr "內建模組"
+
+msgctxt "mod-state"
+msgid "DLC"
+msgstr "可下載內容"
+
+msgctxt "mod-state"
+msgid "Shared via {}"
+msgstr "已透過 {} 分享"
+
+msgctxt "mod-state"
+msgid "Staging area"
+msgstr "暫存區"
+
+msgctxt "mod-state"
+msgid "Uploaded to Steam Workshop"
+msgstr "上傳至 Steam 工作坊"
+
+msgctxt "mod-state"
+msgid "User mods"
+msgstr "用戶模組"
+
+msgctxt "mod-tags"
+msgid "Airport"
+msgstr "機場"
+
+msgctxt "mod-tags"
+msgid "Animal"
+msgstr "動物"
+
+msgctxt "mod-tags"
+msgid "Asia"
+msgstr "亞洲"
+
+msgctxt "mod-tags"
+msgid "Asset"
+msgstr "地上物"
+
+msgctxt "mod-tags"
+msgid "Bridge"
+msgstr "橋樑"
+
+msgctxt "mod-tags"
+msgid "Brush Asset"
+msgstr "筆刷地上物"
+
+msgctxt "mod-tags"
+msgid "Building"
+msgstr "建築"
+
+msgctxt "mod-tags"
+msgid "Bus"
+msgstr "公車"
+
+msgctxt "mod-tags"
+msgid "Bus Station"
+msgstr "公車站"
+
+msgctxt "mod-tags"
+msgid "Campaign"
+msgstr "單人劇情"
+
+msgctxt "mod-tags"
+msgid "Car"
+msgstr "車"
+
+msgctxt "mod-tags"
+msgid "Cargo Harbor"
+msgstr "貨運港口"
+
+msgctxt "mod-tags"
+msgid "Cargo Station"
+msgstr "貨運站"
+
+msgctxt "mod-tags"
+msgid "Depot"
+msgstr "車庫"
+
+msgctxt "mod-tags"
+msgid "Dry"
+msgstr "乾燥"
+
+msgctxt "mod-tags"
+msgid "Europe"
+msgstr "歐洲"
+
+msgctxt "mod-tags"
+msgid "Industry"
+msgstr "產業"
+
+msgctxt "mod-tags"
+msgid "Localization"
+msgstr "本地化"
+
+msgctxt "mod-tags"
+msgid "Locomotive"
+msgstr "火車頭"
+
+msgctxt "mod-tags"
+msgid "Map"
+msgstr "地圖"
+
+msgctxt "mod-tags"
+msgid "Map/Savegame"
+msgstr "地圖/遊戲存檔"
+
+msgctxt "mod-tags"
+msgid "Misc"
+msgstr "雜項"
+
+msgctxt "mod-tags"
+msgid "Mission"
+msgstr "任務"
+
+msgctxt "mod-tags"
+msgid "Multiple Unit"
+msgstr "列車組"
+
+msgctxt "mod-tags"
+msgid "Passenger Harbor"
+msgstr "客運港口"
+
+msgctxt "mod-tags"
+msgid "Person"
+msgstr "人"
+
+msgctxt "mod-tags"
+msgid "Plane"
+msgstr "飛機"
+
+msgctxt "mod-tags"
+msgid "Railroad Crossing"
+msgstr "鐵道穿越道"
+
+msgctxt "mod-tags"
+msgid "Road Depot"
+msgstr "道路車庫"
+
+msgctxt "mod-tags"
+msgid "Savegame"
+msgstr "遊戲存檔"
+
+msgctxt "mod-tags"
+msgid "Scenario"
+msgstr "場景"
+
+msgctxt "mod-tags"
+msgid "Script Mod"
+msgstr "劇本模組"
+
+msgctxt "mod-tags"
+msgid "Shader"
+msgstr "著色器"
+
+msgctxt "mod-tags"
+msgid "Ship"
+msgstr "船隻"
+
+msgctxt "mod-tags"
+msgid "Shipyard"
+msgstr "船廠"
+
+msgctxt "mod-tags"
+msgid "Signal"
+msgstr "號誌"
+
+msgctxt "mod-tags"
+msgid "Sound"
+msgstr "聲音"
+
+msgctxt "mod-tags"
+msgid "Station"
+msgstr "車站"
+
+msgctxt "mod-tags"
+msgid "Street"
+msgstr "街道"
+
+msgctxt "mod-tags"
+msgid "Street Construction"
+msgstr "街道建築"
+
+msgctxt "mod-tags"
+msgid "Temperate"
+msgstr "溫帶"
+
+msgctxt "mod-tags"
+msgid "Town Building"
+msgstr "城鎮建築"
+
+msgctxt "mod-tags"
+msgid "Track"
+msgstr "軌道"
+
+msgctxt "mod-tags"
+msgid "Track Asset"
+msgstr "軌道地上物"
+
+msgctxt "mod-tags"
+msgid "Track/Street"
+msgstr "軌道/街道"
+
+msgctxt "mod-tags"
+msgid "Train Depot"
+msgstr "列車車庫"
+
+msgctxt "mod-tags"
+msgid "Train Station"
+msgstr "列車站"
+
+msgctxt "mod-tags"
+msgid "Tram"
+msgstr "輕軌電車"
+
+msgctxt "mod-tags"
+msgid "Tram Depot"
+msgstr "輕軌電車車庫"
+
+msgctxt "mod-tags"
+msgid "Tram Station"
+msgstr "輕軌電車站"
+
+msgctxt "mod-tags"
+msgid "Tropical"
+msgstr "熱帶"
+
+msgctxt "mod-tags"
+msgid "Truck"
+msgstr "貨車"
+
+msgctxt "mod-tags"
+msgid "Truck Station"
+msgstr "貨車站"
+
+msgctxt "mod-tags"
+msgid "Tunnel"
+msgstr "隧道"
+
+msgctxt "mod-tags"
+msgid "USA"
+msgstr "美國"
+
+msgctxt "mod-tags"
+msgid "Vehicle"
+msgstr "載具"
+
+msgctxt "mod-tags"
+msgid "Wagon"
+msgstr "馬車"
+
+msgid "mod.io"
+msgstr "mod.io"
+
+msgid "mod.io Terms Of Use"
+msgstr "mod.io 使用條款"
+
+msgid "none"
+msgstr "無"
+
+msgid "not combinable"
+msgstr "無法合併"
+
+msgid "not reachable from previous"
+msgstr "無法從上一個到達"
+
+msgctxt "number-format"
+msgid "Full"
+msgstr "完整"
+
+msgctxt "number-format"
+msgid "Short"
+msgstr "短"
+
+msgctxt "platform"
+msgid "Use your Console-Account"
+msgstr "使用主機帳戶"
+
+msgctxt "platform"
+msgid "Use your Epic Games-Account"
+msgstr "使用 Epic Games 帳戶"
+
+msgctxt "platform"
+msgid "Use your Steam-Account"
+msgstr "使用 Steam 帳戶"
+
+msgctxt "platform"
+msgid "use your GOG-Account"
+msgstr "使用 GOG 帳戶"
+
+msgctxt "platform-pc"
+msgid "Achievement earned"
+msgstr "已獲得成就"
+
+msgctxt "platform-pc"
+msgid "Achievements"
+msgstr "成就"
+
+msgctxt "platform-pc"
+msgid "Achievements can't be earned if the following settings are used:"
+msgstr "當使用這個設定時成就將會停用："
+
+msgctxt "platform-pc"
+msgid ""
+"Achievements cannot be earned in this game because mods are or have been "
+"active."
+msgstr "成就已停用！"
+
+msgctxt "platform-pc"
+msgid "Controller"
+msgstr "控制器"
+
+msgctxt "platform-pc"
+msgid "Controller connected"
+msgstr "控制器已連接"
+
+msgctxt "platform-pc"
+msgid "Controller disconnected"
+msgstr "控制器已中斷連接"
+
+msgctxt "platform-pc"
+msgid "Controller settings"
+msgstr "控制器設定"
+
+msgctxt "platform-pc"
+msgid ""
+"Mods are active or advanced settings are modified. Achievements cannot be "
+"earned!"
+msgstr "成就已停用！"
+
+msgctxt "platform-pc"
+msgid "See Deluxe Edition info"
+msgstr "查看豪華版包資訊"
+
+msgctxt "platform-pc"
+msgid "See your achievements"
+msgstr "查看成就"
+
+msgctxt "platform-pc"
+msgid "Swap sticks (game camera)"
+msgstr "搖桿互換 (遊戲攝影機)"
+
+msgctxt "platform-pc"
+msgid "Swap sticks (menu navigation)"
+msgstr "搖桿互換 (選單導航)"
+
+msgctxt "platform-playstation"
+msgid ""
+"Cheats are active or advanced settings are modified. Trophies cannot be "
+"earned!"
+msgstr "獎盃已停用！"
+
+msgctxt "platform-playstation"
+msgid "Controller"
+msgstr "控制器"
+
+msgctxt "platform-playstation"
+msgid "Controller connected"
+msgstr "控制器已連接"
+
+msgctxt "platform-playstation"
+msgid "Controller disconnected"
+msgstr "控制器已中斷連接"
+
+msgctxt "platform-playstation"
+msgid "Controller settings"
+msgstr "無線控制器"
+
+msgctxt "platform-playstation"
+msgid "Swap sticks (game camera)"
+msgstr "搖桿互換 (遊戲攝影機)"
+
+msgctxt "platform-playstation"
+msgid "Swap sticks (menu navigation)"
+msgstr "搖桿互換 (選單導航)"
+
+msgctxt "platform-playstation"
+msgid "Trophies can't be earned if the following settings are used:"
+msgstr "當使用這個設定時獎盃將會停用："
+
+msgctxt "platform-playstation"
+msgid ""
+"Trophies cannot be earned in this game because cheats are or have been "
+"active."
+msgstr "獎盃已停用！"
+
+msgctxt "platform-xbox"
+msgid "Achievements can't be earned if the following settings are used:"
+msgstr "當使用這個設定時成就將會停用："
+
+msgctxt "platform-xbox"
+msgid ""
+"Achievements cannot be earned in this game because cheats are or have been "
+"active."
+msgstr "成就已停用！"
+
+msgctxt "platform-xbox"
+msgid ""
+"Cheats are active or advanced settings are modified. Achievements cannot be "
+"earned!"
+msgstr "成就已停用！"
+
+msgctxt "platform-xbox"
+msgid "Controller"
+msgstr "控制器"
+
+msgctxt "platform-xbox"
+msgid "Controller connected"
+msgstr "控制器已連接"
+
+msgctxt "platform-xbox"
+msgid "Controller disconnected"
+msgstr "控制器已中斷連接"
+
+msgctxt "platform-xbox"
+msgid "Controller settings"
+msgstr "控制器設定"
+
+msgctxt "platform-xbox"
+msgid "Swap sticks (game camera)"
+msgstr "搖桿互換 (遊戲攝影機)"
+
+msgctxt "platform-xbox"
+msgid "Swap sticks (menu navigation)"
+msgstr "搖桿互換 (選單導航)"
+
+msgctxt "plural"
+msgid "Aircraft"
+msgstr "飛機"
+
+msgctxt "power-unit"
+msgid "hp"
+msgstr "馬力"
+
+msgctxt "power-unit"
+msgid "kW"
+msgstr "千瓦"
+
+msgctxt "settings"
+msgid "Basics"
+msgstr "基礎"
+
+msgctxt "settings"
+msgid "Localization"
+msgstr "本地化"
+
+msgctxt "slope"
+msgid "Flat"
+msgstr "平地"
+
+msgctxt "slope"
+msgid "High"
+msgstr "高"
+
+msgctxt "slope"
+msgid "Medium"
+msgstr "中型"
+
+msgctxt "speed-unit"
+msgid "km/h"
+msgstr "公里/小時"
+
+msgctxt "speed-unit"
+msgid "mph"
+msgstr "英里/小時"
+
+msgctxt "stats"
+msgid "Bulldozer"
+msgstr "推土機"
+
+msgctxt "stats"
+msgid "Depots"
+msgstr "車庫"
+
+msgctxt "stats"
+msgid "Other"
+msgstr "其他"
+
+msgctxt "stats"
+msgid "Roads"
+msgstr "道路"
+
+msgctxt "stats"
+msgid "Signals"
+msgstr "號誌"
+
+msgctxt "stats"
+msgid "Stations"
+msgstr "車站"
+
+msgctxt "stats"
+msgid "Tracks"
+msgstr "軌道"
+
+msgctxt "stop-name"
+msgid "{streetName}"
+msgstr "{streetName}"
+
+msgid "to %1%"
+msgstr "到 %1%"
+
+msgctxt "town-size"
+msgid "Huge"
+msgstr "龐大"
+
+msgctxt "town-size"
+msgid "Large"
+msgstr "大型"
+
+msgctxt "town-size"
+msgid "Medium"
+msgstr "中型"
+
+msgctxt "town-size"
+msgid "Small"
+msgstr "小型"
+
+msgctxt "town-size"
+msgid "Tiny"
+msgstr "迷你"
+
+msgctxt "unemployed-persons"
+msgid "none"
+msgstr "無"
+
+msgid "unknown error"
+msgstr "未知錯誤"
+
+msgid "unlimited"
+msgstr "無限制"
+
+msgctxt "vacant-jobs"
+msgid "none"
+msgstr "無"
+
+msgctxt "value"
+msgid "High"
+msgstr "高"
+
+msgctxt "value"
+msgid "Low"
+msgstr "低"
+
+msgctxt "value"
+msgid "Medium"
+msgstr "中型"
+
+msgctxt "value"
+msgid "Very high"
+msgstr "非常高"
+
+msgctxt "value"
+msgid "Very low"
+msgstr "非常低"
+
+msgctxt "vehicle-size"
+msgid "Large"
+msgstr "大型"
+
+msgctxt "vehicle-size"
+msgid "Small"
+msgstr "小型"
+
+msgid "via"
+msgstr "經由"
+
+msgctxt "weight-unit"
+msgid "kg"
+msgstr "公斤"
+
+msgctxt "weight-unit"
+msgid "lb"
+msgstr "磅"
+
+msgctxt "weight-unit"
+msgid "t/short ton"
+msgstr "噸/短噸"
+
+msgctxt "weight-unit"
+msgid "t/tonne"
+msgstr "噸/公噸"
+
+msgid "{angle} deg field of view"
+msgstr "{angle} 度視野"
+
+msgid "{angle}°"
+msgstr "{angle}°"
+
+msgid "{bytes} B"
+msgstr "{bytes} B"
+
+msgid "{cargoType}: {loadSpeed}x"
+msgstr "{cargoType}: {loadSpeed}x"
+
+msgid "{costs} + {percentage}% (Maintenance)"
+msgstr "{costs} + {percentage}% (維修)"
+
+msgid "{distance} ft"
+msgstr "{distance} 英尺"
+
+msgid "{distance} km"
+msgstr "{distance} 公里"
+
+msgid "{distance} m"
+msgstr "{distance} 公尺"
+
+msgid "{distance} mi"
+msgstr "{distance} 英里"
+
+msgid "{distance} yd"
+msgstr "{distance} 碼"
+
+msgid "{force} kN"
+msgstr "{force} 千牛頓"
+
+msgid "{force} kgf"
+msgstr "{force} 公斤重"
+
+msgid "{force} lbf"
+msgstr "{force} 磅重"
+
+msgid "{framerate} fps"
+msgstr "{framerate} 每秒幀數"
+
+msgid "{gigaBytes} GB"
+msgstr "{gigaBytes} GB"
+
+msgid "{kiloBytes} KB"
+msgstr "{kiloBytes} KB"
+
+msgid "{length} x {width} km, {towns}, {industries}"
+msgstr "{length} x {width} 公里，{towns}，{industries}"
+
+msgid "{loadSpeed}x"
+msgstr "{loadSpeed}x"
+
+msgid "{megaBytes} MB"
+msgstr "{megaBytes} MB"
+
+msgid "{minutes} min"
+msgstr "{minutes} 分"
+
+msgid "{minutes} min {seconds} s"
+msgstr "{minutes} 分 {seconds} 秒"
+
+msgid "{min} - {max}"
+msgstr "{min} - {max}"
+
+msgid "{min} to {max}"
+msgstr "{min} 到 {max}"
+
+msgid "{mission_start_year} - {mission_end_year}"
+msgstr "{mission_start_year} - {mission_end_year}"
+
+msgid "{modBackend}: {message}"
+msgstr "{modBackend}：{message}"
+
+msgid "{numVisibleEntries} / {numTotalEntries}"
+msgstr "{numVisibleEntries} / {numTotalEntries}"
+
+msgid "{number} building will be moved"
+msgid_plural "{number} buildings will be moved"
+msgstr[0] "將移除 {number} 棟建築物"
+msgstr[1] "將移除 {number} 棟建築物"
+
+msgid "{number} building will be removed"
+msgid_plural "{number} buildings will be removed"
+msgstr[0] "將移除 {number} 建築物"
+msgstr[1] "將移除 {number} 建築物"
+
+msgid "{number} field will be removed"
+msgid_plural "{number} fields will be removed"
+msgstr[0] "將移除 {number} 田地"
+msgstr[1] "將移除 {number} 田地"
+
+msgid "{number} models have been replaced successfully."
+msgstr "已成功取代 {number} 個模組。"
+
+msgid "{number} module will be removed"
+msgid_plural "{number} modules will be removed"
+msgstr[0] "將取代 {number} 模組"
+msgstr[1] "將取代 {number} 模組"
+
+msgid "{number} referenced bridge types not found."
+msgstr "找不到 {number} 種橋樑類型。"
+
+msgid "{number} referenced ground textures not found."
+msgstr "找不到 {number} 種地面紋理。"
+
+msgid "{number} referenced materials not found."
+msgstr "找不到 {number} 份參考資料。"
+
+msgid "{number} referenced street types not found."
+msgstr "找不到 {number} 種街道類型。"
+
+msgid "{number} referenced track types not found."
+msgstr "找不到 {number} 種軌道類型。"
+
+msgid "{number} referenced tunnel types not found."
+msgstr "找不到 {number} 種隧道類型。"
+
+msgid "{num} mission"
+msgid_plural "{num} missions"
+msgstr[0] "{num} 任務"
+msgstr[1] "{num} 任務"
+
+msgid "{occupiedSlots} of {maxSlots}"
+msgstr "{occupiedSlots} 的 {maxSlots}"
+
+msgid "{part}/{total}"
+msgstr "{part}/{total}"
+
+msgid "{percentage}% of lifetime ({years} remaining)"
+msgstr "{percentage}% 壽命 (剩下 {years})"
+
+msgid "{percentage}% of {total}"
+msgstr "{total} 之中的 {percentage}%"
+
+msgid "{percentage}% positive"
+msgstr "{percentage}% 好評"
+
+msgid ""
+"{percent} overlength: travel time is {seconds1} s, {seconds2} s allowed!"
+msgstr "{percent} 過長：旅行時間為 {seconds1}，允許 {seconds2} ！"
+
+msgid "{power} hp"
+msgstr "{power} 馬力"
+
+msgid "{power} kW"
+msgstr "{power} 千瓦"
+
+msgid "{prefix}{rating}%"
+msgstr "{prefix}{rating}%"
+
+msgid "{seconds} s"
+msgstr "{seconds} 秒"
+
+msgid "{speed} km/h"
+msgstr "{speed} 公里/小時"
+
+msgid "{speed} mph"
+msgstr "{speed} 英里/小時"
+
+msgid "{steepness}: not enough power!"
+msgstr "{steepness}：動力不足！"
+
+msgid "{supply}/{demand}"
+msgstr "{supply}/{demand}"
+
+msgid "{supply}/{demand} {iconToolTip}"
+msgstr "{supply}/{demand} {iconToolTip}"
+
+msgid "{townName} Airport"
+msgstr "{townName}大型機場"
+
+msgid "{townName} Annex"
+msgstr "{townName} 附屬"
+
+msgid "{townName} Branch"
+msgstr "{townName} 分支"
+
+msgid "{townName} Cargo"
+msgstr "{townName}貨物"
+
+msgid "{townName} Cargo Airport"
+msgstr "{townName}貨運機場"
+
+msgid "{townName} Cargo Port"
+msgstr "{townName}貨物港"
+
+msgid "{townName} Central"
+msgstr "{townName} 中央"
+
+msgid "{townName} East"
+msgstr "{townName} 東"
+
+msgid "{townName} Exchange"
+msgstr "{townName} 交換"
+
+msgid "{townName} Halt"
+msgstr "{townName} 停靠"
+
+msgid "{townName} North"
+msgstr "{townName} 北"
+
+msgid "{townName} Port"
+msgstr "{townName}港"
+
+msgid "{townName} Sidings"
+msgstr "{townName} 側線"
+
+msgid "{townName} Signal #{number}"
+msgstr "{townName} 號誌 #{number}"
+
+msgid "{townName} South"
+msgstr "{townName} 南"
+
+msgid "{townName} Transfer"
+msgstr "{townName} 轉運"
+
+msgid "{townName} Waypoint #{number}"
+msgstr "{townName} 路徑點 #{number}"
+
+msgid "{townName} West"
+msgstr "{townName} 西"
+
+msgid "{townName} {depotName}"
+msgstr "{townName} {depotName}"
+
+msgid "{townName} {depotName} #{number}"
+msgstr "{townName} {depotName} #{number}"
+
+msgid "{townName} {industryName}"
+msgstr "{townName} {industryName}"
+
+msgid "{townName} {industryName} #{number}"
+msgstr "{townName} {industryName} #{number}"
+
+msgid "{townName} {stationName} #{number}"
+msgstr "{townName} {stationName} #{number}"
+
+msgid "{used}/{total}"
+msgstr "{used}/{total}"
+
+msgid "{username} Transport"
+msgstr "{username}運輸"
+
+msgid "{weight} kg"
+msgstr "{weight} 公斤"
+
+msgid "{weight} lb"
+msgstr "{weight} 磅"
+
+msgid "{weight} t"
+msgstr "{weight} 噸"
+
+msgid "{width} x {height}"
+msgstr "{width} x {height}"
+
+msgid "{} (Error code: {code})"
+msgstr "{} (錯誤代碼：{code})"
+
+msgid "{}: Off"
+msgstr "{}：關閉"
+
+msgid "{}: On"
+msgstr "{}：開啟"
